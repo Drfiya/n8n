@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-12-14T21:09:26.580Z",
+  "completeness": {
+    "passed": true,
+    "totalExpected": 434,
+    "totalInMarkdown": 760,
+    "totalInCSV": 434,
+    "missingFromMarkdown": [],
+    "missingFromCSV": [],
+    "extraInMarkdown": [],
+    "extraInCSV": []
+  },
+  "consistency": {
+    "passed": true,
+    "issues": []
+  },
+  "dataQuality": {
+    "passed": true,
+    "emptyFields": [],
+    "invalidCategories": [],
+    "duplicates": [],
+    "longDescriptions": []
+  },
+  "summary": {
+    "totalChecks": 8,
+    "passedChecks": 8,
+    "failedChecks": 0,
+    "warnings": 0
+  }
+}

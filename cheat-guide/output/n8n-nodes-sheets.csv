@@ -1,0 +1,435 @@
+Icon,Node Name,Category,Type,Description,Auth Required,Icon File,Category ID,Is Trigger
+⚡,"ActiveCampaign Trigger","Triggers","Trigger","Handle ActiveCampaign events via webhooks",TRUE,"activeCampaign.svg","trigger",TRUE
+⚡,"Acuity Scheduling Trigger","Triggers","Trigger","Handle Acuity Scheduling events via webhooks",TRUE,"acuityScheduling.png","trigger",TRUE
+⚡,"Affinity Trigger","Triggers","Trigger","Handle Affinity events via webhooks",TRUE,"affinity.svg","trigger",TRUE
+⚡,"Airtable Trigger","Triggers","Trigger","Starts the workflow when Airtable events occur",TRUE,"airtable.svg","trigger",TRUE
+⚡,"AMQP Trigger","Triggers","Trigger","Listens to AMQP 1.0 Messages",TRUE,"amqp.svg","trigger",TRUE
+⚡,"Asana Trigger","Triggers","Trigger","Starts the workflow when Asana events occur.",TRUE,"asana.svg","trigger",TRUE
+⚡,"Autopilot Trigger","Triggers","Trigger","Handle Autopilot events via webhooks",TRUE,"autopilot.svg","trigger",TRUE
+⚡,"AWS SNS Trigger","Triggers","Trigger","Handle AWS SNS events via webhooks",FALSE,"sns.svg","trigger",TRUE
+⚡,"Bitbucket Trigger","Triggers","Trigger","Handle Bitbucket events via webhooks",TRUE,"bitbucket.svg","trigger",TRUE
+⚡,"Box Trigger","Triggers","Trigger","Starts the workflow when Box events occur",TRUE,"box.png","trigger",TRUE
+⚡,"Brevo Trigger","Triggers","Trigger","Starts the workflow when Brevo events occur",TRUE,"brevo.svg","trigger",TRUE
+⚡,"Cal.com Trigger","Triggers","Trigger","Handle Cal.com events via webhooks",TRUE,"cal.svg","trigger",TRUE
+⚡,"Calendly Trigger","Triggers","Trigger","Starts the workflow when Calendly events occur",TRUE,"calendly.svg","trigger",TRUE
+⚡,"Chargebee Trigger","Triggers","Trigger","Starts the workflow when Chargebee events occur",FALSE,"chargebee.png","trigger",TRUE
+⚡,"ClickUp Trigger","Triggers","Trigger","Handle ClickUp events via webhooks (Beta)",TRUE,"clickup.svg","trigger",TRUE
+⚡,"Clockify Trigger","Triggers","Trigger","Listens to Clockify events",TRUE,"clockify.svg","trigger",TRUE
+⚡,"ConvertKit Trigger","Triggers","Trigger","Handle ConvertKit events via webhooks",TRUE,"convertKit.svg","trigger",TRUE
+⚡,"Copper Trigger","Triggers","Trigger","Handle Copper events via webhooks",TRUE,"copper.svg","trigger",TRUE
+⚡,"Cron","Triggers","Trigger","Triggers the workflow at a specific time",FALSE,"fa:clock","trigger",TRUE
+⚡,"Customer.io Trigger","Triggers","Trigger","Starts the workflow on a Customer.io update (Beta)",TRUE,"customerio.svg","trigger",TRUE
+⚡,"Email Trigger (IMAP)","Triggers","Trigger","Triggers the workflow when a new email is received",FALSE,"fa:inbox","trigger",TRUE
+⚡,"Emelia Trigger","Triggers","Trigger","Handle Emelia campaign activity events via webhooks",TRUE,"emelia.svg","trigger",TRUE
+⚡,"Error Trigger","Triggers","Trigger","Triggers the workflow when another workflow has an error",FALSE,"fa:bug","trigger",TRUE
+⚡,"Eventbrite Trigger","Triggers","Trigger","Handle Eventbrite events via webhooks",TRUE,"eventbrite.png","trigger",TRUE
+⚡,"Execute Workflow Trigger","Triggers","Trigger","Helpers for calling other n8n workflows. Used for designing modular, microservice-like workflows.",FALSE,"fa:sign-out-alt","trigger",TRUE
+⚡,"Facebook Lead Ads Trigger","Triggers","Trigger","Handle Facebook Lead Ads events via webhooks",TRUE,"facebook.svg","trigger",TRUE
+⚡,"Facebook Trigger","Triggers","Trigger","Starts the workflow when Facebook events occur",TRUE,"facebook.svg","trigger",TRUE
+⚡,"Figma Trigger (Beta)","Triggers","Trigger","Starts the workflow when Figma events occur",TRUE,"figma.svg","trigger",TRUE
+⚡,"Flow Trigger","Triggers","Trigger","Handle Flow events via webhooks",TRUE,"flow.svg","trigger",TRUE
+⚡,"Form.io Trigger","Triggers","Trigger","Handle form.io events via webhooks",TRUE,"formio.svg","trigger",TRUE
+⚡,"Formstack Trigger","Triggers","Trigger","Starts the workflow on a Formstack form submission.",TRUE,"formstack.svg","trigger",TRUE
+⚡,"GetResponse Trigger","Triggers","Trigger","Starts the workflow when GetResponse events occur",TRUE,"getResponse.png","trigger",TRUE
+⚡,"Github Trigger","Triggers","Trigger","Starts the workflow when Github events occur",TRUE,"github.svg","trigger",TRUE
+⚡,"GitLab Trigger","Triggers","Trigger","Starts the workflow when GitLab events occur",TRUE,"gitlab.svg","trigger",TRUE
+⚡,"Gmail Trigger","Triggers","Trigger","Fetches emails from Gmail and starts the workflow on specified polling intervals.",TRUE,"gmail.svg","trigger",TRUE
+⚡,"Google Business Profile Trigger","Triggers","Trigger","Fetches reviews from Google Business Profile and starts the workflow on specified polling intervals.",TRUE,"googleBusinessProfile.svg","trigger",TRUE
+⚡,"Google Calendar Trigger","Triggers","Trigger","Starts the workflow when Google Calendar events occur",TRUE,"googleCalendar.svg","trigger",TRUE
+⚡,"Google Drive Trigger","Triggers","Trigger","Starts the workflow when Google Drive events occur",TRUE,"googleDrive.svg","trigger",TRUE
+⚡,"Google Sheets Trigger","Triggers","Trigger","Starts the workflow when Google Sheets events occur",TRUE,"googleSheets.svg","trigger",TRUE
+⚡,"Gumroad Trigger","Triggers","Trigger","Handle Gumroad events via webhooks",TRUE,"gumroad.png","trigger",TRUE
+⚡,"Help Scout Trigger","Triggers","Trigger","Starts the workflow when Help Scout events occur",TRUE,"helpScout.svg","trigger",TRUE
+⚡,"HubSpot Trigger","Triggers","Trigger","Starts the workflow when HubSpot events occur",TRUE,"hubspot.svg","trigger",TRUE
+⚡,"Interval","Triggers","Trigger","Triggers the workflow in a given interval",FALSE,"fa:hourglass","trigger",TRUE
+⚡,"Invoice Ninja Trigger","Triggers","Trigger","Starts the workflow when Invoice Ninja events occur",TRUE,"invoiceNinja.svg","trigger",TRUE
+⚡,"Jira Trigger","Triggers","Trigger","Starts the workflow when Jira events occur",TRUE,"jira.svg","trigger",TRUE
+⚡,"Jotform Trigger","Triggers","Trigger","Handle Jotform events via webhooks",TRUE,"jotform.svg","trigger",TRUE
+⚡,"Kafka Trigger","Triggers","Trigger","Consume messages from a Kafka topic",TRUE,"kafka.svg","trigger",TRUE
+⚡,"Keap Trigger","Triggers","Trigger","Starts the workflow when Infusionsoft events occur",TRUE,"keap.png","trigger",TRUE
+⚡,"KoBoToolbox Trigger","Triggers","Trigger","Process KoBoToolbox submissions",TRUE,"koBoToolbox.svg","trigger",TRUE
+⚡,"Lemlist Trigger","Triggers","Trigger","Handle Lemlist events via webhooks",TRUE,"lemlist.svg","trigger",TRUE
+⚡,"Linear Trigger","Triggers","Trigger","Starts the workflow when Linear events occur",TRUE,"linear.svg","trigger",TRUE
+⚡,"Local File Trigger","Triggers","Trigger","Triggers a workflow on file system changes",FALSE,"fa:folder-open","trigger",TRUE
+⚡,"LoneScale Trigger","Triggers","Trigger","Trigger LoneScale Workflow",TRUE,"loneScale.svg","trigger",TRUE
+⚡,"Mailchimp Trigger","Triggers","Trigger","Handle Mailchimp events via webhooks",TRUE,"mailchimp.svg","trigger",TRUE
+⚡,"MailerLite Trigger","Triggers","Trigger","Starts the workflow when MailerLite events occur",FALSE,"MailerLite.svg","trigger",TRUE
+⚡,"Mailjet Trigger","Triggers","Trigger","Handle Mailjet events via webhooks",TRUE,"mailjet.svg","trigger",TRUE
+⚡,"Manual Trigger","Triggers","Trigger","Runs the flow on clicking a button in n8n",FALSE,"fa:mouse-pointer","trigger",TRUE
+⚡,"Mautic Trigger","Triggers","Trigger","Handle Mautic events via webhooks",TRUE,"mautic.svg","trigger",TRUE
+⚡,"Microsoft OneDrive Trigger","Triggers","Trigger","Trigger for Microsoft OneDrive API.",TRUE,"oneDrive.svg","trigger",TRUE
+⚡,"Microsoft Outlook Trigger","Triggers","Trigger","Fetches emails from Microsoft Outlook and starts the workflow on specified polling intervals.",TRUE,"outlook.svg","trigger",TRUE
+⚡,"Microsoft Teams Trigger","Triggers","Trigger","Triggers workflows in n8n based on events from Microsoft Teams, such as new messages or team updates, using specified configurations.",TRUE,"teams.svg","trigger",TRUE
+⚡,"MQTT Trigger","Triggers","Trigger","Listens to MQTT events",TRUE,"mqtt.svg","trigger",TRUE
+⚡,"n8n Form Trigger","Triggers","Trigger","Generate webforms in n8n and pass their responses to the workflow",FALSE,"form.svg","trigger",TRUE
+⚡,"n8n Trigger","Triggers","Trigger","Handle events and perform actions on your n8n instance",FALSE,"n8nTrigger.svg","trigger",TRUE
+⚡,"Netlify Trigger","Triggers","Trigger","Handle netlify events via webhooks",TRUE,"netlify.svg","trigger",TRUE
+⚡,"Notion Trigger","Triggers","Trigger","Starts the workflow when Notion events occur",TRUE,"notion.svg","trigger",TRUE
+⚡,"Onfleet Trigger","Triggers","Trigger","Starts the workflow when Onfleet events occur",TRUE,"Onfleet.svg","trigger",TRUE
+⚡,"PayPal Trigger","Triggers","Trigger","Handle PayPal events via webhooks",TRUE,"paypal.svg","trigger",TRUE
+⚡,"Pipedrive Trigger","Triggers","Trigger","Starts the workflow when Pipedrive events occur",TRUE,"pipedrive.svg","trigger",TRUE
+⚡,"Postgres Trigger","Triggers","Trigger","Listens to Postgres messages",TRUE,"postgres.svg","trigger",TRUE
+⚡,"Postmark Trigger","Triggers","Trigger","Starts the workflow when Postmark events occur",TRUE,"postmark.png","trigger",TRUE
+⚡,"Pushcut Trigger","Triggers","Trigger","Starts the workflow when Pushcut events occur",TRUE,"pushcut.png","trigger",TRUE
+⚡,"RabbitMQ Trigger","Triggers","Trigger","Listens to RabbitMQ messages",TRUE,"rabbitmq.svg","trigger",TRUE
+⚡,"Redis Trigger","Triggers","Trigger","Subscribe to redis channel",TRUE,"redis.svg","trigger",TRUE
+⚡,"RSS Feed Trigger","Triggers","Trigger","Starts a workflow when an RSS feed is updated",FALSE,"fa:rss","trigger",TRUE
+⚡,"Salesforce Trigger","Triggers","Trigger","Fetches data from Salesforce and starts the workflow on specified polling intervals.",TRUE,"salesforce.svg","trigger",TRUE
+⚡,"Schedule Trigger","Triggers","Trigger","Triggers the workflow on a given schedule",FALSE,"fa:clock","trigger",TRUE
+⚡,"SeaTable Trigger","Triggers","Trigger","Starts the workflow when SeaTable events occur",FALSE,"seaTable.svg","trigger",TRUE
+⚡,"Shopify Trigger","Triggers","Trigger","Handle Shopify events via webhooks",TRUE,"shopify.svg","trigger",TRUE
+⚡,"Simulate Trigger","Triggers","Trigger","Simulate a trigger node",FALSE,"fa:arrow-right","trigger",TRUE
+⚡,"Slack Trigger","Triggers","Trigger","Handle Slack events via webhooks",TRUE,"slack.svg","trigger",TRUE
+⚡,"SSE Trigger","Triggers","Trigger","Triggers the workflow when Server-Sent Events occur",FALSE,"fa:cloud-download-alt","trigger",TRUE
+⚡,"Strava Trigger","Triggers","Trigger","Starts the workflow when Strava events occur",TRUE,"strava.svg","trigger",TRUE
+⚡,"Stripe Trigger","Triggers","Trigger","Handle Stripe events via webhooks",TRUE,"stripe.svg","trigger",TRUE
+⚡,"SurveyMonkey Trigger","Triggers","Trigger","Starts the workflow when Survey Monkey events occur",TRUE,"surveyMonkey.svg","trigger",TRUE
+⚡,"Taiga Trigger","Triggers","Trigger","Handle Taiga events via webhook",TRUE,"taiga.svg","trigger",TRUE
+⚡,"Telegram Trigger","Triggers","Trigger","Starts the workflow on a Telegram update",TRUE,"telegram.svg","trigger",TRUE
+⚡,"TheHive 5 Trigger","Triggers","Trigger","Starts the workflow when TheHive events occur",FALSE,"thehiveproject.svg","trigger",TRUE
+⚡,"TheHive Trigger","Triggers","Trigger","Starts the workflow when TheHive events occur",FALSE,"thehive.svg","trigger",TRUE
+⚡,"Toggl Trigger","Triggers","Trigger","Starts the workflow when Toggl events occur",TRUE,"toggl.png","trigger",TRUE
+⚡,"Trello Trigger","Triggers","Trigger","Starts the workflow when Trello events occur",TRUE,"trello.svg","trigger",TRUE
+⚡,"Twilio Trigger","Triggers","Trigger","Starts the workflow on a Twilio update",TRUE,"twilio.svg","trigger",TRUE
+⚡,"Typeform Trigger","Triggers","Trigger","Starts the workflow on a Typeform form submission",TRUE,"typeform.svg","trigger",TRUE
+⚡,"Venafi TLS Protect Cloud Trigger","Triggers","Trigger","Starts the workflow when Venafi events occur",TRUE,"../venafi.svg","trigger",TRUE
+⚡,"Venafi TLS Protect Datacenter Trigger","Triggers","Trigger","Starts the workflow when Venafi events occur",TRUE,"../venafi.svg","trigger",TRUE
+⚡,"Webex by Cisco Trigger","Triggers","Trigger","Starts the workflow when Cisco Webex events occur.",TRUE,"ciscoWebex.png","trigger",TRUE
+⚡,"Webflow Trigger","Triggers","Trigger","Handle Webflow events via webhooks",FALSE,"webflow.svg","trigger",TRUE
+⚡,"Webhook","Triggers","Trigger","Starts the workflow when a webhook is called",FALSE,"webhook.svg","trigger",TRUE
+⚡,"WhatsApp Trigger","Triggers","Trigger","Handle WhatsApp events via webhooks",TRUE,"whatsapp.svg","trigger",TRUE
+⚡,"Wise Trigger","Triggers","Trigger","Handle Wise events via webhooks",TRUE,"wise.svg","trigger",TRUE
+⚡,"WooCommerce Trigger","Triggers","Trigger","Handle WooCommerce events via webhooks",TRUE,"wooCommerce.svg","trigger",TRUE
+⚡,"Workable Trigger","Triggers","Trigger","Starts the workflow when Workable events occur",TRUE,"workable.png","trigger",TRUE
+⚡,"Workflow Trigger","Triggers","Trigger","Triggers based on various lifecycle events, like when a workflow is activated",FALSE,"fa:network-wired","trigger",TRUE
+⚡,"Wufoo Trigger","Triggers","Trigger","Handle Wufoo events via webhooks",TRUE,"wufoo.png","trigger",TRUE
+⚡,"Zendesk Trigger","Triggers","Trigger","Handle Zendesk events via webhooks",TRUE,"zendesk.svg","trigger",TRUE
+🔄,"Action Network","Data Transformation","Action","Consume the Action Network API",TRUE,"actionNetwork.svg","transform",FALSE
+🔄,"ActiveCampaign","Data Transformation","Action","Create and edit data in ActiveCampaign",TRUE,"activeCampaign.svg","transform",FALSE
+🔄,"Adalo","Data Transformation","Action","Consume Adalo API",TRUE,"adalo.svg","transform",FALSE
+🔄,"Aggregate","Data Transformation","Action","Combine a field from many items into a list in a single item",FALSE,"aggregate.svg","transform",FALSE
+🔄,"Agile CRM","Data Transformation","Action","Consume Agile CRM API",TRUE,"agilecrm.png","transform",FALSE
+🔄,"AI Transform","Data Transformation","Action","Modify data based on instructions written in plain english",FALSE,"aitransform.svg","transform",FALSE
+🔄,"Airtop","Data Transformation","Action","Scrape and control any site with Airtop",TRUE,"airtop.svg","transform",FALSE
+🔄,"AMQP Sender","Data Transformation","Action","Sends a raw-message via AMQP 1.0, executed once per item",TRUE,"amqp.svg","transform",FALSE
+🔄,"APITemplate.io","Data Transformation","Action","Consume the APITemplate.io API",TRUE,"apiTemplateIo.svg","transform",FALSE
+🔄,"AWS DynamoDB","Data Transformation","Action","Consume the AWS DynamoDB API",FALSE,"dynamodb.svg","transform",FALSE
+🔄,"Azure Cosmos DB","Data Transformation","Action","Interact with Azure Cosmos DB API",TRUE,,"transform",FALSE
+🔄,"Azure Storage","Data Transformation","Action","Interact with Azure Storage API",TRUE,,"transform",FALSE
+🔄,"BambooHr","Data Transformation","Action","Consume BambooHR API",TRUE,"bambooHr.png","transform",FALSE
+🔄,"Bitwarden","Data Transformation","Action","Consume the Bitwarden API",TRUE,"bitwarden.svg","transform",FALSE
+🔄,"Brevo","Data Transformation","Action","Consume Brevo API",TRUE,"brevo.svg","transform",FALSE
+🔄,"Bubble","Data Transformation","Action","Consume the Bubble Data API",TRUE,"bubble.svg","transform",FALSE
+🔄,"Clockify","Data Transformation","Action","Consume Clockify REST API",TRUE,"clockify.svg","transform",FALSE
+🔄,"Code","Data Transformation","Action","Run custom JavaScript or Python code",FALSE,"code.svg","transform",FALSE
+🔄,"Compare Datasets","Data Transformation","Action","Compare two inputs for changes",FALSE,"compare.svg","transform",FALSE
+🔄,"Compression","Data Transformation","Action","Compress and decompress files",FALSE,"fa:file-archive","transform",FALSE
+🔄,"Convert to/from binary data","Data Transformation","Action","Move data between binary and JSON properties",FALSE,"fa:exchange-alt","transform",FALSE
+🔄,"Copper","Data Transformation","Action","Consume the Copper API",TRUE,"copper.svg","transform",FALSE
+🔄,"Cortex","Data Transformation","Action","Apply the Cortex analyzer/responder on the given entity",TRUE,"cortex.svg","transform",FALSE
+🔄,"Crypto","Data Transformation","Action","Provide cryptographic utilities",FALSE,"fa:key","transform",FALSE
+🔄,"Customer Datastore (n8n training)","Data Transformation","Action","Dummy node used for n8n training",FALSE,,"transform",FALSE
+🔄,"Customer Messenger (n8n training)","Data Transformation","Action","Dummy node used for n8n training",FALSE,,"transform",FALSE
+🔄,"Date & Time","Data Transformation","Action","Allows you to manipulate date and time values",FALSE,"fa:clock","transform",FALSE
+🔄,"Dropcontact","Data Transformation","Action","Find B2B emails and enrich contacts",TRUE,"dropcontact.svg","transform",FALSE
+🔄,"Edit Image","Data Transformation","Action","Edits an image like blur, resize or adding border and text",FALSE,"fa:image","transform",FALSE
+🔄,"Elastic Security","Data Transformation","Action","Consume the Elastic Security API",TRUE,"elasticSecurity.svg","transform",FALSE
+🔄,"Elasticsearch","Data Transformation","Action","Consume the Elasticsearch API",TRUE,"elasticsearch.svg","transform",FALSE
+🔄,"Execute Command","Data Transformation","Action","Executes a command on the host",FALSE,"fa:terminal","transform",FALSE
+🔄,"Execute Sub-workflow","Data Transformation","Action","Execute another workflow",FALSE,"fa:sign-in-alt","transform",FALSE
+🔄,"Facebook Graph API","Data Transformation","Action","Interacts with Facebook using the Graph API",TRUE,"facebook.svg","transform",FALSE
+🔄,"Filter","Data Transformation","Action","Remove items matching a condition",FALSE,"fa:filter","transform",FALSE
+🔄,"Freshservice","Data Transformation","Action","Consume the Freshservice API",TRUE,"freshservice.svg","transform",FALSE
+🔄,"Freshworks CRM","Data Transformation","Action","Consume the Freshworks CRM API",TRUE,"freshworksCrm.svg","transform",FALSE
+🔄,"Function","Data Transformation","Action","Run custom function code which gets executed once and allows you to add, remove, change and replace items",FALSE,"fa:code","transform",FALSE
+🔄,"Function Item","Data Transformation","Action","Run custom function code which gets executed once per item",FALSE,"fa:code","transform",FALSE
+🔄,"Git","Data Transformation","Action","Control git.",TRUE,"git.svg","transform",FALSE
+🔄,"Gmail","Data Transformation","Action","Consume the Gmail API",FALSE,"gmail.svg","transform",FALSE
+🔄,"Gong","Data Transformation","Action","Interact with Gong API",TRUE,"gong.svg","transform",FALSE
+🔄,"Google Ads","Data Transformation","Action","Use the Google Ads API",TRUE,"googleAds.svg","transform",FALSE
+🔄,"Google Analytics","Data Transformation","Action","Use the Google Analytics API",FALSE,"analytics.svg","transform",FALSE
+🔄,"Google Cloud Storage","Data Transformation","Action","Use the Google Cloud Storage API",TRUE,"googleCloudStorage.svg","transform",FALSE
+🔄,"Google Perspective","Data Transformation","Action","Consume Google Perspective API",TRUE,"googlePerspective.svg","transform",FALSE
+🔄,"GoToWebinar","Data Transformation","Action","Consume the GoToWebinar API",TRUE,"gotowebinar.svg","transform",FALSE
+🔄,"Grafana","Data Transformation","Action","Consume the Grafana API",TRUE,"grafana.svg","transform",FALSE
+🔄,"Hacker News","Data Transformation","Action","Consume Hacker News API",FALSE,"hackernews.png","transform",FALSE
+🔄,"HighLevel","Data Transformation","Action","Consume HighLevel API",FALSE,"highLevel.svg","transform",FALSE
+🔄,"HTML","Data Transformation","Action","Work with HTML",FALSE,"html.svg","transform",FALSE
+🔄,"HTML Extract","Data Transformation","Action","Extracts data from HTML",FALSE,"fa:cut","transform",FALSE
+🔄,"If","Data Transformation","Action","Route items to different branches (true/false)",FALSE,"fa:map-signs","transform",FALSE
+🔄,"Jina AI","Data Transformation","Action","Interact with Jina AI API",TRUE,,"transform",FALSE
+🔄,"JWT","Data Transformation","Action","JWT",TRUE,"jwt.svg","transform",FALSE
+🔄,"Kafka","Data Transformation","Action","Sends messages to a Kafka topic",TRUE,"kafka.svg","transform",FALSE
+🔄,"KoBoToolbox","Data Transformation","Action","Work with KoBoToolbox forms and submissions",TRUE,"koBoToolbox.svg","transform",FALSE
+🔄,"Ldap","Data Transformation","Action","Interact with LDAP servers",TRUE,"ldap.svg","transform",FALSE
+🔄,"Lemlist","Data Transformation","Action","Consume the Lemlist API",FALSE,"lemlist.svg","transform",FALSE
+🔄,"Limit","Data Transformation","Action","Restrict the number of items",FALSE,"limit.svg","transform",FALSE
+🔄,"LoneScale","Data Transformation","Action","Create List, add / delete items",TRUE,"loneScale.svg","transform",FALSE
+🔄,"Mailcheck","Data Transformation","Action","Consume Mailcheck API",TRUE,"mailcheck.svg","transform",FALSE
+🔄,"Marketstack","Data Transformation","Action","Consume Marketstack API",TRUE,"marketstack.svg","transform",FALSE
+🔄,"Merge","Data Transformation","Action","Merges data of multiple streams once data from both is available",FALSE,"merge.svg","transform",FALSE
+🔄,"Metabase","Data Transformation","Action","Use the Metabase API",TRUE,"metabase.svg","transform",FALSE
+🔄,"Microsoft Entra ID","Data Transformation","Action","Interact with Microsoft Entra ID API",TRUE,,"transform",FALSE
+🔄,"Microsoft Graph Security","Data Transformation","Action","Consume the Microsoft Graph Security API",TRUE,"microsoftGraph.svg","transform",FALSE
+🔄,"Microsoft Outlook","Data Transformation","Action","Consume Microsoft Outlook API",FALSE,"outlook.svg","transform",FALSE
+🔄,"Microsoft SharePoint","Data Transformation","Action","Interact with Microsoft SharePoint API",TRUE,,"transform",FALSE
+🔄,"MISP","Data Transformation","Action","Consume the MISP API",TRUE,"misp.svg","transform",FALSE
+🔄,"Mistral AI","Data Transformation","Action","Consume Mistral AI API",TRUE,,"transform",FALSE
+🔄,"Mocean","Data Transformation","Action","Send SMS and voice messages via Mocean",TRUE,"mocean.svg","transform",FALSE
+🔄,"Monica CRM","Data Transformation","Action","Consume the Monica CRM API",TRUE,"monicaCrm.png","transform",FALSE
+🔄,"MSG91","Data Transformation","Action","Sends transactional SMS via MSG91",TRUE,"msg91.svg","transform",FALSE
+🔄,"n8n","Data Transformation","Action","Handle events and perform actions on your n8n instance",TRUE,"n8n.svg","transform",FALSE
+🔄,"NASA","Data Transformation","Action","Retrieve data from the NASA API",TRUE,"nasa.png","transform",FALSE
+🔄,"Netlify","Data Transformation","Action","Consume Netlify API",TRUE,"netlify.svg","transform",FALSE
+🔄,"Odoo","Data Transformation","Action","Consume Odoo API",TRUE,"odoo.svg","transform",FALSE
+🔄,"Okta","Data Transformation","Action","Use the Okta API",TRUE,"Okta.svg","transform",FALSE
+🔄,"One Simple API","Data Transformation","Action","A toolbox of no-code utilities",TRUE,"onesimpleapi.svg","transform",FALSE
+🔄,"OpenAI","Data Transformation","Action","Consume Open AI",TRUE,"openAi.svg","transform",FALSE
+🔄,"Perplexity","Data Transformation","Action","Interact with the Perplexity API to generate AI responses with citations",TRUE,,"transform",FALSE
+🔄,"Pipedrive","Data Transformation","Action","Create and edit data in Pipedrive",TRUE,"pipedrive.svg","transform",FALSE
+🔄,"Plivo","Data Transformation","Action","Send SMS/MMS messages or make phone calls",TRUE,"plivo.svg","transform",FALSE
+🔄,"PostBin","Data Transformation","Action","Consume PostBin API",FALSE,"postbin.svg","transform",FALSE
+🔄,"QuickBooks Online","Data Transformation","Action","Consume the QuickBooks Online API",TRUE,"quickbooks.svg","transform",FALSE
+🔄,"RabbitMQ","Data Transformation","Action","Sends messages to a RabbitMQ topic",TRUE,"rabbitmq.svg","transform",FALSE
+🔄,"Raindrop","Data Transformation","Action","Consume the Raindrop API",TRUE,"raindrop.svg","transform",FALSE
+🔄,"Reddit","Data Transformation","Action","Consume the Reddit API",TRUE,"reddit.svg","transform",FALSE
+🔄,"Remove Duplicates","Data Transformation","Action","Delete items with matching field values",FALSE,"removeDuplicates.svg","transform",FALSE
+🔄,"Rename Keys","Data Transformation","Action","Update item field names",FALSE,"fa:edit","transform",FALSE
+🔄,"Respond to Webhook","Data Transformation","Action","Returns data for Webhook",TRUE,"webhook.svg","transform",FALSE
+🔄,"Rundeck","Data Transformation","Action","Manage Rundeck API",TRUE,"rundeck.png","transform",FALSE
+🔄,"SecurityScorecard","Data Transformation","Action","Consume SecurityScorecard API",TRUE,"securityScorecard.svg","transform",FALSE
+🔄,"SendGrid","Data Transformation","Action","Consume SendGrid API",TRUE,"sendGrid.svg","transform",FALSE
+🔄,"seven","Data Transformation","Action","Send SMS and make text-to-speech calls",TRUE,"seven.svg","transform",FALSE
+🔄,"SIGNL4","Data Transformation","Action","Consume SIGNL4 API",TRUE,"signl4.png","transform",FALSE
+🔄,"Sort","Data Transformation","Action","Change items order",FALSE,"sort.svg","transform",FALSE
+🔄,"Split Out","Data Transformation","Action","Turn a list inside item(s) into separate items",FALSE,"splitOut.svg","transform",FALSE
+🔄,"Splunk","Data Transformation","Action","Consume the Splunk Enterprise API",FALSE,"splunk.svg","transform",FALSE
+🔄,"Spreadsheet File","Data Transformation","Action","Reads and writes data from a spreadsheet file like CSV, XLS, ODS, etc",FALSE,"fa:table","transform",FALSE
+🔄,"Stackby","Data Transformation","Action","Read, write, and delete data in Stackby",TRUE,"stackby.png","transform",FALSE
+🔄,"Stripe","Data Transformation","Action","Consume the Stripe API",TRUE,"stripe.svg","transform",FALSE
+🔄,"Summarize","Data Transformation","Action","Sum, count, max, etc. across items",FALSE,"summarize.svg","transform",FALSE
+🔄,"Switch","Data Transformation","Action","Route items depending on defined expression or rules",FALSE,"fa:map-signs","transform",FALSE
+🔄,"Taiga","Data Transformation","Action","Consume Taiga API",TRUE,"taiga.svg","transform",FALSE
+🔄,"Tapfiliate","Data Transformation","Action","Consume Tapfiliate API",TRUE,"tapfiliate.svg","transform",FALSE
+🔄,"TheHive","Data Transformation","Action","Consume TheHive API",TRUE,"thehive.svg","transform",FALSE
+🔄,"TheHive 5","Data Transformation","Action","Consume TheHive 5 API",TRUE,"thehiveproject.svg","transform",FALSE
+🔄,"TOTP","Data Transformation","Action","Generate a time-based one-time password",TRUE,"fa:fingerprint","transform",FALSE
+🔄,"Trello","Data Transformation","Action","Create, change and delete boards and cards",TRUE,"trello.svg","transform",FALSE
+🔄,"Twake","Data Transformation","Action","Consume Twake API",TRUE,"twake.png","transform",FALSE
+🔄,"Twilio","Data Transformation","Action","Send SMS and WhatsApp messages or make phone calls",TRUE,"twilio.svg","transform",FALSE
+🔄,"Unleashed Software","Data Transformation","Action","Consume Unleashed Software API",TRUE,"unleashedSoftware.png","transform",FALSE
+🔄,"urlscan.io","Data Transformation","Action","Provides various utilities for monitoring websites like health checks or screenshots",TRUE,"urlScanIo.svg","transform",FALSE
+🔄,"Webex by Cisco","Data Transformation","Action","Consume the Cisco Webex API",TRUE,"ciscoWebex.png","transform",FALSE
+🔄,"Webflow","Data Transformation","Action","Consume the Webflow API",FALSE,"webflow.svg","transform",FALSE
+🔄,"Wekan","Data Transformation","Action","Consume Wekan API",TRUE,"wekan.svg","transform",FALSE
+🔄,"Wise","Data Transformation","Action","Consume the Wise API",TRUE,"wise.svg","transform",FALSE
+🔄,"XML","Data Transformation","Action","Convert data from and to XML",FALSE,"fa:file-code","transform",FALSE
+🔄,"Zoho CRM","Data Transformation","Action","Consume Zoho CRM API",TRUE,"zoho.svg","transform",FALSE
+📥,"Airtable","Data Sources","Action","Read, update, write and delete data from Airtable",FALSE,"airtable.svg","input",FALSE
+📥,"Asana","Data Sources","Action","Consume Asana REST API",TRUE,"asana.svg","input",FALSE
+📥,"Autopilot","Data Sources","Action","Consume Autopilot API",TRUE,"autopilot.svg","input",FALSE
+📥,"Box","Data Sources","Action","Consume Box API",TRUE,"box.png","input",FALSE
+📥,"Chargebee","Data Sources","Action","Retrieve data from Chargebee API",TRUE,"chargebee.png","input",FALSE
+📥,"Cloudflare","Data Sources","Action","Consume Cloudflare API",TRUE,"cloudflare.svg","input",FALSE
+📥,"Contentful","Data Sources","Action","Consume Contentful API",TRUE,"contentful.png","input",FALSE
+📥,"Convert to File","Data Sources","Action","Convert JSON data to binary data",FALSE,"convertToFile.svg","input",FALSE
+📥,"ConvertKit","Data Sources","Action","Consume ConvertKit API",TRUE,"convertKit.svg","input",FALSE
+📥,"CrateDB","Data Sources","Action","Add and update data in CrateDB",TRUE,"cratedb.png","input",FALSE
+📥,"Data table","Data Sources","Action","Permanently save data across workflow executions in a table",FALSE,"fa:table","input",FALSE
+📥,"DeepL","Data Sources","Action","Translate data using DeepL",TRUE,"deepl.svg","input",FALSE
+📥,"DHL","Data Sources","Action","Consume DHL API",TRUE,"dhl.svg","input",FALSE
+📥,"Discourse","Data Sources","Action","Consume Discourse API",TRUE,"discourse.svg","input",FALSE
+📥,"Disqus","Data Sources","Action","Access data on Disqus",TRUE,"disqus.png","input",FALSE
+📥,"Dropbox","Data Sources","Action","Access data on Dropbox",TRUE,"dropbox.svg","input",FALSE
+📥,"Emelia","Data Sources","Action","Consume the Emelia API",TRUE,"emelia.svg","input",FALSE
+📥,"Execution Data","Data Sources","Action","Add execution data for search",FALSE,"fa:tasks","input",FALSE
+📥,"Extract from File","Data Sources","Action","Convert binary data to JSON",FALSE,"extractFromFile.svg","input",FALSE
+📥,"FileMaker","Data Sources","Action","Retrieve data from the FileMaker data API",TRUE,"filemaker.png","input",FALSE
+📥,"FTP","Data Sources","Action","Transfer files via FTP or SFTP",TRUE,"fa:server","input",FALSE
+📥,"GetResponse","Data Sources","Action","Consume GetResponse API",TRUE,"getResponse.png","input",FALSE
+📥,"Ghost","Data Sources","Action","Consume Ghost API",TRUE,"ghost.svg","input",FALSE
+📥,"GitHub","Data Sources","Action","Consume GitHub API",TRUE,,"input",FALSE
+📥,"GitLab","Data Sources","Action","Retrieve data from GitLab API",TRUE,"gitlab.svg","input",FALSE
+📥,"Google BigQuery","Data Sources","Action","Consume Google BigQuery API",FALSE,"googleBigQuery.svg","input",FALSE
+📥,"Google Books","Data Sources","Action","Read data from Google Books",TRUE,"googlebooks.svg","input",FALSE
+📥,"Google Business Profile","Data Sources","Action","Consume Google Business Profile API",TRUE,"googleBusinessProfile.svg","input",FALSE
+📥,"Google Calendar","Data Sources","Action","Consume Google Calendar API",TRUE,"googleCalendar.svg","input",FALSE
+📥,"Google Chat","Data Sources","Action","Consume Google Chat API",TRUE,"googleChat.svg","input",FALSE
+📥,"Google Cloud Firestore","Data Sources","Action","Interact with Google Firebase - Cloud Firestore API",TRUE,"googleFirebaseCloudFirestore.png","input",FALSE
+📥,"Google Cloud Natural Language","Data Sources","Action","Consume Google Cloud Natural Language API",TRUE,"googlecloudnaturallanguage.png","input",FALSE
+📥,"Google Cloud Realtime Database","Data Sources","Action","Interact with Google Firebase - Realtime Database API",TRUE,"googleFirebaseRealtimeDatabase.svg","input",FALSE
+📥,"Google Contacts","Data Sources","Action","Consume Google Contacts API",TRUE,"googleContacts.png","input",FALSE
+📥,"Google Docs","Data Sources","Action","Consume Google Docs API.",TRUE,"googleDocs.svg","input",FALSE
+📥,"Google Drive","Data Sources","Action","Access data on Google Drive",FALSE,"googleDrive.svg","input",FALSE
+📥,"Google Sheets","Data Sources","Action","Read, update and write data to Google Sheets",FALSE,"googleSheets.svg","input",FALSE
+📥,"Google Slides","Data Sources","Action","Consume the Google Slides API",TRUE,"googleslides.svg","input",FALSE
+📥,"Google Tasks","Data Sources","Action","Consume Google Tasks API",TRUE,"googleTasks.svg","input",FALSE
+📥,"Google Translate","Data Sources","Action","Translate data using Google Translate",TRUE,"googletranslate.png","input",FALSE
+📥,"Google Workspace Admin","Data Sources","Action","Consume Google Workspace Admin API",TRUE,"gSuiteAdmin.svg","input",FALSE
+📥,"Gotify","Data Sources","Action","Consume Gotify API",TRUE,"gotify.png","input",FALSE
+📥,"GraphQL","Data Sources","Action","Makes a GraphQL request and returns the received data",TRUE,"graphql.png","input",FALSE
+📥,"Grist","Data Sources","Action","Consume the Grist API",TRUE,"grist.svg","input",FALSE
+📥,"HaloPSA","Data Sources","Action","Consume HaloPSA API",TRUE,"halopsa.svg","input",FALSE
+📥,"Harvest","Data Sources","Action","Access data on Harvest",TRUE,"harvest.png","input",FALSE
+📥,"Help Scout","Data Sources","Action","Consume Help Scout API",TRUE,"helpScout.svg","input",FALSE
+📥,"iCalendar","Data Sources","Action","Create iCalendar file",FALSE,"fa:calendar","input",FALSE
+📥,"Item Lists","Data Sources","Action","Helper for working with lists of items and transforming arrays",FALSE,"itemLists.svg","input",FALSE
+📥,"Iterable","Data Sources","Action","Consume Iterable API",TRUE,"iterable.png","input",FALSE
+📥,"Keap","Data Sources","Action","Consume Keap API",TRUE,"keap.png","input",FALSE
+📥,"Line","Data Sources","Action","Consume Line API",TRUE,"line.png","input",FALSE
+📥,"LinkedIn","Data Sources","Action","Consume LinkedIn API",TRUE,"linkedin.svg","input",FALSE
+📥,"Magento 2","Data Sources","Action","Consume Magento API",TRUE,"magento.svg","input",FALSE
+📥,"MailerLite","Data Sources","Action","Consume MailerLite API",FALSE,"MailerLite.svg","input",FALSE
+📥,"Microsoft Dynamics CRM","Data Sources","Action","Consume Microsoft Dynamics CRM API",TRUE,"microsoftDynamicsCrm.svg","input",FALSE
+📥,"Microsoft Excel 365","Data Sources","Action","Consume Microsoft Excel API",FALSE,"excel.svg","input",FALSE
+📥,"Microsoft OneDrive","Data Sources","Action","Consume Microsoft OneDrive API",TRUE,"oneDrive.svg","input",FALSE
+📥,"Microsoft SQL","Data Sources","Action","Get, add and update data in Microsoft SQL",TRUE,"mssql.svg","input",FALSE
+📥,"Microsoft Teams","Data Sources","Action","Consume Microsoft Teams API",FALSE,"teams.svg","input",FALSE
+📥,"Microsoft To Do","Data Sources","Action","Consume Microsoft To Do API.",TRUE,"todo.svg","input",FALSE
+📥,"Mindee","Data Sources","Action","Consume Mindee API",TRUE,"mindee.svg","input",FALSE
+📥,"MongoDB","Data Sources","Action","Find, insert and update documents in MongoDB",TRUE,"mongodb.svg","input",FALSE
+📥,"MQTT","Data Sources","Action","Push messages to MQTT",TRUE,"mqtt.svg","input",FALSE
+📥,"MySQL","Data Sources","Action","Get, add and update data in MySQL",FALSE,"mysql.svg","input",FALSE
+📥,"n8n Form","Data Sources","Action","Generate webforms in n8n and pass their responses to the workflow",FALSE,"form.svg","input",FALSE
+📥,"Nextcloud","Data Sources","Action","Access data on Nextcloud",TRUE,"nextcloud.svg","input",FALSE
+📥,"NocoDB","Data Sources","Action","Read, update, write and delete data from NocoDB",TRUE,"nocodb.svg","input",FALSE
+📥,"Npm","Data Sources","Action","Consume NPM registry API",TRUE,"npm.svg","input",FALSE
+📥,"Onfleet","Data Sources","Action","Consume Onfleet API",TRUE,"Onfleet.svg","input",FALSE
+📥,"OpenWeatherMap","Data Sources","Action","Gets current and future weather information",TRUE,"openWeatherMap.svg","input",FALSE
+📥,"Oracle Database","Data Sources","Action","Get, add and update data in Oracle database",TRUE,"oracle.svg","input",FALSE
+📥,"Phantombuster","Data Sources","Action","Consume Phantombuster API",TRUE,"phantombuster.png","input",FALSE
+📥,"Philips Hue","Data Sources","Action","Consume Philips Hue API",TRUE,"philipshue.png","input",FALSE
+📥,"Postgres","Data Sources","Action","Get, add and update data in Postgres",FALSE,"postgres.svg","input",FALSE
+📥,"PostHog","Data Sources","Action","Consume PostHog API",TRUE,"postHog.svg","input",FALSE
+📥,"Pushbullet","Data Sources","Action","Consume Pushbullet API",TRUE,"pushbullet.svg","input",FALSE
+📥,"Pushcut","Data Sources","Action","Consume Pushcut API",TRUE,"pushcut.png","input",FALSE
+📥,"Pushover","Data Sources","Action","Consume Pushover API",TRUE,"pushover.svg","input",FALSE
+📥,"QuestDB","Data Sources","Action","Get, add and update data in QuestDB",TRUE,"questdb.png","input",FALSE
+📥,"Quick Base","Data Sources","Action","Integrate with the Quick Base RESTful API",TRUE,"quickbase.png","input",FALSE
+📥,"Read Binary File","Data Sources","Action","Reads a binary file from disk",FALSE,"fa:file-import","input",FALSE
+📥,"Read Binary Files","Data Sources","Action","Reads binary files from disk",FALSE,"fa:file-import","input",FALSE
+📥,"Read PDF","Data Sources","Action","Reads a PDF and extracts its content",FALSE,"fa:file-pdf","input",FALSE
+📥,"Read/Write Files from Disk","Data Sources","Action","Read or write files from the computer that runs n8n",FALSE,"readWriteFile.svg","input",FALSE
+📥,"Redis","Data Sources","Action","Get, send and update data in Redis",TRUE,"redis.svg","input",FALSE
+📥,"RSS Read","Data Sources","Action","Reads data from an RSS Feed",FALSE,"fa:rss","input",FALSE
+📥,"Sendy","Data Sources","Action","Consume Sendy API",TRUE,"sendy.png","input",FALSE
+📥,"Set","Data Sources","Action","Add or edit fields on an input item and optionally remove other fields",FALSE,"fa:pen","input",FALSE
+📥,"Snowflake","Data Sources","Action","Get, add and update data in Snowflake",TRUE,"snowflake.svg","input",FALSE
+📥,"Spotify","Data Sources","Action","Access public song data via the Spotify API",TRUE,"spotify.svg","input",FALSE
+📥,"SSH","Data Sources","Action","Execute commands via SSH",TRUE,"fa:terminal","input",FALSE
+📥,"Start","Data Sources","Action","Starts the workflow execution from this node",FALSE,"fa:play","input",FALSE
+📥,"Sticky Note","Data Sources","Action","Make your workflow easier to understand",FALSE,"fa:sticky-note","input",FALSE
+📥,"Stop and Error","Data Sources","Action","Throw an error in the workflow",FALSE,"fa:exclamation-triangle","input",FALSE
+📥,"Strapi","Data Sources","Action","Consume Strapi API",TRUE,"strapi.svg","input",FALSE
+📥,"Strava","Data Sources","Action","Consume Strava API",TRUE,"strava.svg","input",FALSE
+📥,"Supabase","Data Sources","Action","Add, get, delete and update data in a table",TRUE,"supabase.svg","input",FALSE
+📥,"TimescaleDB","Data Sources","Action","Add and update data in TimescaleDB",TRUE,"timescaleDb.svg","input",FALSE
+📥,"Twist","Data Sources","Action","Consume Twist API",TRUE,"twist.png","input",FALSE
+📥,"Venafi TLS Protect Cloud","Data Sources","Action","Consume Venafi TLS Protect Cloud API",TRUE,"../venafi.svg","input",FALSE
+📥,"Venafi TLS Protect Datacenter","Data Sources","Action","Consume Venafi TLS Protect Datacenter",TRUE,"../venafi.svg","input",FALSE
+📥,"Vonage","Data Sources","Action","Consume Vonage API",TRUE,"vonage.svg","input",FALSE
+📥,"Yourls","Data Sources","Action","Consume Yourls API",TRUE,"yourls.png","input",FALSE
+📥,"YouTube","Data Sources","Action","Consume YouTube API",TRUE,"youTube.png","input",FALSE
+📥,"Zammad","Data Sources","Action","Consume the Zammad API",TRUE,"zammad.svg","input",FALSE
+📥,"Zoom","Data Sources","Action","Consume Zoom API",TRUE,"zoom.svg","input",FALSE
+📤,"Affinity","Data Destinations","Action","Consume Affinity API",TRUE,"affinity.svg","output",FALSE
+📤,"AWS Certificate Manager","Data Destinations","Action","Sends data to AWS Certificate Manager",FALSE,"acm.svg","output",FALSE
+📤,"AWS Cognito","Data Destinations","Action","Sends data to AWS Cognito",TRUE,,"output",FALSE
+📤,"AWS Comprehend","Data Destinations","Action","Sends data to Amazon Comprehend",FALSE,"comprehend.svg","output",FALSE
+📤,"AWS ELB","Data Destinations","Action","Sends data to AWS ELB API",FALSE,"elb.svg","output",FALSE
+📤,"AWS IAM","Data Destinations","Action","Interacts with Amazon IAM",TRUE,"AwsIam.svg","output",FALSE
+📤,"AWS Lambda","Data Destinations","Action","Invoke functions on AWS Lambda",FALSE,"lambda.svg","output",FALSE
+📤,"AWS Rekognition","Data Destinations","Action","Sends data to AWS Rekognition",FALSE,"rekognition.svg","output",FALSE
+📤,"AWS SES","Data Destinations","Action","Sends data to AWS SES",FALSE,"ses.svg","output",FALSE
+📤,"AWS SNS","Data Destinations","Action","Sends data to AWS SNS",FALSE,"sns.svg","output",FALSE
+📤,"AWS SQS","Data Destinations","Action","Sends messages to AWS SQS",FALSE,"sqs.svg","output",FALSE
+📤,"AWS Textract","Data Destinations","Action","Sends data to Amazon Textract",FALSE,"textract.svg","output",FALSE
+📤,"AWS Transcribe","Data Destinations","Action","Sends data to AWS Transcribe",TRUE,"transcribe.svg","output",FALSE
+📤,"AwsS3","Data Destinations","Action","Sends data to AWS S3",FALSE,"s3.svg","output",FALSE
+📤,"Bannerbear","Data Destinations","Action","Consume Bannerbear API",TRUE,"bannerbear.png","output",FALSE
+📤,"Baserow","Data Destinations","Action","Consume the Baserow API",TRUE,"baserow.svg","output",FALSE
+📤,"Beeminder","Data Destinations","Action","Consume Beeminder API",TRUE,"beeminder.png","output",FALSE
+📤,"Bitly","Data Destinations","Action","Consume Bitly API",TRUE,"bitly.svg","output",FALSE
+📤,"Brandfetch","Data Destinations","Action","Consume Brandfetch API",TRUE,"brandfetch.png","output",FALSE
+📤,"CircleCI","Data Destinations","Action","Consume CircleCI API",TRUE,"circleCi.svg","output",FALSE
+📤,"Clearbit","Data Destinations","Action","Consume Clearbit API",TRUE,"clearbit.svg","output",FALSE
+📤,"ClickUp","Data Destinations","Action","Consume ClickUp API (Beta)",TRUE,"clickup.svg","output",FALSE
+📤,"Cockpit","Data Destinations","Action","Consume Cockpit API",TRUE,"cockpit.svg","output",FALSE
+📤,"Coda","Data Destinations","Action","Consume Coda API",TRUE,"coda.svg","output",FALSE
+📤,"CoinGecko","Data Destinations","Action","Consume CoinGecko API",FALSE,"coinGecko.svg","output",FALSE
+📤,"Customer.io","Data Destinations","Action","Consume Customer.io API",TRUE,"customerio.svg","output",FALSE
+📤,"DebugHelper","Data Destinations","Action","Causes problems intentionally and generates useful data for debugging",FALSE,"DebugHelper.svg","output",FALSE
+📤,"Demio","Data Destinations","Action","Consume the Demio API",TRUE,"demio.svg","output",FALSE
+📤,"Discord","Data Destinations","Action","Sends data to Discord",FALSE,"discord.svg","output",FALSE
+📤,"Drift","Data Destinations","Action","Consume Drift API",TRUE,"drift.svg","output",FALSE
+📤,"E-goi","Data Destinations","Action","Consume E-goi API",TRUE,"egoi.svg","output",FALSE
+📤,"E2E Test","Data Destinations","Action","Dummy node used for e2e testing",FALSE,"fa:play","output",FALSE
+📤,"ERPNext","Data Destinations","Action","Consume ERPNext API",TRUE,"erpnext.svg","output",FALSE
+📤,"Flow","Data Destinations","Action","Consume Flow API",TRUE,"flow.svg","output",FALSE
+📤,"Freshdesk","Data Destinations","Action","Consume Freshdesk API",TRUE,"freshdesk.svg","output",FALSE
+📤,"Home Assistant","Data Destinations","Action","Consume Home Assistant API",TRUE,"homeAssistant.svg","output",FALSE
+📤,"HTTP Request","Data Destinations","Action","Makes an HTTP request and returns the response data",FALSE,"httprequest.svg","output",FALSE
+📤,"HubSpot","Data Destinations","Action","Consume HubSpot API",FALSE,"hubspot.svg","output",FALSE
+📤,"Humantic AI","Data Destinations","Action","Consume Humantic AI API",TRUE,"humanticai.svg","output",FALSE
+📤,"Hunter","Data Destinations","Action","Consume Hunter API",TRUE,"hunter.png","output",FALSE
+📤,"Intercom","Data Destinations","Action","Consume Intercom API",TRUE,"intercom.svg","output",FALSE
+📤,"Invoice Ninja","Data Destinations","Action","Consume Invoice Ninja API",TRUE,"invoiceNinja.svg","output",FALSE
+📤,"Jenkins","Data Destinations","Action","Consume Jenkins API",TRUE,"jenkins.svg","output",FALSE
+📤,"Jira Software","Data Destinations","Action","Consume Jira Software API",TRUE,"jira.svg","output",FALSE
+📤,"Linear","Data Destinations","Action","Consume Linear API",TRUE,"linear.svg","output",FALSE
+📤,"LingvaNex","Data Destinations","Action","Consume LingvaNex API",TRUE,"lingvanex.png","output",FALSE
+📤,"Mailchimp","Data Destinations","Action","Consume Mailchimp API",TRUE,"mailchimp.svg","output",FALSE
+📤,"Mailgun","Data Destinations","Action","Sends an email via Mailgun",TRUE,"mailgun.svg","output",FALSE
+📤,"Mailjet","Data Destinations","Action","Consume Mailjet API",TRUE,"mailjet.svg","output",FALSE
+📤,"Mandrill","Data Destinations","Action","Consume Mandrill API",TRUE,"mandrill.svg","output",FALSE
+📤,"Markdown","Data Destinations","Action","Convert data between Markdown and HTML",FALSE,"markdown.svg","output",FALSE
+📤,"Matrix","Data Destinations","Action","Consume Matrix API",TRUE,"matrix.png","output",FALSE
+📤,"Mattermost","Data Destinations","Action","Sends data to Mattermost",FALSE,"mattermost.svg","output",FALSE
+📤,"Mautic","Data Destinations","Action","Consume Mautic API",TRUE,"mautic.svg","output",FALSE
+📤,"Medium","Data Destinations","Action","Consume Medium API",TRUE,"medium.png","output",FALSE
+📤,"MessageBird","Data Destinations","Action","Sends SMS via MessageBird",TRUE,"messagebird.svg","output",FALSE
+📤,"Monday.com","Data Destinations","Action","Consume Monday.com API",TRUE,"mondayCom.svg","output",FALSE
+📤,"Netscaler ADC","Data Destinations","Action","Consume Netscaler ADC API",TRUE,"netscaler.svg","output",FALSE
+📤,"Notion","Data Destinations","Action","Consume Notion API",FALSE,"notion.svg","output",FALSE
+📤,"OpenThesaurus","Data Destinations","Action","Get synonmns for German words using the OpenThesaurus API",FALSE,"openthesaurus.png","output",FALSE
+📤,"Orbit","Data Destinations","Action","Consume Orbit API",TRUE,"orbit.svg","output",FALSE
+📤,"Oura","Data Destinations","Action","Consume Oura API",TRUE,"oura.svg","output",FALSE
+📤,"Paddle","Data Destinations","Action","Consume Paddle API",TRUE,"paddle.png","output",FALSE
+📤,"PagerDuty","Data Destinations","Action","Consume PagerDuty API",TRUE,"pagerDuty.svg","output",FALSE
+📤,"PayPal","Data Destinations","Action","Consume PayPal API",TRUE,"paypal.svg","output",FALSE
+📤,"Peekalink","Data Destinations","Action","Consume the Peekalink API",TRUE,"peekalink.png","output",FALSE
+📤,"ProfitWell","Data Destinations","Action","Consume ProfitWell API",TRUE,"profitwell.svg","output",FALSE
+📤,"QuickChart","Data Destinations","Action","Create a chart via QuickChart",FALSE,"quickChart.svg","output",FALSE
+📤,"RocketChat","Data Destinations","Action","Consume RocketChat API",TRUE,"rocketchat.svg","output",FALSE
+📤,"S3","Data Destinations","Action","Sends data to any S3-compatible service",TRUE,"s3.png","output",FALSE
+📤,"Salesforce","Data Destinations","Action","Consume Salesforce API",TRUE,"salesforce.svg","output",FALSE
+📤,"Salesmate","Data Destinations","Action","Consume Salesmate API",TRUE,"salesmate.png","output",FALSE
+📤,"SeaTable","Data Destinations","Action","Read, update, write and delete data from SeaTable",FALSE,"seaTable.svg","output",FALSE
+📤,"Segment","Data Destinations","Action","Consume Segment API",TRUE,"segment.svg","output",FALSE
+📤,"Send Email","Data Destinations","Action","Sends an email using SMTP protocol",FALSE,"fa:envelope","output",FALSE
+📤,"Sentry.io","Data Destinations","Action","Consume Sentry.io API",TRUE,"sentryio.svg","output",FALSE
+📤,"ServiceNow","Data Destinations","Action","Consume ServiceNow API",TRUE,"servicenow.svg","output",FALSE
+📤,"Shopify","Data Destinations","Action","Consume Shopify API",TRUE,"shopify.svg","output",FALSE
+📤,"Slack","Data Destinations","Action","Consume Slack API",FALSE,"slack.svg","output",FALSE
+📤,"Storyblok","Data Destinations","Action","Consume Storyblok API",TRUE,"storyblok.svg","output",FALSE
+📤,"SyncroMSP","Data Destinations","Action","Manage contacts, tickets and more from Syncro MSP",FALSE,"syncromsp.png","output",FALSE
+📤,"Telegram","Data Destinations","Action","Sends data to Telegram",TRUE,"telegram.svg","output",FALSE
+📤,"Todoist","Data Destinations","Action","Consume Todoist API",FALSE,"todoist.svg","output",FALSE
+📤,"TravisCI","Data Destinations","Action","Consume TravisCI API",TRUE,"travisci.png","output",FALSE
+📤,"Uplead","Data Destinations","Action","Consume Uplead API",TRUE,"uplead.png","output",FALSE
+📤,"uProc","Data Destinations","Action","Consume uProc API",TRUE,"uproc.png","output",FALSE
+📤,"UptimeRobot","Data Destinations","Action","Consume UptimeRobot API",TRUE,"uptimerobot.svg","output",FALSE
+📤,"Vero","Data Destinations","Action","Consume Vero API",TRUE,"vero.svg","output",FALSE
+📤,"WhatsApp Business Cloud","Data Destinations","Action","Access WhatsApp API",FALSE,"whatsapp.svg","output",FALSE
+📤,"WooCommerce","Data Destinations","Action","Consume WooCommerce API",TRUE,"wooCommerce.svg","output",FALSE
+📤,"Wordpress","Data Destinations","Action","Consume Wordpress API",TRUE,"wordpress.svg","output",FALSE
+📤,"Write Binary File","Data Destinations","Action","Writes a binary file to disk",FALSE,"fa:file-export","output",FALSE
+📤,"X (Formerly Twitter)","Data Destinations","Action","Consume the X API",FALSE,"x.svg","output",FALSE
+📤,"Xero","Data Destinations","Action","Consume Xero API",TRUE,"xero.svg","output",FALSE
+📤,"Zendesk","Data Destinations","Action","Consume Zendesk API",TRUE,"zendesk.svg","output",FALSE
+📤,"Zulip","Data Destinations","Action","Consume Zulip API",TRUE,"zulip.svg","output",FALSE
+🗂️,"No Operation, do nothing","Flow Control","Action","No Operation",FALSE,"fa:arrow-right","organization",FALSE
+🗂️,"Simulate","Flow Control","Action","Simulate a node",FALSE,"fa:arrow-right","organization",FALSE
+🗂️,"Split In Batches","Flow Control","Action","Split data into batches and iterate over each batch",FALSE,"fa:th-large","organization",FALSE
+🗂️,"Track Time Saved","Flow Control","Action","Dynamically track time saved based on the workflow’s execution path and the number of items processed",FALSE,"fa:timer","organization",FALSE
+🗂️,"Wait","Flow Control","Action","Wait before continue with execution",FALSE,"fa:pause-circle","organization",FALSE

@@ -1,0 +1,90 @@
+{
+  "version": "1.0.0",
+  "createdAt": "2025-12-14",
+  "description": "Schema for n8n nodes cheat guide output formats",
+  "columns": {
+    "icon": {
+      "id": "icon",
+      "displayName": "Icon",
+      "description": "Visual icon representing the node",
+      "dataType": "emoji",
+      "source": "categoryIcon (fallback based on category)",
+      "markdownFormat": "emoji character",
+      "csvFormat": "emoji character",
+      "width": "40px"
+    },
+    "name": {
+      "id": "name",
+      "displayName": "Node Name",
+      "description": "Display name of the node",
+      "dataType": "string",
+      "source": "node.name",
+      "markdownFormat": "plain text",
+      "csvFormat": "quoted string",
+      "width": "auto"
+    },
+    "category": {
+      "id": "category",
+      "displayName": "Category",
+      "description": "Functional category of the node",
+      "dataType": "string",
+      "source": "node.categoryDisplay",
+      "markdownFormat": "plain text",
+      "csvFormat": "quoted string",
+      "width": "150px"
+    },
+    "type": {
+      "id": "type",
+      "displayName": "Type",
+      "description": "Whether node is a Trigger or Action",
+      "dataType": "string",
+      "source": "node.nodeTypeDisplay",
+      "markdownFormat": "plain text",
+      "csvFormat": "quoted string",
+      "width": "80px"
+    },
+    "description": {
+      "id": "description",
+      "displayName": "Description",
+      "description": "Brief description of what the node does",
+      "dataType": "string",
+      "source": "node.description",
+      "markdownFormat": "plain text",
+      "csvFormat": "quoted string",
+      "width": "auto"
+    },
+    "credentials": {
+      "id": "credentials",
+      "displayName": "Auth",
+      "description": "Whether authentication/credentials are required",
+      "dataType": "boolean_display",
+      "source": "node.requiresCredentials",
+      "markdownFormat": "Yes/No",
+      "csvFormat": "Yes/No",
+      "width": "60px"
+    }
+  },
+  "columnOrder": ["icon", "name", "category", "type", "description", "credentials"],
+  "sorting": {
+    "primary": "category",
+    "secondary": "name"
+  },
+  "grouping": {
+    "enabled": true,
+    "groupBy": "category",
+    "groupOrder": ["Triggers", "Data Transformation", "Data Sources", "Data Destinations", "Flow Control"]
+  },
+  "csvOptions": {
+    "delimiter": ",",
+    "quoteChar": "\"",
+    "escapeChar": "\"",
+    "includeHeader": true,
+    "encoding": "utf-8"
+  },
+  "markdownOptions": {
+    "tableStyle": "github",
+    "includeTableOfContents": true,
+    "includeSummary": true,
+    "groupByCategory": true
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "version": "1.0.0",
+  "createdAt": "2025-12-14",
+  "description": "Canonical category taxonomy for n8n nodes cheat guide",
+  "categories": {
+    "trigger": {
+      "id": "trigger",
+      "displayName": "Triggers",
+      "description": "Event-driven nodes that start workflow execution",
+      "icon": "⚡",
+      "sourceGroups": ["trigger"],
+      "examples": ["Webhook", "Schedule Trigger", "Email Trigger"]
+    },
+    "transform": {
+      "id": "transform",
+      "displayName": "Data Transformation",
+      "description": "Nodes that modify, transform, or manipulate data",
+      "icon": "🔄",
+      "sourceGroups": ["transform"],
+      "examples": ["Set", "Code", "Filter", "Merge"]
+    },
+    "input": {
+      "id": "input",
+      "displayName": "Data Sources",
+      "description": "Nodes that read or retrieve data from external services",
+      "icon": "📥",
+      "sourceGroups": ["input"],
+      "examples": ["HTTP Request", "Google Sheets", "Database nodes"]
+    },
+    "output": {
+      "id": "output",
+      "displayName": "Data Destinations",
+      "description": "Nodes that write or send data to external services",
+      "icon": "📤",
+      "sourceGroups": ["output"],
+      "examples": ["Send Email", "Slack", "Database insert"]
+    },
+    "organization": {
+      "id": "organization",
+      "displayName": "Flow Control",
+      "description": "Nodes that organize and control workflow logic",
+      "icon": "🗂️",
+      "sourceGroups": ["organization"],
+      "examples": ["If", "Switch", "Merge", "Split In Batches"]
+    },
+    "schedule": {
+      "id": "schedule",
+      "displayName": "Scheduling",
+      "description": "Time-based scheduling nodes",
+      "icon": "⏰",
+      "sourceGroups": ["schedule"],
+      "examples": ["Schedule Trigger", "Cron", "Interval"]
+    }
+  },
+  "nodeTypes": {
+    "trigger": {
+      "id": "trigger",
+      "displayName": "Trigger",
+      "description": "Nodes that initiate workflow execution",
+      "determinedBy": "isTrigger field or 'trigger' group"
+    },
+    "action": {
+      "id": "action",
+      "displayName": "Action",
+      "description": "Nodes that perform actions within a workflow",
+      "determinedBy": "NOT isTrigger"
+    }
+  },
+  "classifications": {
+    "native": {
+      "id": "native",
+      "displayName": "Native",
+      "description": "Built-in n8n nodes from packages/nodes-base",
+      "rule": "Located in packages/nodes-base"
+    },
+    "community": {
+      "id": "community",
+      "displayName": "Community",
+      "description": "Community-contributed nodes",
+      "rule": "Not in packages/nodes-base (external packages)"
+    }
+  },
+  "functionalCategories": {
+    "utility": {
+      "id": "utility",
+      "displayName": "Utility",
+      "description": "Core utility nodes without external service dependencies",
+      "rule": "No credentials required"
+    },
+    "integration": {
+      "id": "integration",
+      "displayName": "Integration",
+      "description": "Nodes that connect to external services",
+      "rule": "Requires credentials"
+    }
+  },
+  "mappingRules": [
+    {
+      "rule": "Primary category comes from node's 'group' field",
+      "priority": 1
+    },
+    {
+      "rule": "If multiple groups, use first group as primary category",
+      "priority": 2
+    },
+    {
+      "rule": "Node type (trigger/action) determined by isTrigger boolean",
+      "priority": 3
+    },
+    {
+      "rule": "Classification always 'native' for nodes-base nodes",
+      "priority": 4
+    },
+    {
+      "rule": "Functional category is 'utility' if no credentials, else 'integration'",
+      "priority": 5
+    }
+  ]
+}

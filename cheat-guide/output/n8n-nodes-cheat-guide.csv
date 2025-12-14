@@ -1,0 +1,435 @@
+Icon,Node Name,Category,Type,Description,Auth Required,Icon File,Has Dark Mode
+⚡,"ActiveCampaign Trigger","Triggers","Trigger","Handle ActiveCampaign events via webhooks",Yes,"activeCampaign.svg",Yes
+⚡,"Acuity Scheduling Trigger","Triggers","Trigger","Handle Acuity Scheduling events via webhooks",Yes,"acuityScheduling.png",No
+⚡,"Affinity Trigger","Triggers","Trigger","Handle Affinity events via webhooks",Yes,"affinity.svg",Yes
+⚡,"Airtable Trigger","Triggers","Trigger","Starts the workflow when Airtable events occur",Yes,"airtable.svg",No
+⚡,"AMQP Trigger","Triggers","Trigger","Listens to AMQP 1.0 Messages",Yes,"amqp.svg",No
+⚡,"Asana Trigger","Triggers","Trigger","Starts the workflow when Asana events occur.",Yes,"asana.svg",No
+⚡,"Autopilot Trigger","Triggers","Trigger","Handle Autopilot events via webhooks",Yes,"autopilot.svg",No
+⚡,"AWS SNS Trigger","Triggers","Trigger","Handle AWS SNS events via webhooks",No,"sns.svg",No
+⚡,"Bitbucket Trigger","Triggers","Trigger","Handle Bitbucket events via webhooks",Yes,"bitbucket.svg",No
+⚡,"Box Trigger","Triggers","Trigger","Starts the workflow when Box events occur",Yes,"box.png",No
+⚡,"Brevo Trigger","Triggers","Trigger","Starts the workflow when Brevo events occur",Yes,"brevo.svg",No
+⚡,"Cal.com Trigger","Triggers","Trigger","Handle Cal.com events via webhooks",Yes,"cal.svg",Yes
+⚡,"Calendly Trigger","Triggers","Trigger","Starts the workflow when Calendly events occur",Yes,"calendly.svg",No
+⚡,"Chargebee Trigger","Triggers","Trigger","Starts the workflow when Chargebee events occur",No,"chargebee.png",No
+⚡,"ClickUp Trigger","Triggers","Trigger","Handle ClickUp events via webhooks (Beta)",Yes,"clickup.svg",No
+⚡,"Clockify Trigger","Triggers","Trigger","Listens to Clockify events",Yes,"clockify.svg",Yes
+⚡,"ConvertKit Trigger","Triggers","Trigger","Handle ConvertKit events via webhooks",Yes,"convertKit.svg",No
+⚡,"Copper Trigger","Triggers","Trigger","Handle Copper events via webhooks",Yes,"copper.svg",No
+⚡,"Cron","Triggers","Trigger","Triggers the workflow at a specific time",No,"fa:clock",No
+⚡,"Customer.io Trigger","Triggers","Trigger","Starts the workflow on a Customer.io update (Beta)",Yes,"customerio.svg",Yes
+⚡,"Email Trigger (IMAP)","Triggers","Trigger","Triggers the workflow when a new email is received",No,"fa:inbox",No
+⚡,"Emelia Trigger","Triggers","Trigger","Handle Emelia campaign activity events via webhooks",Yes,"emelia.svg",No
+⚡,"Error Trigger","Triggers","Trigger","Triggers the workflow when another workflow has an error",No,"fa:bug",No
+⚡,"Eventbrite Trigger","Triggers","Trigger","Handle Eventbrite events via webhooks",Yes,"eventbrite.png",No
+⚡,"Execute Workflow Trigger","Triggers","Trigger","Helpers for calling other n8n workflows. Used for designing modular, microservice-like workflows.",No,"fa:sign-out-alt",No
+⚡,"Facebook Lead Ads Trigger","Triggers","Trigger","Handle Facebook Lead Ads events via webhooks",Yes,"facebook.svg",No
+⚡,"Facebook Trigger","Triggers","Trigger","Starts the workflow when Facebook events occur",Yes,"facebook.svg",No
+⚡,"Figma Trigger (Beta)","Triggers","Trigger","Starts the workflow when Figma events occur",Yes,"figma.svg",No
+⚡,"Flow Trigger","Triggers","Trigger","Handle Flow events via webhooks",Yes,"flow.svg",No
+⚡,"Form.io Trigger","Triggers","Trigger","Handle form.io events via webhooks",Yes,"formio.svg",No
+⚡,"Formstack Trigger","Triggers","Trigger","Starts the workflow on a Formstack form submission.",Yes,"formstack.svg",No
+⚡,"GetResponse Trigger","Triggers","Trigger","Starts the workflow when GetResponse events occur",Yes,"getResponse.png",No
+⚡,"Github Trigger","Triggers","Trigger","Starts the workflow when Github events occur",Yes,"github.svg",Yes
+⚡,"GitLab Trigger","Triggers","Trigger","Starts the workflow when GitLab events occur",Yes,"gitlab.svg",No
+⚡,"Gmail Trigger","Triggers","Trigger","Fetches emails from Gmail and starts the workflow on specified polling intervals.",Yes,"gmail.svg",No
+⚡,"Google Business Profile Trigger","Triggers","Trigger","Fetches reviews from Google Business Profile and starts the workflow on specified polling intervals.",Yes,"googleBusinessProfile.svg",No
+⚡,"Google Calendar Trigger","Triggers","Trigger","Starts the workflow when Google Calendar events occur",Yes,"googleCalendar.svg",No
+⚡,"Google Drive Trigger","Triggers","Trigger","Starts the workflow when Google Drive events occur",Yes,"googleDrive.svg",No
+⚡,"Google Sheets Trigger","Triggers","Trigger","Starts the workflow when Google Sheets events occur",Yes,"googleSheets.svg",No
+⚡,"Gumroad Trigger","Triggers","Trigger","Handle Gumroad events via webhooks",Yes,"gumroad.png",No
+⚡,"Help Scout Trigger","Triggers","Trigger","Starts the workflow when Help Scout events occur",Yes,"helpScout.svg",No
+⚡,"HubSpot Trigger","Triggers","Trigger","Starts the workflow when HubSpot events occur",Yes,"hubspot.svg",No
+⚡,"Interval","Triggers","Trigger","Triggers the workflow in a given interval",No,"fa:hourglass",No
+⚡,"Invoice Ninja Trigger","Triggers","Trigger","Starts the workflow when Invoice Ninja events occur",Yes,"invoiceNinja.svg",No
+⚡,"Jira Trigger","Triggers","Trigger","Starts the workflow when Jira events occur",Yes,"jira.svg",No
+⚡,"Jotform Trigger","Triggers","Trigger","Handle Jotform events via webhooks",Yes,"jotform.svg",Yes
+⚡,"Kafka Trigger","Triggers","Trigger","Consume messages from a Kafka topic",Yes,"kafka.svg",Yes
+⚡,"Keap Trigger","Triggers","Trigger","Starts the workflow when Infusionsoft events occur",Yes,"keap.png",No
+⚡,"KoBoToolbox Trigger","Triggers","Trigger","Process KoBoToolbox submissions",Yes,"koBoToolbox.svg",No
+⚡,"Lemlist Trigger","Triggers","Trigger","Handle Lemlist events via webhooks",Yes,"lemlist.svg",No
+⚡,"Linear Trigger","Triggers","Trigger","Starts the workflow when Linear events occur",Yes,"linear.svg",No
+⚡,"Local File Trigger","Triggers","Trigger","Triggers a workflow on file system changes",No,"fa:folder-open",No
+⚡,"LoneScale Trigger","Triggers","Trigger","Trigger LoneScale Workflow",Yes,"loneScale.svg",Yes
+⚡,"Mailchimp Trigger","Triggers","Trigger","Handle Mailchimp events via webhooks",Yes,"mailchimp.svg",Yes
+⚡,"MailerLite Trigger","Triggers","Trigger","Starts the workflow when MailerLite events occur",No,"MailerLite.svg",No
+⚡,"Mailjet Trigger","Triggers","Trigger","Handle Mailjet events via webhooks",Yes,"mailjet.svg",No
+⚡,"Manual Trigger","Triggers","Trigger","Runs the flow on clicking a button in n8n",No,"fa:mouse-pointer",No
+⚡,"Mautic Trigger","Triggers","Trigger","Handle Mautic events via webhooks",Yes,"mautic.svg",No
+⚡,"Microsoft OneDrive Trigger","Triggers","Trigger","Trigger for Microsoft OneDrive API.",Yes,"oneDrive.svg",No
+⚡,"Microsoft Outlook Trigger","Triggers","Trigger","Fetches emails from Microsoft Outlook and starts the workflow on specified polling intervals.",Yes,"outlook.svg",No
+⚡,"Microsoft Teams Trigger","Triggers","Trigger","Triggers workflows in n8n based on events from Microsoft Teams, such as new messages or team updates, using specified configurations.",Yes,"teams.svg",No
+⚡,"MQTT Trigger","Triggers","Trigger","Listens to MQTT events",Yes,"mqtt.svg",No
+⚡,"n8n Form Trigger","Triggers","Trigger","Generate webforms in n8n and pass their responses to the workflow",No,"form.svg",No
+⚡,"n8n Trigger","Triggers","Trigger","Handle events and perform actions on your n8n instance",No,"n8nTrigger.svg",No
+⚡,"Netlify Trigger","Triggers","Trigger","Handle netlify events via webhooks",Yes,"netlify.svg",No
+⚡,"Notion Trigger","Triggers","Trigger","Starts the workflow when Notion events occur",Yes,"notion.svg",Yes
+⚡,"Onfleet Trigger","Triggers","Trigger","Starts the workflow when Onfleet events occur",Yes,"Onfleet.svg",No
+⚡,"PayPal Trigger","Triggers","Trigger","Handle PayPal events via webhooks",Yes,"paypal.svg",No
+⚡,"Pipedrive Trigger","Triggers","Trigger","Starts the workflow when Pipedrive events occur",Yes,"pipedrive.svg",No
+⚡,"Postgres Trigger","Triggers","Trigger","Listens to Postgres messages",Yes,"postgres.svg",No
+⚡,"Postmark Trigger","Triggers","Trigger","Starts the workflow when Postmark events occur",Yes,"postmark.png",No
+⚡,"Pushcut Trigger","Triggers","Trigger","Starts the workflow when Pushcut events occur",Yes,"pushcut.png",No
+⚡,"RabbitMQ Trigger","Triggers","Trigger","Listens to RabbitMQ messages",Yes,"rabbitmq.svg",No
+⚡,"Redis Trigger","Triggers","Trigger","Subscribe to redis channel",Yes,"redis.svg",No
+⚡,"RSS Feed Trigger","Triggers","Trigger","Starts a workflow when an RSS feed is updated",No,"fa:rss",No
+⚡,"Salesforce Trigger","Triggers","Trigger","Fetches data from Salesforce and starts the workflow on specified polling intervals.",Yes,"salesforce.svg",No
+⚡,"Schedule Trigger","Triggers","Trigger","Triggers the workflow on a given schedule",No,"fa:clock",No
+⚡,"SeaTable Trigger","Triggers","Trigger","Starts the workflow when SeaTable events occur",No,"seaTable.svg",No
+⚡,"Shopify Trigger","Triggers","Trigger","Handle Shopify events via webhooks",Yes,"shopify.svg",No
+⚡,"Simulate Trigger","Triggers","Trigger","Simulate a trigger node",No,"fa:arrow-right",No
+⚡,"Slack Trigger","Triggers","Trigger","Handle Slack events via webhooks",Yes,"slack.svg",No
+⚡,"SSE Trigger","Triggers","Trigger","Triggers the workflow when Server-Sent Events occur",No,"fa:cloud-download-alt",No
+⚡,"Strava Trigger","Triggers","Trigger","Starts the workflow when Strava events occur",Yes,"strava.svg",No
+⚡,"Stripe Trigger","Triggers","Trigger","Handle Stripe events via webhooks",Yes,"stripe.svg",No
+⚡,"SurveyMonkey Trigger","Triggers","Trigger","Starts the workflow when Survey Monkey events occur",Yes,"surveyMonkey.svg",No
+⚡,"Taiga Trigger","Triggers","Trigger","Handle Taiga events via webhook",Yes,"taiga.svg",No
+⚡,"Telegram Trigger","Triggers","Trigger","Starts the workflow on a Telegram update",Yes,"telegram.svg",No
+⚡,"TheHive 5 Trigger","Triggers","Trigger","Starts the workflow when TheHive events occur",No,"thehiveproject.svg",No
+⚡,"TheHive Trigger","Triggers","Trigger","Starts the workflow when TheHive events occur",No,"thehive.svg",No
+⚡,"Toggl Trigger","Triggers","Trigger","Starts the workflow when Toggl events occur",Yes,"toggl.png",No
+⚡,"Trello Trigger","Triggers","Trigger","Starts the workflow when Trello events occur",Yes,"trello.svg",No
+⚡,"Twilio Trigger","Triggers","Trigger","Starts the workflow on a Twilio update",Yes,"twilio.svg",No
+⚡,"Typeform Trigger","Triggers","Trigger","Starts the workflow on a Typeform form submission",Yes,"typeform.svg",Yes
+⚡,"Venafi TLS Protect Cloud Trigger","Triggers","Trigger","Starts the workflow when Venafi events occur",Yes,"../venafi.svg",No
+⚡,"Venafi TLS Protect Datacenter Trigger","Triggers","Trigger","Starts the workflow when Venafi events occur",Yes,"../venafi.svg",No
+⚡,"Webex by Cisco Trigger","Triggers","Trigger","Starts the workflow when Cisco Webex events occur.",Yes,"ciscoWebex.png",No
+⚡,"Webflow Trigger","Triggers","Trigger","Handle Webflow events via webhooks",No,"webflow.svg",No
+⚡,"Webhook","Triggers","Trigger","Starts the workflow when a webhook is called",No,"webhook.svg",Yes
+⚡,"WhatsApp Trigger","Triggers","Trigger","Handle WhatsApp events via webhooks",Yes,"whatsapp.svg",No
+⚡,"Wise Trigger","Triggers","Trigger","Handle Wise events via webhooks",Yes,"wise.svg",No
+⚡,"WooCommerce Trigger","Triggers","Trigger","Handle WooCommerce events via webhooks",Yes,"wooCommerce.svg",No
+⚡,"Workable Trigger","Triggers","Trigger","Starts the workflow when Workable events occur",Yes,"workable.png",No
+⚡,"Workflow Trigger","Triggers","Trigger","Triggers based on various lifecycle events, like when a workflow is activated",No,"fa:network-wired",No
+⚡,"Wufoo Trigger","Triggers","Trigger","Handle Wufoo events via webhooks",Yes,"wufoo.png",No
+⚡,"Zendesk Trigger","Triggers","Trigger","Handle Zendesk events via webhooks",Yes,"zendesk.svg",No
+🔄,"Action Network","Data Transformation","Action","Consume the Action Network API",Yes,"actionNetwork.svg",No
+🔄,"ActiveCampaign","Data Transformation","Action","Create and edit data in ActiveCampaign",Yes,"activeCampaign.svg",Yes
+🔄,"Adalo","Data Transformation","Action","Consume Adalo API",Yes,"adalo.svg",No
+🔄,"Aggregate","Data Transformation","Action","Combine a field from many items into a list in a single item",No,"aggregate.svg",No
+🔄,"Agile CRM","Data Transformation","Action","Consume Agile CRM API",Yes,"agilecrm.png",No
+🔄,"AI Transform","Data Transformation","Action","Modify data based on instructions written in plain english",No,"aitransform.svg",No
+🔄,"Airtop","Data Transformation","Action","Scrape and control any site with Airtop",Yes,"airtop.svg",No
+🔄,"AMQP Sender","Data Transformation","Action","Sends a raw-message via AMQP 1.0, executed once per item",Yes,"amqp.svg",No
+🔄,"APITemplate.io","Data Transformation","Action","Consume the APITemplate.io API",Yes,"apiTemplateIo.svg",No
+🔄,"AWS DynamoDB","Data Transformation","Action","Consume the AWS DynamoDB API",No,"dynamodb.svg",No
+🔄,"Azure Cosmos DB","Data Transformation","Action","Interact with Azure Cosmos DB API",Yes,,No
+🔄,"Azure Storage","Data Transformation","Action","Interact with Azure Storage API",Yes,,No
+🔄,"BambooHr","Data Transformation","Action","Consume BambooHR API",Yes,"bambooHr.png",No
+🔄,"Bitwarden","Data Transformation","Action","Consume the Bitwarden API",Yes,"bitwarden.svg",No
+🔄,"Brevo","Data Transformation","Action","Consume Brevo API",Yes,"brevo.svg",No
+🔄,"Bubble","Data Transformation","Action","Consume the Bubble Data API",Yes,"bubble.svg",Yes
+🔄,"Clockify","Data Transformation","Action","Consume Clockify REST API",Yes,"clockify.svg",Yes
+🔄,"Code","Data Transformation","Action","Run custom JavaScript or Python code",No,"code.svg",No
+🔄,"Compare Datasets","Data Transformation","Action","Compare two inputs for changes",No,"compare.svg",No
+🔄,"Compression","Data Transformation","Action","Compress and decompress files",No,"fa:file-archive",No
+🔄,"Convert to/from binary data","Data Transformation","Action","Move data between binary and JSON properties",No,"fa:exchange-alt",No
+🔄,"Copper","Data Transformation","Action","Consume the Copper API",Yes,"copper.svg",No
+🔄,"Cortex","Data Transformation","Action","Apply the Cortex analyzer/responder on the given entity",Yes,"cortex.svg",No
+🔄,"Crypto","Data Transformation","Action","Provide cryptographic utilities",No,"fa:key",No
+🔄,"Customer Datastore (n8n training)","Data Transformation","Action","Dummy node used for n8n training",No,,No
+🔄,"Customer Messenger (n8n training)","Data Transformation","Action","Dummy node used for n8n training",No,,No
+🔄,"Date & Time","Data Transformation","Action","Allows you to manipulate date and time values",No,"fa:clock",No
+🔄,"Dropcontact","Data Transformation","Action","Find B2B emails and enrich contacts",Yes,"dropcontact.svg",No
+🔄,"Edit Image","Data Transformation","Action","Edits an image like blur, resize or adding border and text",No,"fa:image",No
+🔄,"Elastic Security","Data Transformation","Action","Consume the Elastic Security API",Yes,"elasticSecurity.svg",No
+🔄,"Elasticsearch","Data Transformation","Action","Consume the Elasticsearch API",Yes,"elasticsearch.svg",No
+🔄,"Execute Command","Data Transformation","Action","Executes a command on the host",No,"fa:terminal",No
+🔄,"Execute Sub-workflow","Data Transformation","Action","Execute another workflow",No,"fa:sign-in-alt",No
+🔄,"Facebook Graph API","Data Transformation","Action","Interacts with Facebook using the Graph API",Yes,"facebook.svg",No
+🔄,"Filter","Data Transformation","Action","Remove items matching a condition",No,"fa:filter",No
+🔄,"Freshservice","Data Transformation","Action","Consume the Freshservice API",Yes,"freshservice.svg",No
+🔄,"Freshworks CRM","Data Transformation","Action","Consume the Freshworks CRM API",Yes,"freshworksCrm.svg",No
+🔄,"Function","Data Transformation","Action","Run custom function code which gets executed once and allows you to add, remove, change and replace items",No,"fa:code",No
+🔄,"Function Item","Data Transformation","Action","Run custom function code which gets executed once per item",No,"fa:code",No
+🔄,"Git","Data Transformation","Action","Control git.",Yes,"git.svg",No
+🔄,"Gmail","Data Transformation","Action","Consume the Gmail API",No,"gmail.svg",No
+🔄,"Gong","Data Transformation","Action","Interact with Gong API",Yes,"gong.svg",No
+🔄,"Google Ads","Data Transformation","Action","Use the Google Ads API",Yes,"googleAds.svg",No
+🔄,"Google Analytics","Data Transformation","Action","Use the Google Analytics API",No,"analytics.svg",No
+🔄,"Google Cloud Storage","Data Transformation","Action","Use the Google Cloud Storage API",Yes,"googleCloudStorage.svg",No
+🔄,"Google Perspective","Data Transformation","Action","Consume Google Perspective API",Yes,"googlePerspective.svg",Yes
+🔄,"GoToWebinar","Data Transformation","Action","Consume the GoToWebinar API",Yes,"gotowebinar.svg",No
+🔄,"Grafana","Data Transformation","Action","Consume the Grafana API",Yes,"grafana.svg",No
+🔄,"Hacker News","Data Transformation","Action","Consume Hacker News API",No,"hackernews.png",No
+🔄,"HighLevel","Data Transformation","Action","Consume HighLevel API",No,"highLevel.svg",No
+🔄,"HTML","Data Transformation","Action","Work with HTML",No,"html.svg",Yes
+🔄,"HTML Extract","Data Transformation","Action","Extracts data from HTML",No,"fa:cut",No
+🔄,"If","Data Transformation","Action","Route items to different branches (true/false)",No,"fa:map-signs",No
+🔄,"Jina AI","Data Transformation","Action","Interact with Jina AI API",Yes,,No
+🔄,"JWT","Data Transformation","Action","JWT",Yes,"jwt.svg",No
+🔄,"Kafka","Data Transformation","Action","Sends messages to a Kafka topic",Yes,"kafka.svg",Yes
+🔄,"KoBoToolbox","Data Transformation","Action","Work with KoBoToolbox forms and submissions",Yes,"koBoToolbox.svg",No
+🔄,"Ldap","Data Transformation","Action","Interact with LDAP servers",Yes,"ldap.svg",Yes
+🔄,"Lemlist","Data Transformation","Action","Consume the Lemlist API",No,"lemlist.svg",No
+🔄,"Limit","Data Transformation","Action","Restrict the number of items",No,"limit.svg",No
+🔄,"LoneScale","Data Transformation","Action","Create List, add / delete items",Yes,"loneScale.svg",Yes
+🔄,"Mailcheck","Data Transformation","Action","Consume Mailcheck API",Yes,"mailcheck.svg",No
+🔄,"Marketstack","Data Transformation","Action","Consume Marketstack API",Yes,"marketstack.svg",Yes
+🔄,"Merge","Data Transformation","Action","Merges data of multiple streams once data from both is available",No,"merge.svg",No
+🔄,"Metabase","Data Transformation","Action","Use the Metabase API",Yes,"metabase.svg",No
+🔄,"Microsoft Entra ID","Data Transformation","Action","Interact with Microsoft Entra ID API",Yes,,No
+🔄,"Microsoft Graph Security","Data Transformation","Action","Consume the Microsoft Graph Security API",Yes,"microsoftGraph.svg",No
+🔄,"Microsoft Outlook","Data Transformation","Action","Consume Microsoft Outlook API",No,"outlook.svg",No
+🔄,"Microsoft SharePoint","Data Transformation","Action","Interact with Microsoft SharePoint API",Yes,,No
+🔄,"MISP","Data Transformation","Action","Consume the MISP API",Yes,"misp.svg",No
+🔄,"Mistral AI","Data Transformation","Action","Consume Mistral AI API",Yes,,No
+🔄,"Mocean","Data Transformation","Action","Send SMS and voice messages via Mocean",Yes,"mocean.svg",Yes
+🔄,"Monica CRM","Data Transformation","Action","Consume the Monica CRM API",Yes,"monicaCrm.png",No
+🔄,"MSG91","Data Transformation","Action","Sends transactional SMS via MSG91",Yes,"msg91.svg",Yes
+🔄,"n8n","Data Transformation","Action","Handle events and perform actions on your n8n instance",Yes,"n8n.svg",No
+🔄,"NASA","Data Transformation","Action","Retrieve data from the NASA API",Yes,"nasa.png",No
+🔄,"Netlify","Data Transformation","Action","Consume Netlify API",Yes,"netlify.svg",No
+🔄,"Odoo","Data Transformation","Action","Consume Odoo API",Yes,"odoo.svg",No
+🔄,"Okta","Data Transformation","Action","Use the Okta API",Yes,"Okta.svg",Yes
+🔄,"One Simple API","Data Transformation","Action","A toolbox of no-code utilities",Yes,"onesimpleapi.svg",No
+🔄,"OpenAI","Data Transformation","Action","Consume Open AI",Yes,"openAi.svg",Yes
+🔄,"Perplexity","Data Transformation","Action","Interact with the Perplexity API to generate AI responses with citations",Yes,,No
+🔄,"Pipedrive","Data Transformation","Action","Create and edit data in Pipedrive",Yes,"pipedrive.svg",No
+🔄,"Plivo","Data Transformation","Action","Send SMS/MMS messages or make phone calls",Yes,"plivo.svg",No
+🔄,"PostBin","Data Transformation","Action","Consume PostBin API",No,"postbin.svg",No
+🔄,"QuickBooks Online","Data Transformation","Action","Consume the QuickBooks Online API",Yes,"quickbooks.svg",No
+🔄,"RabbitMQ","Data Transformation","Action","Sends messages to a RabbitMQ topic",Yes,"rabbitmq.svg",No
+🔄,"Raindrop","Data Transformation","Action","Consume the Raindrop API",Yes,"raindrop.svg",No
+🔄,"Reddit","Data Transformation","Action","Consume the Reddit API",Yes,"reddit.svg",No
+🔄,"Remove Duplicates","Data Transformation","Action","Delete items with matching field values",No,"removeDuplicates.svg",No
+🔄,"Rename Keys","Data Transformation","Action","Update item field names",No,"fa:edit",No
+🔄,"Respond to Webhook","Data Transformation","Action","Returns data for Webhook",Yes,"webhook.svg",Yes
+🔄,"Rundeck","Data Transformation","Action","Manage Rundeck API",Yes,"rundeck.png",No
+🔄,"SecurityScorecard","Data Transformation","Action","Consume SecurityScorecard API",Yes,"securityScorecard.svg",No
+🔄,"SendGrid","Data Transformation","Action","Consume SendGrid API",Yes,"sendGrid.svg",No
+🔄,"seven","Data Transformation","Action","Send SMS and make text-to-speech calls",Yes,"seven.svg",No
+🔄,"SIGNL4","Data Transformation","Action","Consume SIGNL4 API",Yes,"signl4.png",No
+🔄,"Sort","Data Transformation","Action","Change items order",No,"sort.svg",No
+🔄,"Split Out","Data Transformation","Action","Turn a list inside item(s) into separate items",No,"splitOut.svg",No
+🔄,"Splunk","Data Transformation","Action","Consume the Splunk Enterprise API",No,"splunk.svg",No
+🔄,"Spreadsheet File","Data Transformation","Action","Reads and writes data from a spreadsheet file like CSV, XLS, ODS, etc",No,"fa:table",No
+🔄,"Stackby","Data Transformation","Action","Read, write, and delete data in Stackby",Yes,"stackby.png",No
+🔄,"Stripe","Data Transformation","Action","Consume the Stripe API",Yes,"stripe.svg",No
+🔄,"Summarize","Data Transformation","Action","Sum, count, max, etc. across items",No,"summarize.svg",No
+🔄,"Switch","Data Transformation","Action","Route items depending on defined expression or rules",No,"fa:map-signs",No
+🔄,"Taiga","Data Transformation","Action","Consume Taiga API",Yes,"taiga.svg",No
+🔄,"Tapfiliate","Data Transformation","Action","Consume Tapfiliate API",Yes,"tapfiliate.svg",No
+🔄,"TheHive","Data Transformation","Action","Consume TheHive API",Yes,"thehive.svg",No
+🔄,"TheHive 5","Data Transformation","Action","Consume TheHive 5 API",Yes,"thehiveproject.svg",No
+🔄,"TOTP","Data Transformation","Action","Generate a time-based one-time password",Yes,"fa:fingerprint",No
+🔄,"Trello","Data Transformation","Action","Create, change and delete boards and cards",Yes,"trello.svg",No
+🔄,"Twake","Data Transformation","Action","Consume Twake API",Yes,"twake.png",No
+🔄,"Twilio","Data Transformation","Action","Send SMS and WhatsApp messages or make phone calls",Yes,"twilio.svg",No
+🔄,"Unleashed Software","Data Transformation","Action","Consume Unleashed Software API",Yes,"unleashedSoftware.png",No
+🔄,"urlscan.io","Data Transformation","Action","Provides various utilities for monitoring websites like health checks or screenshots",Yes,"urlScanIo.svg",No
+🔄,"Webex by Cisco","Data Transformation","Action","Consume the Cisco Webex API",Yes,"ciscoWebex.png",No
+🔄,"Webflow","Data Transformation","Action","Consume the Webflow API",No,"webflow.svg",No
+🔄,"Wekan","Data Transformation","Action","Consume Wekan API",Yes,"wekan.svg",No
+🔄,"Wise","Data Transformation","Action","Consume the Wise API",Yes,"wise.svg",No
+🔄,"XML","Data Transformation","Action","Convert data from and to XML",No,"fa:file-code",No
+🔄,"Zoho CRM","Data Transformation","Action","Consume Zoho CRM API",Yes,"zoho.svg",No
+📥,"Airtable","Data Sources","Action","Read, update, write and delete data from Airtable",No,"airtable.svg",No
+📥,"Asana","Data Sources","Action","Consume Asana REST API",Yes,"asana.svg",No
+📥,"Autopilot","Data Sources","Action","Consume Autopilot API",Yes,"autopilot.svg",No
+📥,"Box","Data Sources","Action","Consume Box API",Yes,"box.png",No
+📥,"Chargebee","Data Sources","Action","Retrieve data from Chargebee API",Yes,"chargebee.png",No
+📥,"Cloudflare","Data Sources","Action","Consume Cloudflare API",Yes,"cloudflare.svg",No
+📥,"Contentful","Data Sources","Action","Consume Contentful API",Yes,"contentful.png",No
+📥,"Convert to File","Data Sources","Action","Convert JSON data to binary data",No,"convertToFile.svg",Yes
+📥,"ConvertKit","Data Sources","Action","Consume ConvertKit API",Yes,"convertKit.svg",No
+📥,"CrateDB","Data Sources","Action","Add and update data in CrateDB",Yes,"cratedb.png",No
+📥,"Data table","Data Sources","Action","Permanently save data across workflow executions in a table",No,"fa:table",No
+📥,"DeepL","Data Sources","Action","Translate data using DeepL",Yes,"deepl.svg",Yes
+📥,"DHL","Data Sources","Action","Consume DHL API",Yes,"dhl.svg",No
+📥,"Discourse","Data Sources","Action","Consume Discourse API",Yes,"discourse.svg",No
+📥,"Disqus","Data Sources","Action","Access data on Disqus",Yes,"disqus.png",No
+📥,"Dropbox","Data Sources","Action","Access data on Dropbox",Yes,"dropbox.svg",No
+📥,"Emelia","Data Sources","Action","Consume the Emelia API",Yes,"emelia.svg",No
+📥,"Execution Data","Data Sources","Action","Add execution data for search",No,"fa:tasks",No
+📥,"Extract from File","Data Sources","Action","Convert binary data to JSON",No,"extractFromFile.svg",Yes
+📥,"FileMaker","Data Sources","Action","Retrieve data from the FileMaker data API",Yes,"filemaker.png",No
+📥,"FTP","Data Sources","Action","Transfer files via FTP or SFTP",Yes,"fa:server",No
+📥,"GetResponse","Data Sources","Action","Consume GetResponse API",Yes,"getResponse.png",No
+📥,"Ghost","Data Sources","Action","Consume Ghost API",Yes,"ghost.svg",No
+📥,"GitHub","Data Sources","Action","Consume GitHub API",Yes,,No
+📥,"GitLab","Data Sources","Action","Retrieve data from GitLab API",Yes,"gitlab.svg",No
+📥,"Google BigQuery","Data Sources","Action","Consume Google BigQuery API",No,"googleBigQuery.svg",No
+📥,"Google Books","Data Sources","Action","Read data from Google Books",Yes,"googlebooks.svg",No
+📥,"Google Business Profile","Data Sources","Action","Consume Google Business Profile API",Yes,"googleBusinessProfile.svg",No
+📥,"Google Calendar","Data Sources","Action","Consume Google Calendar API",Yes,"googleCalendar.svg",No
+📥,"Google Chat","Data Sources","Action","Consume Google Chat API",Yes,"googleChat.svg",No
+📥,"Google Cloud Firestore","Data Sources","Action","Interact with Google Firebase - Cloud Firestore API",Yes,"googleFirebaseCloudFirestore.png",No
+📥,"Google Cloud Natural Language","Data Sources","Action","Consume Google Cloud Natural Language API",Yes,"googlecloudnaturallanguage.png",No
+📥,"Google Cloud Realtime Database","Data Sources","Action","Interact with Google Firebase - Realtime Database API",Yes,"googleFirebaseRealtimeDatabase.svg",No
+📥,"Google Contacts","Data Sources","Action","Consume Google Contacts API",Yes,"googleContacts.png",No
+📥,"Google Docs","Data Sources","Action","Consume Google Docs API.",Yes,"googleDocs.svg",No
+📥,"Google Drive","Data Sources","Action","Access data on Google Drive",No,"googleDrive.svg",No
+📥,"Google Sheets","Data Sources","Action","Read, update and write data to Google Sheets",No,"googleSheets.svg",No
+📥,"Google Slides","Data Sources","Action","Consume the Google Slides API",Yes,"googleslides.svg",No
+📥,"Google Tasks","Data Sources","Action","Consume Google Tasks API",Yes,"googleTasks.svg",No
+📥,"Google Translate","Data Sources","Action","Translate data using Google Translate",Yes,"googletranslate.png",No
+📥,"Google Workspace Admin","Data Sources","Action","Consume Google Workspace Admin API",Yes,"gSuiteAdmin.svg",No
+📥,"Gotify","Data Sources","Action","Consume Gotify API",Yes,"gotify.png",No
+📥,"GraphQL","Data Sources","Action","Makes a GraphQL request and returns the received data",Yes,"graphql.png",No
+📥,"Grist","Data Sources","Action","Consume the Grist API",Yes,"grist.svg",No
+📥,"HaloPSA","Data Sources","Action","Consume HaloPSA API",Yes,"halopsa.svg",No
+📥,"Harvest","Data Sources","Action","Access data on Harvest",Yes,"harvest.png",No
+📥,"Help Scout","Data Sources","Action","Consume Help Scout API",Yes,"helpScout.svg",No
+📥,"iCalendar","Data Sources","Action","Create iCalendar file",No,"fa:calendar",No
+📥,"Item Lists","Data Sources","Action","Helper for working with lists of items and transforming arrays",No,"itemLists.svg",No
+📥,"Iterable","Data Sources","Action","Consume Iterable API",Yes,"iterable.png",No
+📥,"Keap","Data Sources","Action","Consume Keap API",Yes,"keap.png",No
+📥,"Line","Data Sources","Action","Consume Line API",Yes,"line.png",No
+📥,"LinkedIn","Data Sources","Action","Consume LinkedIn API",Yes,"linkedin.svg",No
+📥,"Magento 2","Data Sources","Action","Consume Magento API",Yes,"magento.svg",No
+📥,"MailerLite","Data Sources","Action","Consume MailerLite API",No,"MailerLite.svg",No
+📥,"Microsoft Dynamics CRM","Data Sources","Action","Consume Microsoft Dynamics CRM API",Yes,"microsoftDynamicsCrm.svg",Yes
+📥,"Microsoft Excel 365","Data Sources","Action","Consume Microsoft Excel API",No,"excel.svg",No
+📥,"Microsoft OneDrive","Data Sources","Action","Consume Microsoft OneDrive API",Yes,"oneDrive.svg",No
+📥,"Microsoft SQL","Data Sources","Action","Get, add and update data in Microsoft SQL",Yes,"mssql.svg",No
+📥,"Microsoft Teams","Data Sources","Action","Consume Microsoft Teams API",No,"teams.svg",No
+📥,"Microsoft To Do","Data Sources","Action","Consume Microsoft To Do API.",Yes,"todo.svg",No
+📥,"Mindee","Data Sources","Action","Consume Mindee API",Yes,"mindee.svg",No
+📥,"MongoDB","Data Sources","Action","Find, insert and update documents in MongoDB",Yes,"mongodb.svg",No
+📥,"MQTT","Data Sources","Action","Push messages to MQTT",Yes,"mqtt.svg",No
+📥,"MySQL","Data Sources","Action","Get, add and update data in MySQL",No,"mysql.svg",Yes
+📥,"n8n Form","Data Sources","Action","Generate webforms in n8n and pass their responses to the workflow",No,"form.svg",No
+📥,"Nextcloud","Data Sources","Action","Access data on Nextcloud",Yes,"nextcloud.svg",No
+📥,"NocoDB","Data Sources","Action","Read, update, write and delete data from NocoDB",Yes,"nocodb.svg",No
+📥,"Npm","Data Sources","Action","Consume NPM registry API",Yes,"npm.svg",No
+📥,"Onfleet","Data Sources","Action","Consume Onfleet API",Yes,"Onfleet.svg",No
+📥,"OpenWeatherMap","Data Sources","Action","Gets current and future weather information",Yes,"openWeatherMap.svg",No
+📥,"Oracle Database","Data Sources","Action","Get, add and update data in Oracle database",Yes,"oracle.svg",No
+📥,"Phantombuster","Data Sources","Action","Consume Phantombuster API",Yes,"phantombuster.png",No
+📥,"Philips Hue","Data Sources","Action","Consume Philips Hue API",Yes,"philipshue.png",No
+📥,"Postgres","Data Sources","Action","Get, add and update data in Postgres",No,"postgres.svg",No
+📥,"PostHog","Data Sources","Action","Consume PostHog API",Yes,"postHog.svg",No
+📥,"Pushbullet","Data Sources","Action","Consume Pushbullet API",Yes,"pushbullet.svg",No
+📥,"Pushcut","Data Sources","Action","Consume Pushcut API",Yes,"pushcut.png",No
+📥,"Pushover","Data Sources","Action","Consume Pushover API",Yes,"pushover.svg",No
+📥,"QuestDB","Data Sources","Action","Get, add and update data in QuestDB",Yes,"questdb.png",No
+📥,"Quick Base","Data Sources","Action","Integrate with the Quick Base RESTful API",Yes,"quickbase.png",No
+📥,"Read Binary File","Data Sources","Action","Reads a binary file from disk",No,"fa:file-import",No
+📥,"Read Binary Files","Data Sources","Action","Reads binary files from disk",No,"fa:file-import",No
+📥,"Read PDF","Data Sources","Action","Reads a PDF and extracts its content",No,"fa:file-pdf",No
+📥,"Read/Write Files from Disk","Data Sources","Action","Read or write files from the computer that runs n8n",No,"readWriteFile.svg",No
+📥,"Redis","Data Sources","Action","Get, send and update data in Redis",Yes,"redis.svg",No
+📥,"RSS Read","Data Sources","Action","Reads data from an RSS Feed",No,"fa:rss",No
+📥,"Sendy","Data Sources","Action","Consume Sendy API",Yes,"sendy.png",No
+📥,"Set","Data Sources","Action","Add or edit fields on an input item and optionally remove other fields",No,"fa:pen",No
+📥,"Snowflake","Data Sources","Action","Get, add and update data in Snowflake",Yes,"snowflake.svg",No
+📥,"Spotify","Data Sources","Action","Access public song data via the Spotify API",Yes,"spotify.svg",No
+📥,"SSH","Data Sources","Action","Execute commands via SSH",Yes,"fa:terminal",No
+📥,"Start","Data Sources","Action","Starts the workflow execution from this node",No,"fa:play",No
+📥,"Sticky Note","Data Sources","Action","Make your workflow easier to understand",No,"fa:sticky-note",No
+📥,"Stop and Error","Data Sources","Action","Throw an error in the workflow",No,"fa:exclamation-triangle",No
+📥,"Strapi","Data Sources","Action","Consume Strapi API",Yes,"strapi.svg",No
+📥,"Strava","Data Sources","Action","Consume Strava API",Yes,"strava.svg",No
+📥,"Supabase","Data Sources","Action","Add, get, delete and update data in a table",Yes,"supabase.svg",No
+📥,"TimescaleDB","Data Sources","Action","Add and update data in TimescaleDB",Yes,"timescaleDb.svg",Yes
+📥,"Twist","Data Sources","Action","Consume Twist API",Yes,"twist.png",No
+📥,"Venafi TLS Protect Cloud","Data Sources","Action","Consume Venafi TLS Protect Cloud API",Yes,"../venafi.svg",No
+📥,"Venafi TLS Protect Datacenter","Data Sources","Action","Consume Venafi TLS Protect Datacenter",Yes,"../venafi.svg",No
+📥,"Vonage","Data Sources","Action","Consume Vonage API",Yes,"vonage.svg",Yes
+📥,"Yourls","Data Sources","Action","Consume Yourls API",Yes,"yourls.png",No
+📥,"YouTube","Data Sources","Action","Consume YouTube API",Yes,"youTube.png",No
+📥,"Zammad","Data Sources","Action","Consume the Zammad API",Yes,"zammad.svg",No
+📥,"Zoom","Data Sources","Action","Consume Zoom API",Yes,"zoom.svg",No
+📤,"Affinity","Data Destinations","Action","Consume Affinity API",Yes,"affinity.svg",Yes
+📤,"AWS Certificate Manager","Data Destinations","Action","Sends data to AWS Certificate Manager",No,"acm.svg",No
+📤,"AWS Cognito","Data Destinations","Action","Sends data to AWS Cognito",Yes,,No
+📤,"AWS Comprehend","Data Destinations","Action","Sends data to Amazon Comprehend",No,"comprehend.svg",No
+📤,"AWS ELB","Data Destinations","Action","Sends data to AWS ELB API",No,"elb.svg",No
+📤,"AWS IAM","Data Destinations","Action","Interacts with Amazon IAM",Yes,"AwsIam.svg",No
+📤,"AWS Lambda","Data Destinations","Action","Invoke functions on AWS Lambda",No,"lambda.svg",No
+📤,"AWS Rekognition","Data Destinations","Action","Sends data to AWS Rekognition",No,"rekognition.svg",No
+📤,"AWS SES","Data Destinations","Action","Sends data to AWS SES",No,"ses.svg",No
+📤,"AWS SNS","Data Destinations","Action","Sends data to AWS SNS",No,"sns.svg",No
+📤,"AWS SQS","Data Destinations","Action","Sends messages to AWS SQS",No,"sqs.svg",No
+📤,"AWS Textract","Data Destinations","Action","Sends data to Amazon Textract",No,"textract.svg",No
+📤,"AWS Transcribe","Data Destinations","Action","Sends data to AWS Transcribe",Yes,"transcribe.svg",No
+📤,"AwsS3","Data Destinations","Action","Sends data to AWS S3",No,"s3.svg",No
+📤,"Bannerbear","Data Destinations","Action","Consume Bannerbear API",Yes,"bannerbear.png",No
+📤,"Baserow","Data Destinations","Action","Consume the Baserow API",Yes,"baserow.svg",No
+📤,"Beeminder","Data Destinations","Action","Consume Beeminder API",Yes,"beeminder.png",No
+📤,"Bitly","Data Destinations","Action","Consume Bitly API",Yes,"bitly.svg",No
+📤,"Brandfetch","Data Destinations","Action","Consume Brandfetch API",Yes,"brandfetch.png",No
+📤,"CircleCI","Data Destinations","Action","Consume CircleCI API",Yes,"circleCi.svg",Yes
+📤,"Clearbit","Data Destinations","Action","Consume Clearbit API",Yes,"clearbit.svg",No
+📤,"ClickUp","Data Destinations","Action","Consume ClickUp API (Beta)",Yes,"clickup.svg",No
+📤,"Cockpit","Data Destinations","Action","Consume Cockpit API",Yes,"cockpit.svg",Yes
+📤,"Coda","Data Destinations","Action","Consume Coda API",Yes,"coda.svg",No
+📤,"CoinGecko","Data Destinations","Action","Consume CoinGecko API",No,"coinGecko.svg",No
+📤,"Customer.io","Data Destinations","Action","Consume Customer.io API",Yes,"customerio.svg",Yes
+📤,"DebugHelper","Data Destinations","Action","Causes problems intentionally and generates useful data for debugging",No,"DebugHelper.svg",Yes
+📤,"Demio","Data Destinations","Action","Consume the Demio API",Yes,"demio.svg",No
+📤,"Discord","Data Destinations","Action","Sends data to Discord",No,"discord.svg",No
+📤,"Drift","Data Destinations","Action","Consume Drift API",Yes,"drift.svg",Yes
+📤,"E-goi","Data Destinations","Action","Consume E-goi API",Yes,"egoi.svg",No
+📤,"E2E Test","Data Destinations","Action","Dummy node used for e2e testing",No,"fa:play",No
+📤,"ERPNext","Data Destinations","Action","Consume ERPNext API",Yes,"erpnext.svg",No
+📤,"Flow","Data Destinations","Action","Consume Flow API",Yes,"flow.svg",No
+📤,"Freshdesk","Data Destinations","Action","Consume Freshdesk API",Yes,"freshdesk.svg",No
+📤,"Home Assistant","Data Destinations","Action","Consume Home Assistant API",Yes,"homeAssistant.svg",No
+📤,"HTTP Request","Data Destinations","Action","Makes an HTTP request and returns the response data",No,"httprequest.svg",Yes
+📤,"HubSpot","Data Destinations","Action","Consume HubSpot API",No,"hubspot.svg",No
+📤,"Humantic AI","Data Destinations","Action","Consume Humantic AI API",Yes,"humanticai.svg",No
+📤,"Hunter","Data Destinations","Action","Consume Hunter API",Yes,"hunter.png",No
+📤,"Intercom","Data Destinations","Action","Consume Intercom API",Yes,"intercom.svg",No
+📤,"Invoice Ninja","Data Destinations","Action","Consume Invoice Ninja API",Yes,"invoiceNinja.svg",No
+📤,"Jenkins","Data Destinations","Action","Consume Jenkins API",Yes,"jenkins.svg",No
+📤,"Jira Software","Data Destinations","Action","Consume Jira Software API",Yes,"jira.svg",No
+📤,"Linear","Data Destinations","Action","Consume Linear API",Yes,"linear.svg",No
+📤,"LingvaNex","Data Destinations","Action","Consume LingvaNex API",Yes,"lingvanex.png",No
+📤,"Mailchimp","Data Destinations","Action","Consume Mailchimp API",Yes,"mailchimp.svg",Yes
+📤,"Mailgun","Data Destinations","Action","Sends an email via Mailgun",Yes,"mailgun.svg",No
+📤,"Mailjet","Data Destinations","Action","Consume Mailjet API",Yes,"mailjet.svg",No
+📤,"Mandrill","Data Destinations","Action","Consume Mandrill API",Yes,"mandrill.svg",No
+📤,"Markdown","Data Destinations","Action","Convert data between Markdown and HTML",No,"markdown.svg",Yes
+📤,"Matrix","Data Destinations","Action","Consume Matrix API",Yes,"matrix.png",No
+📤,"Mattermost","Data Destinations","Action","Sends data to Mattermost",No,"mattermost.svg",No
+📤,"Mautic","Data Destinations","Action","Consume Mautic API",Yes,"mautic.svg",No
+📤,"Medium","Data Destinations","Action","Consume Medium API",Yes,"medium.png",No
+📤,"MessageBird","Data Destinations","Action","Sends SMS via MessageBird",Yes,"messagebird.svg",No
+📤,"Monday.com","Data Destinations","Action","Consume Monday.com API",Yes,"mondayCom.svg",No
+📤,"Netscaler ADC","Data Destinations","Action","Consume Netscaler ADC API",Yes,"netscaler.svg",Yes
+📤,"Notion","Data Destinations","Action","Consume Notion API",No,"notion.svg",Yes
+📤,"OpenThesaurus","Data Destinations","Action","Get synonmns for German words using the OpenThesaurus API",No,"openthesaurus.png",No
+📤,"Orbit","Data Destinations","Action","Consume Orbit API",Yes,"orbit.svg",Yes
+📤,"Oura","Data Destinations","Action","Consume Oura API",Yes,"oura.svg",Yes
+📤,"Paddle","Data Destinations","Action","Consume Paddle API",Yes,"paddle.png",No
+📤,"PagerDuty","Data Destinations","Action","Consume PagerDuty API",Yes,"pagerDuty.svg",No
+📤,"PayPal","Data Destinations","Action","Consume PayPal API",Yes,"paypal.svg",No
+📤,"Peekalink","Data Destinations","Action","Consume the Peekalink API",Yes,"peekalink.png",No
+📤,"ProfitWell","Data Destinations","Action","Consume ProfitWell API",Yes,"profitwell.svg",Yes
+📤,"QuickChart","Data Destinations","Action","Create a chart via QuickChart",No,"quickChart.svg",No
+📤,"RocketChat","Data Destinations","Action","Consume RocketChat API",Yes,"rocketchat.svg",No
+📤,"S3","Data Destinations","Action","Sends data to any S3-compatible service",Yes,"s3.png",No
+📤,"Salesforce","Data Destinations","Action","Consume Salesforce API",Yes,"salesforce.svg",No
+📤,"Salesmate","Data Destinations","Action","Consume Salesmate API",Yes,"salesmate.png",No
+📤,"SeaTable","Data Destinations","Action","Read, update, write and delete data from SeaTable",No,"seaTable.svg",No
+📤,"Segment","Data Destinations","Action","Consume Segment API",Yes,"segment.svg",No
+📤,"Send Email","Data Destinations","Action","Sends an email using SMTP protocol",No,"fa:envelope",No
+📤,"Sentry.io","Data Destinations","Action","Consume Sentry.io API",Yes,"sentryio.svg",Yes
+📤,"ServiceNow","Data Destinations","Action","Consume ServiceNow API",Yes,"servicenow.svg",No
+📤,"Shopify","Data Destinations","Action","Consume Shopify API",Yes,"shopify.svg",No
+📤,"Slack","Data Destinations","Action","Consume Slack API",No,"slack.svg",No
+📤,"Storyblok","Data Destinations","Action","Consume Storyblok API",Yes,"storyblok.svg",No
+📤,"SyncroMSP","Data Destinations","Action","Manage contacts, tickets and more from Syncro MSP",No,"syncromsp.png",No
+📤,"Telegram","Data Destinations","Action","Sends data to Telegram",Yes,"telegram.svg",No
+📤,"Todoist","Data Destinations","Action","Consume Todoist API",No,"todoist.svg",No
+📤,"TravisCI","Data Destinations","Action","Consume TravisCI API",Yes,"travisci.png",No
+📤,"Uplead","Data Destinations","Action","Consume Uplead API",Yes,"uplead.png",No
+📤,"uProc","Data Destinations","Action","Consume uProc API",Yes,"uproc.png",No
+📤,"UptimeRobot","Data Destinations","Action","Consume UptimeRobot API",Yes,"uptimerobot.svg",No
+📤,"Vero","Data Destinations","Action","Consume Vero API",Yes,"vero.svg",No
+📤,"WhatsApp Business Cloud","Data Destinations","Action","Access WhatsApp API",No,"whatsapp.svg",No
+📤,"WooCommerce","Data Destinations","Action","Consume WooCommerce API",Yes,"wooCommerce.svg",No
+📤,"Wordpress","Data Destinations","Action","Consume Wordpress API",Yes,"wordpress.svg",No
+📤,"Write Binary File","Data Destinations","Action","Writes a binary file to disk",No,"fa:file-export",No
+📤,"X (Formerly Twitter)","Data Destinations","Action","Consume the X API",No,"x.svg",Yes
+📤,"Xero","Data Destinations","Action","Consume Xero API",Yes,"xero.svg",No
+📤,"Zendesk","Data Destinations","Action","Consume Zendesk API",Yes,"zendesk.svg",No
+📤,"Zulip","Data Destinations","Action","Consume Zulip API",Yes,"zulip.svg",No
+🗂️,"No Operation, do nothing","Flow Control","Action","No Operation",No,"fa:arrow-right",No
+🗂️,"Simulate","Flow Control","Action","Simulate a node",No,"fa:arrow-right",No
+🗂️,"Split In Batches","Flow Control","Action","Split data into batches and iterate over each batch",No,"fa:th-large",No
+🗂️,"Track Time Saved","Flow Control","Action","Dynamically track time saved based on the workflow’s execution path and the number of items processed",No,"fa:timer",No
+🗂️,"Wait","Flow Control","Action","Wait before continue with execution",No,"fa:pause-circle",No

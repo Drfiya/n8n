@@ -1,0 +1,4222 @@
+{
+  "generatedAt": "2025-12-14T20:55:54.416Z",
+  "summary": {
+    "totalNodes": 434,
+    "nodesWithIcons": 422,
+    "nodesWithoutIcons": 12,
+    "nodesWithDarkModeIcons": 50,
+    "uniqueIconFiles": 335,
+    "uniqueDarkIconFiles": 41
+  },
+  "byFormat": {
+    "file": 372,
+    "other": 50
+  },
+  "byExtension": {
+    ".svg": 307,
+    ".png": 65,
+    "": 50
+  },
+  "byCategory": {
+    "transform": {
+      "totalNodes": 111,
+      "uniqueIcons": 109
+    },
+    "trigger": {
+      "totalNodes": 105,
+      "uniqueIcons": 102
+    },
+    "output": {
+      "totalNodes": 95,
+      "uniqueIcons": 95
+    },
+    "input": {
+      "totalNodes": 106,
+      "uniqueIcons": 104
+    },
+    "organization": {
+      "totalNodes": 5,
+      "uniqueIcons": 4
+    }
+  },
+  "uniqueIcons": [
+    "../venafi.svg",
+    "AwsIam.svg",
+    "DebugHelper.svg",
+    "MailerLite.svg",
+    "Okta.svg",
+    "Onfleet.svg",
+    "acm.svg",
+    "actionNetwork.svg",
+    "activeCampaign.svg",
+    "acuityScheduling.png",
+    "adalo.svg",
+    "affinity.svg",
+    "aggregate.svg",
+    "agilecrm.png",
+    "airtable.svg",
+    "airtop.svg",
+    "aitransform.svg",
+    "amqp.svg",
+    "analytics.svg",
+    "apiTemplateIo.svg",
+    "asana.svg",
+    "autopilot.svg",
+    "bannerbear.png",
+    "baserow.svg",
+    "beeminder.png",
+    "bitbucket.svg",
+    "bitly.svg",
+    "bitwarden.svg",
+    "box.png",
+    "brandfetch.png",
+    "brevo.svg",
+    "bubble.svg",
+    "cal.svg",
+    "calendly.svg",
+    "chargebee.png",
+    "circleCi.svg",
+    "ciscoWebex.png",
+    "clearbit.svg",
+    "clickup.svg",
+    "clockify.svg",
+    "cloudflare.svg",
+    "cockpit.svg",
+    "coda.svg",
+    "code.svg",
+    "coinGecko.svg",
+    "compare.svg",
+    "comprehend.svg",
+    "contentful.png",
+    "convertKit.svg",
+    "convertToFile.svg",
+    "copper.svg",
+    "cortex.svg",
+    "cratedb.png",
+    "customerio.svg",
+    "deepl.svg",
+    "demio.svg",
+    "dhl.svg",
+    "discord.svg",
+    "discourse.svg",
+    "disqus.png",
+    "drift.svg",
+    "dropbox.svg",
+    "dropcontact.svg",
+    "dynamodb.svg",
+    "egoi.svg",
+    "elasticSecurity.svg",
+    "elasticsearch.svg",
+    "elb.svg",
+    "emelia.svg",
+    "erpnext.svg",
+    "eventbrite.png",
+    "excel.svg",
+    "extractFromFile.svg",
+    "fa:arrow-right",
+    "fa:bug",
+    "fa:calendar",
+    "fa:clock",
+    "fa:cloud-download-alt",
+    "fa:code",
+    "fa:cut",
+    "fa:edit",
+    "fa:envelope",
+    "fa:exchange-alt",
+    "fa:exclamation-triangle",
+    "fa:file-archive",
+    "fa:file-code",
+    "fa:file-export",
+    "fa:file-import",
+    "fa:file-pdf",
+    "fa:filter",
+    "fa:fingerprint",
+    "fa:folder-open",
+    "fa:hourglass",
+    "fa:image",
+    "fa:inbox",
+    "fa:key",
+    "fa:map-signs",
+    "fa:mouse-pointer",
+    "fa:network-wired",
+    "fa:pause-circle",
+    "fa:pen",
+    "fa:play",
+    "fa:rss",
+    "fa:server",
+    "fa:sign-in-alt",
+    "fa:sign-out-alt",
+    "fa:sticky-note",
+    "fa:table",
+    "fa:tasks",
+    "fa:terminal",
+    "fa:th-large",
+    "fa:timer",
+    "facebook.svg",
+    "figma.svg",
+    "filemaker.png",
+    "flow.svg",
+    "form.svg",
+    "formio.svg",
+    "formstack.svg",
+    "freshdesk.svg",
+    "freshservice.svg",
+    "freshworksCrm.svg",
+    "gSuiteAdmin.svg",
+    "getResponse.png",
+    "ghost.svg",
+    "git.svg",
+    "github.svg",
+    "gitlab.svg",
+    "gmail.svg",
+    "gong.svg",
+    "googleAds.svg",
+    "googleBigQuery.svg",
+    "googleBusinessProfile.svg",
+    "googleCalendar.svg",
+    "googleChat.svg",
+    "googleCloudStorage.svg",
+    "googleContacts.png",
+    "googleDocs.svg",
+    "googleDrive.svg",
+    "googleFirebaseCloudFirestore.png",
+    "googleFirebaseRealtimeDatabase.svg",
+    "googlePerspective.svg",
+    "googleSheets.svg",
+    "googleTasks.svg",
+    "googlebooks.svg",
+    "googlecloudnaturallanguage.png",
+    "googleslides.svg",
+    "googletranslate.png",
+    "gotify.png",
+    "gotowebinar.svg",
+    "grafana.svg",
+    "graphql.png",
+    "grist.svg",
+    "gumroad.png",
+    "hackernews.png",
+    "halopsa.svg",
+    "harvest.png",
+    "helpScout.svg",
+    "highLevel.svg",
+    "homeAssistant.svg",
+    "html.svg",
+    "httprequest.svg",
+    "hubspot.svg",
+    "humanticai.svg",
+    "hunter.png",
+    "intercom.svg",
+    "invoiceNinja.svg",
+    "itemLists.svg",
+    "iterable.png",
+    "jenkins.svg",
+    "jira.svg",
+    "jotform.svg",
+    "jwt.svg",
+    "kafka.svg",
+    "keap.png",
+    "koBoToolbox.svg",
+    "lambda.svg",
+    "ldap.svg",
+    "lemlist.svg",
+    "limit.svg",
+    "line.png",
+    "linear.svg",
+    "lingvanex.png",
+    "linkedin.svg",
+    "loneScale.svg",
+    "magento.svg",
+    "mailcheck.svg",
+    "mailchimp.svg",
+    "mailgun.svg",
+    "mailjet.svg",
+    "mandrill.svg",
+    "markdown.svg",
+    "marketstack.svg",
+    "matrix.png",
+    "mattermost.svg",
+    "mautic.svg",
+    "medium.png",
+    "merge.svg",
+    "messagebird.svg",
+    "metabase.svg",
+    "microsoftDynamicsCrm.svg",
+    "microsoftGraph.svg",
+    "mindee.svg",
+    "misp.svg",
+    "mocean.svg",
+    "mondayCom.svg",
+    "mongodb.svg",
+    "monicaCrm.png",
+    "mqtt.svg",
+    "msg91.svg",
+    "mssql.svg",
+    "mysql.svg",
+    "n8n.svg",
+    "n8nTrigger.svg",
+    "nasa.png",
+    "netlify.svg",
+    "netscaler.svg",
+    "nextcloud.svg",
+    "nocodb.svg",
+    "notion.svg",
+    "npm.svg",
+    "odoo.svg",
+    "oneDrive.svg",
+    "onesimpleapi.svg",
+    "openAi.svg",
+    "openWeatherMap.svg",
+    "openthesaurus.png",
+    "oracle.svg",
+    "orbit.svg",
+    "oura.svg",
+    "outlook.svg",
+    "paddle.png",
+    "pagerDuty.svg",
+    "paypal.svg",
+    "peekalink.png",
+    "phantombuster.png",
+    "philipshue.png",
+    "pipedrive.svg",
+    "plivo.svg",
+    "postHog.svg",
+    "postbin.svg",
+    "postgres.svg",
+    "postmark.png",
+    "profitwell.svg",
+    "pushbullet.svg",
+    "pushcut.png",
+    "pushover.svg",
+    "questdb.png",
+    "quickChart.svg",
+    "quickbase.png",
+    "quickbooks.svg",
+    "rabbitmq.svg",
+    "raindrop.svg",
+    "readWriteFile.svg",
+    "reddit.svg",
+    "redis.svg",
+    "rekognition.svg",
+    "removeDuplicates.svg",
+    "rocketchat.svg",
+    "rundeck.png",
+    "s3.png",
+    "s3.svg",
+    "salesforce.svg",
+    "salesmate.png",
+    "seaTable.svg",
+    "securityScorecard.svg",
+    "segment.svg",
+    "sendGrid.svg",
+    "sendy.png",
+    "sentryio.svg",
+    "servicenow.svg",
+    "ses.svg",
+    "seven.svg",
+    "shopify.svg",
+    "signl4.png",
+    "slack.svg",
+    "snowflake.svg",
+    "sns.svg",
+    "sort.svg",
+    "splitOut.svg",
+    "splunk.svg",
+    "spotify.svg",
+    "sqs.svg",
+    "stackby.png",
+    "storyblok.svg",
+    "strapi.svg",
+    "strava.svg",
+    "stripe.svg",
+    "summarize.svg",
+    "supabase.svg",
+    "surveyMonkey.svg",
+    "syncromsp.png",
+    "taiga.svg",
+    "tapfiliate.svg",
+    "teams.svg",
+    "telegram.svg",
+    "textract.svg",
+    "thehive.svg",
+    "thehiveproject.svg",
+    "timescaleDb.svg",
+    "todo.svg",
+    "todoist.svg",
+    "toggl.png",
+    "transcribe.svg",
+    "travisci.png",
+    "trello.svg",
+    "twake.png",
+    "twilio.svg",
+    "twist.png",
+    "typeform.svg",
+    "unleashedSoftware.png",
+    "uplead.png",
+    "uproc.png",
+    "uptimerobot.svg",
+    "urlScanIo.svg",
+    "vero.svg",
+    "vonage.svg",
+    "webflow.svg",
+    "webhook.svg",
+    "wekan.svg",
+    "whatsapp.svg",
+    "wise.svg",
+    "wooCommerce.svg",
+    "wordpress.svg",
+    "workable.png",
+    "wufoo.png",
+    "x.svg",
+    "xero.svg",
+    "youTube.png",
+    "yourls.png",
+    "zammad.svg",
+    "zendesk.svg",
+    "zoho.svg",
+    "zoom.svg",
+    "zulip.svg"
+  ],
+  "uniqueDarkIcons": [
+    "DebugHelper.dark.svg",
+    "Okta.dark.svg",
+    "activeCampaign.dark.svg",
+    "affinity.dark.svg",
+    "bubble.dark.svg",
+    "cal.dark.svg",
+    "circleCi.dark.svg",
+    "clockify.dark.svg",
+    "cockpit.dark.svg",
+    "convertToFile.dark.svg",
+    "customerio.dark.svg",
+    "deepL.dark.svg",
+    "drift.dark.svg",
+    "extractFromFile.dark.svg",
+    "github.dark.svg",
+    "googlePerspective.dark.svg",
+    "html.dark.svg",
+    "httprequest.dark.svg",
+    "jotform.dark.svg",
+    "kafka.dark.svg",
+    "ldap.dark.svg",
+    "loneScale.dark.svg",
+    "mailchimp.dark.svg",
+    "markdown.dark.svg",
+    "marketstack.dark.svg",
+    "microsoftDynamicsCrm.dark.svg",
+    "mocean.dark.svg",
+    "msg91.dark.svg",
+    "mysql.dark.svg",
+    "netscaler.dark.svg",
+    "notion.dark.svg",
+    "openAi.dark.svg",
+    "orbit.dark.svg",
+    "oura.dark.svg",
+    "profitwell.dark.svg",
+    "sentryio.dark.svg",
+    "timescaleDb.dark.svg",
+    "typeform.dark.svg",
+    "vonage.dark.svg",
+    "webhook.dark.svg",
+    "x.dark.svg"
+  ],
+  "nodeIconMapping": [
+    {
+      "nodeId": "actionNetwork",
+      "nodeName": "Action Network",
+      "category": "transform",
+      "icon": "file:actionNetwork.svg",
+      "iconDark": null,
+      "iconFileName": "actionNetwork.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "activeCampaign",
+      "nodeName": "ActiveCampaign",
+      "category": "transform",
+      "icon": "file:activeCampaign.svg",
+      "iconDark": "file:activeCampaign.dark.svg",
+      "iconFileName": "activeCampaign.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "activeCampaignTrigger",
+      "nodeName": "ActiveCampaign Trigger",
+      "category": "trigger",
+      "icon": "file:activeCampaign.svg",
+      "iconDark": "file:activeCampaign.dark.svg",
+      "iconFileName": "activeCampaign.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "acuitySchedulingTrigger",
+      "nodeName": "Acuity Scheduling Trigger",
+      "category": "trigger",
+      "icon": "file:acuityScheduling.png",
+      "iconDark": null,
+      "iconFileName": "acuityScheduling.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "adalo",
+      "nodeName": "Adalo",
+      "category": "transform",
+      "icon": "file:adalo.svg",
+      "iconDark": null,
+      "iconFileName": "adalo.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "affinity",
+      "nodeName": "Affinity",
+      "category": "output",
+      "icon": "file:affinity.svg",
+      "iconDark": "file:affinity.dark.svg",
+      "iconFileName": "affinity.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "affinityTrigger",
+      "nodeName": "Affinity Trigger",
+      "category": "trigger",
+      "icon": "file:affinity.svg",
+      "iconDark": "file:affinity.dark.svg",
+      "iconFileName": "affinity.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "aggregate",
+      "nodeName": "Aggregate",
+      "category": "transform",
+      "icon": "file:aggregate.svg",
+      "iconDark": null,
+      "iconFileName": "aggregate.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "agileCrm",
+      "nodeName": "Agile CRM",
+      "category": "transform",
+      "icon": "file:agilecrm.png",
+      "iconDark": null,
+      "iconFileName": "agilecrm.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "aiTransform",
+      "nodeName": "AI Transform",
+      "category": "transform",
+      "icon": "file:aitransform.svg",
+      "iconDark": null,
+      "iconFileName": "aitransform.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "airtable",
+      "nodeName": "Airtable",
+      "category": "input",
+      "icon": "file:airtable.svg",
+      "iconDark": null,
+      "iconFileName": "airtable.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "airtableTrigger",
+      "nodeName": "Airtable Trigger",
+      "category": "trigger",
+      "icon": "file:airtable.svg",
+      "iconDark": null,
+      "iconFileName": "airtable.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "airtop",
+      "nodeName": "Airtop",
+      "category": "transform",
+      "icon": "file:airtop.svg",
+      "iconDark": null,
+      "iconFileName": "airtop.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "amqp",
+      "nodeName": "AMQP Sender",
+      "category": "transform",
+      "icon": "file:amqp.svg",
+      "iconDark": null,
+      "iconFileName": "amqp.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "amqpTrigger",
+      "nodeName": "AMQP Trigger",
+      "category": "trigger",
+      "icon": "file:amqp.svg",
+      "iconDark": null,
+      "iconFileName": "amqp.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "apiTemplateIo",
+      "nodeName": "APITemplate.io",
+      "category": "transform",
+      "icon": "file:apiTemplateIo.svg",
+      "iconDark": null,
+      "iconFileName": "apiTemplateIo.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "asana",
+      "nodeName": "Asana",
+      "category": "input",
+      "icon": "file:asana.svg",
+      "iconDark": null,
+      "iconFileName": "asana.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "asanaTrigger",
+      "nodeName": "Asana Trigger",
+      "category": "trigger",
+      "icon": "file:asana.svg",
+      "iconDark": null,
+      "iconFileName": "asana.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "autopilot",
+      "nodeName": "Autopilot",
+      "category": "input",
+      "icon": "file:autopilot.svg",
+      "iconDark": null,
+      "iconFileName": "autopilot.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "autopilotTrigger",
+      "nodeName": "Autopilot Trigger",
+      "category": "trigger",
+      "icon": "file:autopilot.svg",
+      "iconDark": null,
+      "iconFileName": "autopilot.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsCertificateManager",
+      "nodeName": "AWS Certificate Manager",
+      "category": "output",
+      "icon": "file:acm.svg",
+      "iconDark": null,
+      "iconFileName": "acm.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsComprehend",
+      "nodeName": "AWS Comprehend",
+      "category": "output",
+      "icon": "file:comprehend.svg",
+      "iconDark": null,
+      "iconFileName": "comprehend.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsDynamoDb",
+      "nodeName": "AWS DynamoDB",
+      "category": "transform",
+      "icon": "file:dynamodb.svg",
+      "iconDark": null,
+      "iconFileName": "dynamodb.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsElb",
+      "nodeName": "AWS ELB",
+      "category": "output",
+      "icon": "file:elb.svg",
+      "iconDark": null,
+      "iconFileName": "elb.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsIam",
+      "nodeName": "AWS IAM",
+      "category": "output",
+      "icon": "file:AwsIam.svg",
+      "iconDark": null,
+      "iconFileName": "AwsIam.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsLambda",
+      "nodeName": "AWS Lambda",
+      "category": "output",
+      "icon": "file:lambda.svg",
+      "iconDark": null,
+      "iconFileName": "lambda.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsRekognition",
+      "nodeName": "AWS Rekognition",
+      "category": "output",
+      "icon": "file:rekognition.svg",
+      "iconDark": null,
+      "iconFileName": "rekognition.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsSes",
+      "nodeName": "AWS SES",
+      "category": "output",
+      "icon": "file:ses.svg",
+      "iconDark": null,
+      "iconFileName": "ses.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsSns",
+      "nodeName": "AWS SNS",
+      "category": "output",
+      "icon": "file:sns.svg",
+      "iconDark": null,
+      "iconFileName": "sns.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsSnsTrigger",
+      "nodeName": "AWS SNS Trigger",
+      "category": "trigger",
+      "icon": "file:sns.svg",
+      "iconDark": null,
+      "iconFileName": "sns.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsSqs",
+      "nodeName": "AWS SQS",
+      "category": "output",
+      "icon": "file:sqs.svg",
+      "iconDark": null,
+      "iconFileName": "sqs.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsTextract",
+      "nodeName": "AWS Textract",
+      "category": "output",
+      "icon": "file:textract.svg",
+      "iconDark": null,
+      "iconFileName": "textract.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsTranscribe",
+      "nodeName": "AWS Transcribe",
+      "category": "output",
+      "icon": "file:transcribe.svg",
+      "iconDark": null,
+      "iconFileName": "transcribe.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "awsS3",
+      "nodeName": "AwsS3",
+      "category": "output",
+      "icon": "file:s3.svg",
+      "iconDark": null,
+      "iconFileName": "s3.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "bannerbear",
+      "nodeName": "Bannerbear",
+      "category": "output",
+      "icon": "file:bannerbear.png",
+      "iconDark": null,
+      "iconFileName": "bannerbear.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "baserow",
+      "nodeName": "Baserow",
+      "category": "output",
+      "icon": "file:baserow.svg",
+      "iconDark": null,
+      "iconFileName": "baserow.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "beeminder",
+      "nodeName": "Beeminder",
+      "category": "output",
+      "icon": "file:beeminder.png",
+      "iconDark": null,
+      "iconFileName": "beeminder.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "bitbucketTrigger",
+      "nodeName": "Bitbucket Trigger",
+      "category": "trigger",
+      "icon": "file:bitbucket.svg",
+      "iconDark": null,
+      "iconFileName": "bitbucket.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "bitly",
+      "nodeName": "Bitly",
+      "category": "output",
+      "icon": "file:bitly.svg",
+      "iconDark": null,
+      "iconFileName": "bitly.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "bitwarden",
+      "nodeName": "Bitwarden",
+      "category": "transform",
+      "icon": "file:bitwarden.svg",
+      "iconDark": null,
+      "iconFileName": "bitwarden.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "box",
+      "nodeName": "Box",
+      "category": "input",
+      "icon": "file:box.png",
+      "iconDark": null,
+      "iconFileName": "box.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "boxTrigger",
+      "nodeName": "Box Trigger",
+      "category": "trigger",
+      "icon": "file:box.png",
+      "iconDark": null,
+      "iconFileName": "box.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "Brandfetch",
+      "nodeName": "Brandfetch",
+      "category": "output",
+      "icon": "file:brandfetch.png",
+      "iconDark": null,
+      "iconFileName": "brandfetch.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "sendInBlue",
+      "nodeName": "Brevo",
+      "category": "transform",
+      "icon": "file:brevo.svg",
+      "iconDark": null,
+      "iconFileName": "brevo.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "sendInBlueApi",
+      "nodeName": "Brevo Trigger",
+      "category": "trigger",
+      "icon": "file:brevo.svg",
+      "iconDark": null,
+      "iconFileName": "brevo.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "bubble",
+      "nodeName": "Bubble",
+      "category": "transform",
+      "icon": "file:bubble.svg",
+      "iconDark": "file:bubble.dark.svg",
+      "iconFileName": "bubble.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "calTrigger",
+      "nodeName": "Cal.com Trigger",
+      "category": "trigger",
+      "icon": "file:cal.svg",
+      "iconDark": "file:cal.dark.svg",
+      "iconFileName": "cal.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "calendlyTrigger",
+      "nodeName": "Calendly Trigger",
+      "category": "trigger",
+      "icon": "file:calendly.svg",
+      "iconDark": null,
+      "iconFileName": "calendly.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "chargebee",
+      "nodeName": "Chargebee",
+      "category": "input",
+      "icon": "file:chargebee.png",
+      "iconDark": null,
+      "iconFileName": "chargebee.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "chargebeeTrigger",
+      "nodeName": "Chargebee Trigger",
+      "category": "trigger",
+      "icon": "file:chargebee.png",
+      "iconDark": null,
+      "iconFileName": "chargebee.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "circleCi",
+      "nodeName": "CircleCI",
+      "category": "output",
+      "icon": "file:circleCi.svg",
+      "iconDark": "file:circleCi.dark.svg",
+      "iconFileName": "circleCi.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "clearbit",
+      "nodeName": "Clearbit",
+      "category": "output",
+      "icon": "file:clearbit.svg",
+      "iconDark": null,
+      "iconFileName": "clearbit.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "clickUp",
+      "nodeName": "ClickUp",
+      "category": "output",
+      "icon": "file:clickup.svg",
+      "iconDark": null,
+      "iconFileName": "clickup.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "clickUpTrigger",
+      "nodeName": "ClickUp Trigger",
+      "category": "trigger",
+      "icon": "file:clickup.svg",
+      "iconDark": null,
+      "iconFileName": "clickup.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "clockify",
+      "nodeName": "Clockify",
+      "category": "transform",
+      "icon": "file:clockify.svg",
+      "iconDark": "file:clockify.dark.svg",
+      "iconFileName": "clockify.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "clockifyTrigger",
+      "nodeName": "Clockify Trigger",
+      "category": "trigger",
+      "icon": "file:clockify.svg",
+      "iconDark": "file:clockify.dark.svg",
+      "iconFileName": "clockify.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "cloudflare",
+      "nodeName": "Cloudflare",
+      "category": "input",
+      "icon": "file:cloudflare.svg",
+      "iconDark": null,
+      "iconFileName": "cloudflare.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "cockpit",
+      "nodeName": "Cockpit",
+      "category": "output",
+      "icon": "file:cockpit.svg",
+      "iconDark": "file:cockpit.dark.svg",
+      "iconFileName": "cockpit.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "coda",
+      "nodeName": "Coda",
+      "category": "output",
+      "icon": "file:coda.svg",
+      "iconDark": null,
+      "iconFileName": "coda.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "code",
+      "nodeName": "Code",
+      "category": "transform",
+      "icon": "file:code.svg",
+      "iconDark": null,
+      "iconFileName": "code.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "coinGecko",
+      "nodeName": "CoinGecko",
+      "category": "output",
+      "icon": "file:coinGecko.svg",
+      "iconDark": null,
+      "iconFileName": "coinGecko.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "compareDatasets",
+      "nodeName": "Compare Datasets",
+      "category": "transform",
+      "icon": "file:compare.svg",
+      "iconDark": null,
+      "iconFileName": "compare.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "compression",
+      "nodeName": "Compression",
+      "category": "transform",
+      "icon": "fa:file-archive",
+      "iconDark": null,
+      "iconFileName": "fa:file-archive",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "contentful",
+      "nodeName": "Contentful",
+      "category": "input",
+      "icon": "file:contentful.png",
+      "iconDark": null,
+      "iconFileName": "contentful.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "convertToFile",
+      "nodeName": "Convert to File",
+      "category": "input",
+      "icon": "file:convertToFile.svg",
+      "iconDark": "file:convertToFile.dark.svg",
+      "iconFileName": "convertToFile.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "moveBinaryData",
+      "nodeName": "Convert to/from binary data",
+      "category": "transform",
+      "icon": "fa:exchange-alt",
+      "iconDark": null,
+      "iconFileName": "fa:exchange-alt",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "convertKit",
+      "nodeName": "ConvertKit",
+      "category": "input",
+      "icon": "file:convertKit.svg",
+      "iconDark": null,
+      "iconFileName": "convertKit.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "convertKitTrigger",
+      "nodeName": "ConvertKit Trigger",
+      "category": "trigger",
+      "icon": "file:convertKit.svg",
+      "iconDark": null,
+      "iconFileName": "convertKit.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "copper",
+      "nodeName": "Copper",
+      "category": "transform",
+      "icon": "file:copper.svg",
+      "iconDark": null,
+      "iconFileName": "copper.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "copperTrigger",
+      "nodeName": "Copper Trigger",
+      "category": "trigger",
+      "icon": "file:copper.svg",
+      "iconDark": null,
+      "iconFileName": "copper.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "cortex",
+      "nodeName": "Cortex",
+      "category": "transform",
+      "icon": "file:cortex.svg",
+      "iconDark": null,
+      "iconFileName": "cortex.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "crateDb",
+      "nodeName": "CrateDB",
+      "category": "input",
+      "icon": "file:cratedb.png",
+      "iconDark": null,
+      "iconFileName": "cratedb.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "cron",
+      "nodeName": "Cron",
+      "category": "trigger",
+      "icon": "fa:clock",
+      "iconDark": null,
+      "iconFileName": "fa:clock",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "crypto",
+      "nodeName": "Crypto",
+      "category": "transform",
+      "icon": "fa:key",
+      "iconDark": null,
+      "iconFileName": "fa:key",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "customerIo",
+      "nodeName": "Customer.io",
+      "category": "output",
+      "icon": "file:customerio.svg",
+      "iconDark": "file:customerio.dark.svg",
+      "iconFileName": "customerio.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "customerIoTrigger",
+      "nodeName": "Customer.io Trigger",
+      "category": "trigger",
+      "icon": "file:customerio.svg",
+      "iconDark": "file:customerio.dark.svg",
+      "iconFileName": "customerio.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "dataTable",
+      "nodeName": "Data table",
+      "category": "input",
+      "icon": "fa:table",
+      "iconDark": null,
+      "iconFileName": "fa:table",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "dateTime",
+      "nodeName": "Date & Time",
+      "category": "transform",
+      "icon": "fa:clock",
+      "iconDark": null,
+      "iconFileName": "fa:clock",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "debugHelper",
+      "nodeName": "DebugHelper",
+      "category": "output",
+      "icon": "file:DebugHelper.svg",
+      "iconDark": "file:DebugHelper.dark.svg",
+      "iconFileName": "DebugHelper.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "deepL",
+      "nodeName": "DeepL",
+      "category": "input",
+      "icon": "file:deepl.svg",
+      "iconDark": "file:deepL.dark.svg",
+      "iconFileName": "deepl.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "demio",
+      "nodeName": "Demio",
+      "category": "output",
+      "icon": "file:demio.svg",
+      "iconDark": null,
+      "iconFileName": "demio.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "dhl",
+      "nodeName": "DHL",
+      "category": "input",
+      "icon": "file:dhl.svg",
+      "iconDark": null,
+      "iconFileName": "dhl.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "discord",
+      "nodeName": "Discord",
+      "category": "output",
+      "icon": "file:discord.svg",
+      "iconDark": null,
+      "iconFileName": "discord.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "discourse",
+      "nodeName": "Discourse",
+      "category": "input",
+      "icon": "file:discourse.svg",
+      "iconDark": null,
+      "iconFileName": "discourse.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "disqus",
+      "nodeName": "Disqus",
+      "category": "input",
+      "icon": "file:disqus.png",
+      "iconDark": null,
+      "iconFileName": "disqus.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "drift",
+      "nodeName": "Drift",
+      "category": "output",
+      "icon": "file:drift.svg",
+      "iconDark": "file:drift.dark.svg",
+      "iconFileName": "drift.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "dropbox",
+      "nodeName": "Dropbox",
+      "category": "input",
+      "icon": "file:dropbox.svg",
+      "iconDark": null,
+      "iconFileName": "dropbox.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "dropcontact",
+      "nodeName": "Dropcontact",
+      "category": "transform",
+      "icon": "file:dropcontact.svg",
+      "iconDark": null,
+      "iconFileName": "dropcontact.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "egoi",
+      "nodeName": "E-goi",
+      "category": "output",
+      "icon": "file:egoi.svg",
+      "iconDark": null,
+      "iconFileName": "egoi.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "e2eTest",
+      "nodeName": "E2E Test",
+      "category": "output",
+      "icon": "fa:play",
+      "iconDark": null,
+      "iconFileName": "fa:play",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "editImage",
+      "nodeName": "Edit Image",
+      "category": "transform",
+      "icon": "fa:image",
+      "iconDark": null,
+      "iconFileName": "fa:image",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "elasticSecurity",
+      "nodeName": "Elastic Security",
+      "category": "transform",
+      "icon": "file:elasticSecurity.svg",
+      "iconDark": null,
+      "iconFileName": "elasticSecurity.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "elasticsearch",
+      "nodeName": "Elasticsearch",
+      "category": "transform",
+      "icon": "file:elasticsearch.svg",
+      "iconDark": null,
+      "iconFileName": "elasticsearch.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "emailReadImap",
+      "nodeName": "Email Trigger (IMAP)",
+      "category": "trigger",
+      "icon": "fa:inbox",
+      "iconDark": null,
+      "iconFileName": "fa:inbox",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "emelia",
+      "nodeName": "Emelia",
+      "category": "input",
+      "icon": "file:emelia.svg",
+      "iconDark": null,
+      "iconFileName": "emelia.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "emeliaTrigger",
+      "nodeName": "Emelia Trigger",
+      "category": "trigger",
+      "icon": "file:emelia.svg",
+      "iconDark": null,
+      "iconFileName": "emelia.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "erpNext",
+      "nodeName": "ERPNext",
+      "category": "output",
+      "icon": "file:erpnext.svg",
+      "iconDark": null,
+      "iconFileName": "erpnext.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "errorTrigger",
+      "nodeName": "Error Trigger",
+      "category": "trigger",
+      "icon": "fa:bug",
+      "iconDark": null,
+      "iconFileName": "fa:bug",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "eventbriteTrigger",
+      "nodeName": "Eventbrite Trigger",
+      "category": "trigger",
+      "icon": "file:eventbrite.png",
+      "iconDark": null,
+      "iconFileName": "eventbrite.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "executeCommand",
+      "nodeName": "Execute Command",
+      "category": "transform",
+      "icon": "fa:terminal",
+      "iconDark": null,
+      "iconFileName": "fa:terminal",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "executeWorkflow",
+      "nodeName": "Execute Sub-workflow",
+      "category": "transform",
+      "icon": "fa:sign-in-alt",
+      "iconDark": null,
+      "iconFileName": "fa:sign-in-alt",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "executeWorkflowTrigger",
+      "nodeName": "Execute Workflow Trigger",
+      "category": "trigger",
+      "icon": "fa:sign-out-alt",
+      "iconDark": null,
+      "iconFileName": "fa:sign-out-alt",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "executionData",
+      "nodeName": "Execution Data",
+      "category": "input",
+      "icon": "fa:tasks",
+      "iconDark": null,
+      "iconFileName": "fa:tasks",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "extractFromFile",
+      "nodeName": "Extract from File",
+      "category": "input",
+      "icon": "file:extractFromFile.svg",
+      "iconDark": "file:extractFromFile.dark.svg",
+      "iconFileName": "extractFromFile.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "facebookGraphApi",
+      "nodeName": "Facebook Graph API",
+      "category": "transform",
+      "icon": "file:facebook.svg",
+      "iconDark": null,
+      "iconFileName": "facebook.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "facebookLeadAdsTrigger",
+      "nodeName": "Facebook Lead Ads Trigger",
+      "category": "trigger",
+      "icon": "file:facebook.svg",
+      "iconDark": null,
+      "iconFileName": "facebook.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "facebookTrigger",
+      "nodeName": "Facebook Trigger",
+      "category": "trigger",
+      "icon": "file:facebook.svg",
+      "iconDark": null,
+      "iconFileName": "facebook.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "figmaTrigger",
+      "nodeName": "Figma Trigger (Beta)",
+      "category": "trigger",
+      "icon": "file:figma.svg",
+      "iconDark": null,
+      "iconFileName": "figma.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "filemaker",
+      "nodeName": "FileMaker",
+      "category": "input",
+      "icon": "file:filemaker.png",
+      "iconDark": null,
+      "iconFileName": "filemaker.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "filter",
+      "nodeName": "Filter",
+      "category": "transform",
+      "icon": "fa:filter",
+      "iconDark": null,
+      "iconFileName": "fa:filter",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "flow",
+      "nodeName": "Flow",
+      "category": "output",
+      "icon": "file:flow.svg",
+      "iconDark": null,
+      "iconFileName": "flow.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "flowTrigger",
+      "nodeName": "Flow Trigger",
+      "category": "trigger",
+      "icon": "file:flow.svg",
+      "iconDark": null,
+      "iconFileName": "flow.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "formIoTrigger",
+      "nodeName": "Form.io Trigger",
+      "category": "trigger",
+      "icon": "file:formio.svg",
+      "iconDark": null,
+      "iconFileName": "formio.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "formstackTrigger",
+      "nodeName": "Formstack Trigger",
+      "category": "trigger",
+      "icon": "file:formstack.svg",
+      "iconDark": null,
+      "iconFileName": "formstack.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "freshdesk",
+      "nodeName": "Freshdesk",
+      "category": "output",
+      "icon": "file:freshdesk.svg",
+      "iconDark": null,
+      "iconFileName": "freshdesk.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "freshservice",
+      "nodeName": "Freshservice",
+      "category": "transform",
+      "icon": "file:freshservice.svg",
+      "iconDark": null,
+      "iconFileName": "freshservice.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "freshworksCrm",
+      "nodeName": "Freshworks CRM",
+      "category": "transform",
+      "icon": "file:freshworksCrm.svg",
+      "iconDark": null,
+      "iconFileName": "freshworksCrm.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "ftp",
+      "nodeName": "FTP",
+      "category": "input",
+      "icon": "fa:server",
+      "iconDark": null,
+      "iconFileName": "fa:server",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "function",
+      "nodeName": "Function",
+      "category": "transform",
+      "icon": "fa:code",
+      "iconDark": null,
+      "iconFileName": "fa:code",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "functionItem",
+      "nodeName": "Function Item",
+      "category": "transform",
+      "icon": "fa:code",
+      "iconDark": null,
+      "iconFileName": "fa:code",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "getResponse",
+      "nodeName": "GetResponse",
+      "category": "input",
+      "icon": "file:getResponse.png",
+      "iconDark": null,
+      "iconFileName": "getResponse.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "getResponseTrigger",
+      "nodeName": "GetResponse Trigger",
+      "category": "trigger",
+      "icon": "file:getResponse.png",
+      "iconDark": null,
+      "iconFileName": "getResponse.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "ghost",
+      "nodeName": "Ghost",
+      "category": "input",
+      "icon": "file:ghost.svg",
+      "iconDark": null,
+      "iconFileName": "ghost.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "git",
+      "nodeName": "Git",
+      "category": "transform",
+      "icon": "file:git.svg",
+      "iconDark": null,
+      "iconFileName": "git.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "githubTrigger",
+      "nodeName": "Github Trigger",
+      "category": "trigger",
+      "icon": "file:github.svg",
+      "iconDark": "file:github.dark.svg",
+      "iconFileName": "github.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "gitlab",
+      "nodeName": "GitLab",
+      "category": "input",
+      "icon": "file:gitlab.svg",
+      "iconDark": null,
+      "iconFileName": "gitlab.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "gitlabTrigger",
+      "nodeName": "GitLab Trigger",
+      "category": "trigger",
+      "icon": "file:gitlab.svg",
+      "iconDark": null,
+      "iconFileName": "gitlab.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "gmail",
+      "nodeName": "Gmail",
+      "category": "transform",
+      "icon": "file:gmail.svg",
+      "iconDark": null,
+      "iconFileName": "gmail.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "gmailTrigger",
+      "nodeName": "Gmail Trigger",
+      "category": "trigger",
+      "icon": "file:gmail.svg",
+      "iconDark": null,
+      "iconFileName": "gmail.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "gong",
+      "nodeName": "Gong",
+      "category": "transform",
+      "icon": "file:gong.svg",
+      "iconDark": null,
+      "iconFileName": "gong.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleAds",
+      "nodeName": "Google Ads",
+      "category": "transform",
+      "icon": "file:googleAds.svg",
+      "iconDark": null,
+      "iconFileName": "googleAds.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleAnalytics",
+      "nodeName": "Google Analytics",
+      "category": "transform",
+      "icon": "file:analytics.svg",
+      "iconDark": null,
+      "iconFileName": "analytics.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleBigQuery",
+      "nodeName": "Google BigQuery",
+      "category": "input",
+      "icon": "file:googleBigQuery.svg",
+      "iconDark": null,
+      "iconFileName": "googleBigQuery.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleBooks",
+      "nodeName": "Google Books",
+      "category": "input",
+      "icon": "file:googlebooks.svg",
+      "iconDark": null,
+      "iconFileName": "googlebooks.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleBusinessProfile",
+      "nodeName": "Google Business Profile",
+      "category": "input",
+      "icon": "file:googleBusinessProfile.svg",
+      "iconDark": null,
+      "iconFileName": "googleBusinessProfile.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleBusinessProfileTrigger",
+      "nodeName": "Google Business Profile Trigger",
+      "category": "trigger",
+      "icon": "file:googleBusinessProfile.svg",
+      "iconDark": null,
+      "iconFileName": "googleBusinessProfile.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleCalendar",
+      "nodeName": "Google Calendar",
+      "category": "input",
+      "icon": "file:googleCalendar.svg",
+      "iconDark": null,
+      "iconFileName": "googleCalendar.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleCalendarTrigger",
+      "nodeName": "Google Calendar Trigger",
+      "category": "trigger",
+      "icon": "file:googleCalendar.svg",
+      "iconDark": null,
+      "iconFileName": "googleCalendar.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleChat",
+      "nodeName": "Google Chat",
+      "category": "input",
+      "icon": "file:googleChat.svg",
+      "iconDark": null,
+      "iconFileName": "googleChat.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleFirebaseCloudFirestore",
+      "nodeName": "Google Cloud Firestore",
+      "category": "input",
+      "icon": "file:googleFirebaseCloudFirestore.png",
+      "iconDark": null,
+      "iconFileName": "googleFirebaseCloudFirestore.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleCloudNaturalLanguage",
+      "nodeName": "Google Cloud Natural Language",
+      "category": "input",
+      "icon": "file:googlecloudnaturallanguage.png",
+      "iconDark": null,
+      "iconFileName": "googlecloudnaturallanguage.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleFirebaseRealtimeDatabase",
+      "nodeName": "Google Cloud Realtime Database",
+      "category": "input",
+      "icon": "file:googleFirebaseRealtimeDatabase.svg",
+      "iconDark": null,
+      "iconFileName": "googleFirebaseRealtimeDatabase.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleCloudStorage",
+      "nodeName": "Google Cloud Storage",
+      "category": "transform",
+      "icon": "file:googleCloudStorage.svg",
+      "iconDark": null,
+      "iconFileName": "googleCloudStorage.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleContacts",
+      "nodeName": "Google Contacts",
+      "category": "input",
+      "icon": "file:googleContacts.png",
+      "iconDark": null,
+      "iconFileName": "googleContacts.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleDocs",
+      "nodeName": "Google Docs",
+      "category": "input",
+      "icon": "file:googleDocs.svg",
+      "iconDark": null,
+      "iconFileName": "googleDocs.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleDrive",
+      "nodeName": "Google Drive",
+      "category": "input",
+      "icon": "file:googleDrive.svg",
+      "iconDark": null,
+      "iconFileName": "googleDrive.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleDriveTrigger",
+      "nodeName": "Google Drive Trigger",
+      "category": "trigger",
+      "icon": "file:googleDrive.svg",
+      "iconDark": null,
+      "iconFileName": "googleDrive.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googlePerspective",
+      "nodeName": "Google Perspective",
+      "category": "transform",
+      "icon": "file:googlePerspective.svg",
+      "iconDark": "file:googlePerspective.dark.svg",
+      "iconFileName": "googlePerspective.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "googleSheets",
+      "nodeName": "Google Sheets",
+      "category": "input",
+      "icon": "file:googleSheets.svg",
+      "iconDark": null,
+      "iconFileName": "googleSheets.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleSheetsTrigger",
+      "nodeName": "Google Sheets Trigger",
+      "category": "trigger",
+      "icon": "file:googleSheets.svg",
+      "iconDark": null,
+      "iconFileName": "googleSheets.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleSlides",
+      "nodeName": "Google Slides",
+      "category": "input",
+      "icon": "file:googleslides.svg",
+      "iconDark": null,
+      "iconFileName": "googleslides.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleTasks",
+      "nodeName": "Google Tasks",
+      "category": "input",
+      "icon": "file:googleTasks.svg",
+      "iconDark": null,
+      "iconFileName": "googleTasks.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "googleTranslate",
+      "nodeName": "Google Translate",
+      "category": "input",
+      "icon": "file:googletranslate.png",
+      "iconDark": null,
+      "iconFileName": "googletranslate.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "gSuiteAdmin",
+      "nodeName": "Google Workspace Admin",
+      "category": "input",
+      "icon": "file:gSuiteAdmin.svg",
+      "iconDark": null,
+      "iconFileName": "gSuiteAdmin.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "gotify",
+      "nodeName": "Gotify",
+      "category": "input",
+      "icon": "file:gotify.png",
+      "iconDark": null,
+      "iconFileName": "gotify.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "goToWebinar",
+      "nodeName": "GoToWebinar",
+      "category": "transform",
+      "icon": "file:gotowebinar.svg",
+      "iconDark": null,
+      "iconFileName": "gotowebinar.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "grafana",
+      "nodeName": "Grafana",
+      "category": "transform",
+      "icon": "file:grafana.svg",
+      "iconDark": null,
+      "iconFileName": "grafana.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "graphql",
+      "nodeName": "GraphQL",
+      "category": "input",
+      "icon": "file:graphql.png",
+      "iconDark": null,
+      "iconFileName": "graphql.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "grist",
+      "nodeName": "Grist",
+      "category": "input",
+      "icon": "file:grist.svg",
+      "iconDark": null,
+      "iconFileName": "grist.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "gumroadTrigger",
+      "nodeName": "Gumroad Trigger",
+      "category": "trigger",
+      "icon": "file:gumroad.png",
+      "iconDark": null,
+      "iconFileName": "gumroad.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "hackerNews",
+      "nodeName": "Hacker News",
+      "category": "transform",
+      "icon": "file:hackernews.png",
+      "iconDark": null,
+      "iconFileName": "hackernews.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "haloPSA",
+      "nodeName": "HaloPSA",
+      "category": "input",
+      "icon": "file:halopsa.svg",
+      "iconDark": null,
+      "iconFileName": "halopsa.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "harvest",
+      "nodeName": "Harvest",
+      "category": "input",
+      "icon": "file:harvest.png",
+      "iconDark": null,
+      "iconFileName": "harvest.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "helpScout",
+      "nodeName": "Help Scout",
+      "category": "input",
+      "icon": "file:helpScout.svg",
+      "iconDark": null,
+      "iconFileName": "helpScout.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "helpScoutTrigger",
+      "nodeName": "Help Scout Trigger",
+      "category": "trigger",
+      "icon": "file:helpScout.svg",
+      "iconDark": null,
+      "iconFileName": "helpScout.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "highLevel",
+      "nodeName": "HighLevel",
+      "category": "transform",
+      "icon": "file:highLevel.svg",
+      "iconDark": null,
+      "iconFileName": "highLevel.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "homeAssistant",
+      "nodeName": "Home Assistant",
+      "category": "output",
+      "icon": "file:homeAssistant.svg",
+      "iconDark": null,
+      "iconFileName": "homeAssistant.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "html",
+      "nodeName": "HTML",
+      "category": "transform",
+      "icon": "file:html.svg",
+      "iconDark": "file:html.dark.svg",
+      "iconFileName": "html.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "htmlExtract",
+      "nodeName": "HTML Extract",
+      "category": "transform",
+      "icon": "fa:cut",
+      "iconDark": null,
+      "iconFileName": "fa:cut",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "httpRequest",
+      "nodeName": "HTTP Request",
+      "category": "output",
+      "icon": "file:httprequest.svg",
+      "iconDark": "file:httprequest.dark.svg",
+      "iconFileName": "httprequest.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "hubspot",
+      "nodeName": "HubSpot",
+      "category": "output",
+      "icon": "file:hubspot.svg",
+      "iconDark": null,
+      "iconFileName": "hubspot.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "hubspotTrigger",
+      "nodeName": "HubSpot Trigger",
+      "category": "trigger",
+      "icon": "file:hubspot.svg",
+      "iconDark": null,
+      "iconFileName": "hubspot.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "humanticAi",
+      "nodeName": "Humantic AI",
+      "category": "output",
+      "icon": "file:humanticai.svg",
+      "iconDark": null,
+      "iconFileName": "humanticai.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "hunter",
+      "nodeName": "Hunter",
+      "category": "output",
+      "icon": "file:hunter.png",
+      "iconDark": null,
+      "iconFileName": "hunter.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "iCal",
+      "nodeName": "iCalendar",
+      "category": "input",
+      "icon": "fa:calendar",
+      "iconDark": null,
+      "iconFileName": "fa:calendar",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "if",
+      "nodeName": "If",
+      "category": "transform",
+      "icon": "fa:map-signs",
+      "iconDark": null,
+      "iconFileName": "fa:map-signs",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "intercom",
+      "nodeName": "Intercom",
+      "category": "output",
+      "icon": "file:intercom.svg",
+      "iconDark": null,
+      "iconFileName": "intercom.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "interval",
+      "nodeName": "Interval",
+      "category": "trigger",
+      "icon": "fa:hourglass",
+      "iconDark": null,
+      "iconFileName": "fa:hourglass",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "invoiceNinja",
+      "nodeName": "Invoice Ninja",
+      "category": "output",
+      "icon": "file:invoiceNinja.svg",
+      "iconDark": null,
+      "iconFileName": "invoiceNinja.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "invoiceNinjaTrigger",
+      "nodeName": "Invoice Ninja Trigger",
+      "category": "trigger",
+      "icon": "file:invoiceNinja.svg",
+      "iconDark": null,
+      "iconFileName": "invoiceNinja.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "itemLists",
+      "nodeName": "Item Lists",
+      "category": "input",
+      "icon": "file:itemLists.svg",
+      "iconDark": null,
+      "iconFileName": "itemLists.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "iterable",
+      "nodeName": "Iterable",
+      "category": "input",
+      "icon": "file:iterable.png",
+      "iconDark": null,
+      "iconFileName": "iterable.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "jenkins",
+      "nodeName": "Jenkins",
+      "category": "output",
+      "icon": "file:jenkins.svg",
+      "iconDark": null,
+      "iconFileName": "jenkins.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "jira",
+      "nodeName": "Jira Software",
+      "category": "output",
+      "icon": "file:jira.svg",
+      "iconDark": null,
+      "iconFileName": "jira.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "jiraTrigger",
+      "nodeName": "Jira Trigger",
+      "category": "trigger",
+      "icon": "file:jira.svg",
+      "iconDark": null,
+      "iconFileName": "jira.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "jotFormTrigger",
+      "nodeName": "Jotform Trigger",
+      "category": "trigger",
+      "icon": "file:jotform.svg",
+      "iconDark": "file:jotform.dark.svg",
+      "iconFileName": "jotform.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "jwt",
+      "nodeName": "JWT",
+      "category": "transform",
+      "icon": "file:jwt.svg",
+      "iconDark": null,
+      "iconFileName": "jwt.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "kafka",
+      "nodeName": "Kafka",
+      "category": "transform",
+      "icon": "file:kafka.svg",
+      "iconDark": "file:kafka.dark.svg",
+      "iconFileName": "kafka.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "kafkaTrigger",
+      "nodeName": "Kafka Trigger",
+      "category": "trigger",
+      "icon": "file:kafka.svg",
+      "iconDark": "file:kafka.dark.svg",
+      "iconFileName": "kafka.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "keap",
+      "nodeName": "Keap",
+      "category": "input",
+      "icon": "file:keap.png",
+      "iconDark": null,
+      "iconFileName": "keap.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "keapTrigger",
+      "nodeName": "Keap Trigger",
+      "category": "trigger",
+      "icon": "file:keap.png",
+      "iconDark": null,
+      "iconFileName": "keap.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "koBoToolbox",
+      "nodeName": "KoBoToolbox",
+      "category": "transform",
+      "icon": "file:koBoToolbox.svg",
+      "iconDark": null,
+      "iconFileName": "koBoToolbox.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "koBoToolboxTrigger",
+      "nodeName": "KoBoToolbox Trigger",
+      "category": "trigger",
+      "icon": "file:koBoToolbox.svg",
+      "iconDark": null,
+      "iconFileName": "koBoToolbox.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "ldap",
+      "nodeName": "Ldap",
+      "category": "transform",
+      "icon": "file:ldap.svg",
+      "iconDark": "file:ldap.dark.svg",
+      "iconFileName": "ldap.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "lemlist",
+      "nodeName": "Lemlist",
+      "category": "transform",
+      "icon": "file:lemlist.svg",
+      "iconDark": null,
+      "iconFileName": "lemlist.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "lemlistTrigger",
+      "nodeName": "Lemlist Trigger",
+      "category": "trigger",
+      "icon": "file:lemlist.svg",
+      "iconDark": null,
+      "iconFileName": "lemlist.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "limit",
+      "nodeName": "Limit",
+      "category": "transform",
+      "icon": "file:limit.svg",
+      "iconDark": null,
+      "iconFileName": "limit.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "line",
+      "nodeName": "Line",
+      "category": "input",
+      "icon": "file:line.png",
+      "iconDark": null,
+      "iconFileName": "line.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "linear",
+      "nodeName": "Linear",
+      "category": "output",
+      "icon": "file:linear.svg",
+      "iconDark": null,
+      "iconFileName": "linear.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "linearTrigger",
+      "nodeName": "Linear Trigger",
+      "category": "trigger",
+      "icon": "file:linear.svg",
+      "iconDark": null,
+      "iconFileName": "linear.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "lingvaNex",
+      "nodeName": "LingvaNex",
+      "category": "output",
+      "icon": "file:lingvanex.png",
+      "iconDark": null,
+      "iconFileName": "lingvanex.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "linkedIn",
+      "nodeName": "LinkedIn",
+      "category": "input",
+      "icon": "file:linkedin.svg",
+      "iconDark": null,
+      "iconFileName": "linkedin.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "localFileTrigger",
+      "nodeName": "Local File Trigger",
+      "category": "trigger",
+      "icon": "fa:folder-open",
+      "iconDark": null,
+      "iconFileName": "fa:folder-open",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "loneScale",
+      "nodeName": "LoneScale",
+      "category": "transform",
+      "icon": "file:loneScale.svg",
+      "iconDark": "file:loneScale.dark.svg",
+      "iconFileName": "loneScale.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "loneScaleTrigger",
+      "nodeName": "LoneScale Trigger",
+      "category": "trigger",
+      "icon": "file:loneScale.svg",
+      "iconDark": "file:loneScale.dark.svg",
+      "iconFileName": "loneScale.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "magento2",
+      "nodeName": "Magento 2",
+      "category": "input",
+      "icon": "file:magento.svg",
+      "iconDark": null,
+      "iconFileName": "magento.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mailcheck",
+      "nodeName": "Mailcheck",
+      "category": "transform",
+      "icon": "file:mailcheck.svg",
+      "iconDark": null,
+      "iconFileName": "mailcheck.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mailchimp",
+      "nodeName": "Mailchimp",
+      "category": "output",
+      "icon": "file:mailchimp.svg",
+      "iconDark": "file:mailchimp.dark.svg",
+      "iconFileName": "mailchimp.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "mailchimpTrigger",
+      "nodeName": "Mailchimp Trigger",
+      "category": "trigger",
+      "icon": "file:mailchimp.svg",
+      "iconDark": "file:mailchimp.dark.svg",
+      "iconFileName": "mailchimp.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "mailerLite",
+      "nodeName": "MailerLite",
+      "category": "input",
+      "icon": "file:MailerLite.svg",
+      "iconDark": null,
+      "iconFileName": "MailerLite.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mailerLiteTrigger",
+      "nodeName": "MailerLite Trigger",
+      "category": "trigger",
+      "icon": "file:MailerLite.svg",
+      "iconDark": null,
+      "iconFileName": "MailerLite.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mailgun",
+      "nodeName": "Mailgun",
+      "category": "output",
+      "icon": "file:mailgun.svg",
+      "iconDark": null,
+      "iconFileName": "mailgun.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mailjet",
+      "nodeName": "Mailjet",
+      "category": "output",
+      "icon": "file:mailjet.svg",
+      "iconDark": null,
+      "iconFileName": "mailjet.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mailjetTrigger",
+      "nodeName": "Mailjet Trigger",
+      "category": "trigger",
+      "icon": "file:mailjet.svg",
+      "iconDark": null,
+      "iconFileName": "mailjet.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mandrill",
+      "nodeName": "Mandrill",
+      "category": "output",
+      "icon": "file:mandrill.svg",
+      "iconDark": null,
+      "iconFileName": "mandrill.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "manualTrigger",
+      "nodeName": "Manual Trigger",
+      "category": "trigger",
+      "icon": "fa:mouse-pointer",
+      "iconDark": null,
+      "iconFileName": "fa:mouse-pointer",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "markdown",
+      "nodeName": "Markdown",
+      "category": "output",
+      "icon": "file:markdown.svg",
+      "iconDark": "file:markdown.dark.svg",
+      "iconFileName": "markdown.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "marketstack",
+      "nodeName": "Marketstack",
+      "category": "transform",
+      "icon": "file:marketstack.svg",
+      "iconDark": "file:marketstack.dark.svg",
+      "iconFileName": "marketstack.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "matrix",
+      "nodeName": "Matrix",
+      "category": "output",
+      "icon": "file:matrix.png",
+      "iconDark": null,
+      "iconFileName": "matrix.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mattermost",
+      "nodeName": "Mattermost",
+      "category": "output",
+      "icon": "file:mattermost.svg",
+      "iconDark": null,
+      "iconFileName": "mattermost.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mautic",
+      "nodeName": "Mautic",
+      "category": "output",
+      "icon": "file:mautic.svg",
+      "iconDark": null,
+      "iconFileName": "mautic.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mauticTrigger",
+      "nodeName": "Mautic Trigger",
+      "category": "trigger",
+      "icon": "file:mautic.svg",
+      "iconDark": null,
+      "iconFileName": "mautic.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "medium",
+      "nodeName": "Medium",
+      "category": "output",
+      "icon": "file:medium.png",
+      "iconDark": null,
+      "iconFileName": "medium.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "merge",
+      "nodeName": "Merge",
+      "category": "transform",
+      "icon": "file:merge.svg",
+      "iconDark": null,
+      "iconFileName": "merge.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "messageBird",
+      "nodeName": "MessageBird",
+      "category": "output",
+      "icon": "file:messagebird.svg",
+      "iconDark": null,
+      "iconFileName": "messagebird.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "metabase",
+      "nodeName": "Metabase",
+      "category": "transform",
+      "icon": "file:metabase.svg",
+      "iconDark": null,
+      "iconFileName": "metabase.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "microsoftDynamicsCrm",
+      "nodeName": "Microsoft Dynamics CRM",
+      "category": "input",
+      "icon": "file:microsoftDynamicsCrm.svg",
+      "iconDark": "file:microsoftDynamicsCrm.dark.svg",
+      "iconFileName": "microsoftDynamicsCrm.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "microsoftExcel",
+      "nodeName": "Microsoft Excel 365",
+      "category": "input",
+      "icon": "file:excel.svg",
+      "iconDark": null,
+      "iconFileName": "excel.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "microsoftGraphSecurity",
+      "nodeName": "Microsoft Graph Security",
+      "category": "transform",
+      "icon": "file:microsoftGraph.svg",
+      "iconDark": null,
+      "iconFileName": "microsoftGraph.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "microsoftOneDrive",
+      "nodeName": "Microsoft OneDrive",
+      "category": "input",
+      "icon": "file:oneDrive.svg",
+      "iconDark": null,
+      "iconFileName": "oneDrive.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "microsoftOneDriveTrigger",
+      "nodeName": "Microsoft OneDrive Trigger",
+      "category": "trigger",
+      "icon": "file:oneDrive.svg",
+      "iconDark": null,
+      "iconFileName": "oneDrive.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "microsoftOutlook",
+      "nodeName": "Microsoft Outlook",
+      "category": "transform",
+      "icon": "file:outlook.svg",
+      "iconDark": null,
+      "iconFileName": "outlook.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "microsoftOutlookTrigger",
+      "nodeName": "Microsoft Outlook Trigger",
+      "category": "trigger",
+      "icon": "file:outlook.svg",
+      "iconDark": null,
+      "iconFileName": "outlook.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "microsoftSql",
+      "nodeName": "Microsoft SQL",
+      "category": "input",
+      "icon": "file:mssql.svg",
+      "iconDark": null,
+      "iconFileName": "mssql.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "microsoftTeams",
+      "nodeName": "Microsoft Teams",
+      "category": "input",
+      "icon": "file:teams.svg",
+      "iconDark": null,
+      "iconFileName": "teams.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "microsoftTeamsTrigger",
+      "nodeName": "Microsoft Teams Trigger",
+      "category": "trigger",
+      "icon": "file:teams.svg",
+      "iconDark": null,
+      "iconFileName": "teams.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "microsoftToDo",
+      "nodeName": "Microsoft To Do",
+      "category": "input",
+      "icon": "file:todo.svg",
+      "iconDark": null,
+      "iconFileName": "todo.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mindee",
+      "nodeName": "Mindee",
+      "category": "input",
+      "icon": "file:mindee.svg",
+      "iconDark": null,
+      "iconFileName": "mindee.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "misp",
+      "nodeName": "MISP",
+      "category": "transform",
+      "icon": "file:misp.svg",
+      "iconDark": null,
+      "iconFileName": "misp.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mocean",
+      "nodeName": "Mocean",
+      "category": "transform",
+      "icon": "file:mocean.svg",
+      "iconDark": "file:mocean.dark.svg",
+      "iconFileName": "mocean.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "mondayCom",
+      "nodeName": "Monday.com",
+      "category": "output",
+      "icon": "file:mondayCom.svg",
+      "iconDark": null,
+      "iconFileName": "mondayCom.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mongoDb",
+      "nodeName": "MongoDB",
+      "category": "input",
+      "icon": "file:mongodb.svg",
+      "iconDark": null,
+      "iconFileName": "mongodb.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "monicaCrm",
+      "nodeName": "Monica CRM",
+      "category": "transform",
+      "icon": "file:monicaCrm.png",
+      "iconDark": null,
+      "iconFileName": "monicaCrm.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mqtt",
+      "nodeName": "MQTT",
+      "category": "input",
+      "icon": "file:mqtt.svg",
+      "iconDark": null,
+      "iconFileName": "mqtt.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "mqttTrigger",
+      "nodeName": "MQTT Trigger",
+      "category": "trigger",
+      "icon": "file:mqtt.svg",
+      "iconDark": null,
+      "iconFileName": "mqtt.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "msg91",
+      "nodeName": "MSG91",
+      "category": "transform",
+      "icon": "file:msg91.svg",
+      "iconDark": "file:msg91.dark.svg",
+      "iconFileName": "msg91.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "mySql",
+      "nodeName": "MySQL",
+      "category": "input",
+      "icon": "file:mysql.svg",
+      "iconDark": "file:mysql.dark.svg",
+      "iconFileName": "mysql.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "n8n",
+      "nodeName": "n8n",
+      "category": "transform",
+      "icon": "file:n8n.svg",
+      "iconDark": null,
+      "iconFileName": "n8n.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "form",
+      "nodeName": "n8n Form",
+      "category": "input",
+      "icon": "file:form.svg",
+      "iconDark": null,
+      "iconFileName": "form.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "formTrigger",
+      "nodeName": "n8n Form Trigger",
+      "category": "trigger",
+      "icon": "file:form.svg",
+      "iconDark": null,
+      "iconFileName": "form.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "n8nTrigger",
+      "nodeName": "n8n Trigger",
+      "category": "trigger",
+      "icon": "file:n8nTrigger.svg",
+      "iconDark": null,
+      "iconFileName": "n8nTrigger.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "nasa",
+      "nodeName": "NASA",
+      "category": "transform",
+      "icon": "file:nasa.png",
+      "iconDark": null,
+      "iconFileName": "nasa.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "netlify",
+      "nodeName": "Netlify",
+      "category": "transform",
+      "icon": "file:netlify.svg",
+      "iconDark": null,
+      "iconFileName": "netlify.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "netlifyTrigger",
+      "nodeName": "Netlify Trigger",
+      "category": "trigger",
+      "icon": "file:netlify.svg",
+      "iconDark": null,
+      "iconFileName": "netlify.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "citrixAdc",
+      "nodeName": "Netscaler ADC",
+      "category": "output",
+      "icon": "file:netscaler.svg",
+      "iconDark": "file:netscaler.dark.svg",
+      "iconFileName": "netscaler.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "nextCloud",
+      "nodeName": "Nextcloud",
+      "category": "input",
+      "icon": "file:nextcloud.svg",
+      "iconDark": null,
+      "iconFileName": "nextcloud.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "noOp",
+      "nodeName": "No Operation, do nothing",
+      "category": "organization",
+      "icon": "fa:arrow-right",
+      "iconDark": null,
+      "iconFileName": "fa:arrow-right",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "nocoDb",
+      "nodeName": "NocoDB",
+      "category": "input",
+      "icon": "file:nocodb.svg",
+      "iconDark": null,
+      "iconFileName": "nocodb.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "notion",
+      "nodeName": "Notion",
+      "category": "output",
+      "icon": "file:notion.svg",
+      "iconDark": "file:notion.dark.svg",
+      "iconFileName": "notion.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "notionTrigger",
+      "nodeName": "Notion Trigger",
+      "category": "trigger",
+      "icon": "file:notion.svg",
+      "iconDark": "file:notion.dark.svg",
+      "iconFileName": "notion.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "npm",
+      "nodeName": "Npm",
+      "category": "input",
+      "icon": "file:npm.svg",
+      "iconDark": null,
+      "iconFileName": "npm.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "odoo",
+      "nodeName": "Odoo",
+      "category": "transform",
+      "icon": "file:odoo.svg",
+      "iconDark": null,
+      "iconFileName": "odoo.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "okta",
+      "nodeName": "Okta",
+      "category": "transform",
+      "icon": "file:Okta.svg",
+      "iconDark": "file:Okta.dark.svg",
+      "iconFileName": "Okta.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "oneSimpleApi",
+      "nodeName": "One Simple API",
+      "category": "transform",
+      "icon": "file:onesimpleapi.svg",
+      "iconDark": null,
+      "iconFileName": "onesimpleapi.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "onfleet",
+      "nodeName": "Onfleet",
+      "category": "input",
+      "icon": "file:Onfleet.svg",
+      "iconDark": null,
+      "iconFileName": "Onfleet.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "onfleetTrigger",
+      "nodeName": "Onfleet Trigger",
+      "category": "trigger",
+      "icon": "file:Onfleet.svg",
+      "iconDark": null,
+      "iconFileName": "Onfleet.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "openAi",
+      "nodeName": "OpenAI",
+      "category": "transform",
+      "icon": "file:openAi.svg",
+      "iconDark": "file:openAi.dark.svg",
+      "iconFileName": "openAi.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "openThesaurus",
+      "nodeName": "OpenThesaurus",
+      "category": "output",
+      "icon": "file:openthesaurus.png",
+      "iconDark": null,
+      "iconFileName": "openthesaurus.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "openWeatherMap",
+      "nodeName": "OpenWeatherMap",
+      "category": "input",
+      "icon": "file:openWeatherMap.svg",
+      "iconDark": null,
+      "iconFileName": "openWeatherMap.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "oracleDatabase",
+      "nodeName": "Oracle Database",
+      "category": "input",
+      "icon": "file:oracle.svg",
+      "iconDark": null,
+      "iconFileName": "oracle.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "orbit",
+      "nodeName": "Orbit",
+      "category": "output",
+      "icon": "file:orbit.svg",
+      "iconDark": "file:orbit.dark.svg",
+      "iconFileName": "orbit.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "oura",
+      "nodeName": "Oura",
+      "category": "output",
+      "icon": "file:oura.svg",
+      "iconDark": "file:oura.dark.svg",
+      "iconFileName": "oura.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "paddle",
+      "nodeName": "Paddle",
+      "category": "output",
+      "icon": "file:paddle.png",
+      "iconDark": null,
+      "iconFileName": "paddle.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "pagerDuty",
+      "nodeName": "PagerDuty",
+      "category": "output",
+      "icon": "file:pagerDuty.svg",
+      "iconDark": null,
+      "iconFileName": "pagerDuty.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "payPal",
+      "nodeName": "PayPal",
+      "category": "output",
+      "icon": "file:paypal.svg",
+      "iconDark": null,
+      "iconFileName": "paypal.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "payPalTrigger",
+      "nodeName": "PayPal Trigger",
+      "category": "trigger",
+      "icon": "file:paypal.svg",
+      "iconDark": null,
+      "iconFileName": "paypal.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "peekalink",
+      "nodeName": "Peekalink",
+      "category": "output",
+      "icon": "file:peekalink.png",
+      "iconDark": null,
+      "iconFileName": "peekalink.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "phantombuster",
+      "nodeName": "Phantombuster",
+      "category": "input",
+      "icon": "file:phantombuster.png",
+      "iconDark": null,
+      "iconFileName": "phantombuster.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "philipsHue",
+      "nodeName": "Philips Hue",
+      "category": "input",
+      "icon": "file:philipshue.png",
+      "iconDark": null,
+      "iconFileName": "philipshue.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "pipedrive",
+      "nodeName": "Pipedrive",
+      "category": "transform",
+      "icon": "file:pipedrive.svg",
+      "iconDark": null,
+      "iconFileName": "pipedrive.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "pipedriveTrigger",
+      "nodeName": "Pipedrive Trigger",
+      "category": "trigger",
+      "icon": "file:pipedrive.svg",
+      "iconDark": null,
+      "iconFileName": "pipedrive.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "plivo",
+      "nodeName": "Plivo",
+      "category": "transform",
+      "icon": "file:plivo.svg",
+      "iconDark": null,
+      "iconFileName": "plivo.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "postBin",
+      "nodeName": "PostBin",
+      "category": "transform",
+      "icon": "file:postbin.svg",
+      "iconDark": null,
+      "iconFileName": "postbin.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "postgres",
+      "nodeName": "Postgres",
+      "category": "input",
+      "icon": "file:postgres.svg",
+      "iconDark": null,
+      "iconFileName": "postgres.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "postgresTrigger",
+      "nodeName": "Postgres Trigger",
+      "category": "trigger",
+      "icon": "file:postgres.svg",
+      "iconDark": null,
+      "iconFileName": "postgres.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "postHog",
+      "nodeName": "PostHog",
+      "category": "input",
+      "icon": "file:postHog.svg",
+      "iconDark": null,
+      "iconFileName": "postHog.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "postmarkTrigger",
+      "nodeName": "Postmark Trigger",
+      "category": "trigger",
+      "icon": "file:postmark.png",
+      "iconDark": null,
+      "iconFileName": "postmark.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "profitWell",
+      "nodeName": "ProfitWell",
+      "category": "output",
+      "icon": "file:profitwell.svg",
+      "iconDark": "file:profitwell.dark.svg",
+      "iconFileName": "profitwell.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "pushbullet",
+      "nodeName": "Pushbullet",
+      "category": "input",
+      "icon": "file:pushbullet.svg",
+      "iconDark": null,
+      "iconFileName": "pushbullet.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "pushcut",
+      "nodeName": "Pushcut",
+      "category": "input",
+      "icon": "file:pushcut.png",
+      "iconDark": null,
+      "iconFileName": "pushcut.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "pushcutTrigger",
+      "nodeName": "Pushcut Trigger",
+      "category": "trigger",
+      "icon": "file:pushcut.png",
+      "iconDark": null,
+      "iconFileName": "pushcut.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "pushover",
+      "nodeName": "Pushover",
+      "category": "input",
+      "icon": "file:pushover.svg",
+      "iconDark": null,
+      "iconFileName": "pushover.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "questDb",
+      "nodeName": "QuestDB",
+      "category": "input",
+      "icon": "file:questdb.png",
+      "iconDark": null,
+      "iconFileName": "questdb.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "quickbase",
+      "nodeName": "Quick Base",
+      "category": "input",
+      "icon": "file:quickbase.png",
+      "iconDark": null,
+      "iconFileName": "quickbase.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "quickbooks",
+      "nodeName": "QuickBooks Online",
+      "category": "transform",
+      "icon": "file:quickbooks.svg",
+      "iconDark": null,
+      "iconFileName": "quickbooks.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "quickChart",
+      "nodeName": "QuickChart",
+      "category": "output",
+      "icon": "file:quickChart.svg",
+      "iconDark": null,
+      "iconFileName": "quickChart.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "rabbitmq",
+      "nodeName": "RabbitMQ",
+      "category": "transform",
+      "icon": "file:rabbitmq.svg",
+      "iconDark": null,
+      "iconFileName": "rabbitmq.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "rabbitmqTrigger",
+      "nodeName": "RabbitMQ Trigger",
+      "category": "trigger",
+      "icon": "file:rabbitmq.svg",
+      "iconDark": null,
+      "iconFileName": "rabbitmq.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "raindrop",
+      "nodeName": "Raindrop",
+      "category": "transform",
+      "icon": "file:raindrop.svg",
+      "iconDark": null,
+      "iconFileName": "raindrop.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "readBinaryFile",
+      "nodeName": "Read Binary File",
+      "category": "input",
+      "icon": "fa:file-import",
+      "iconDark": null,
+      "iconFileName": "fa:file-import",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "readBinaryFiles",
+      "nodeName": "Read Binary Files",
+      "category": "input",
+      "icon": "fa:file-import",
+      "iconDark": null,
+      "iconFileName": "fa:file-import",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "readPDF",
+      "nodeName": "Read PDF",
+      "category": "input",
+      "icon": "fa:file-pdf",
+      "iconDark": null,
+      "iconFileName": "fa:file-pdf",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "readWriteFile",
+      "nodeName": "Read/Write Files from Disk",
+      "category": "input",
+      "icon": "file:readWriteFile.svg",
+      "iconDark": null,
+      "iconFileName": "readWriteFile.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "reddit",
+      "nodeName": "Reddit",
+      "category": "transform",
+      "icon": "file:reddit.svg",
+      "iconDark": null,
+      "iconFileName": "reddit.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "redis",
+      "nodeName": "Redis",
+      "category": "input",
+      "icon": "file:redis.svg",
+      "iconDark": null,
+      "iconFileName": "redis.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "redisTrigger",
+      "nodeName": "Redis Trigger",
+      "category": "trigger",
+      "icon": "file:redis.svg",
+      "iconDark": null,
+      "iconFileName": "redis.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "removeDuplicates",
+      "nodeName": "Remove Duplicates",
+      "category": "transform",
+      "icon": "file:removeDuplicates.svg",
+      "iconDark": null,
+      "iconFileName": "removeDuplicates.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "renameKeys",
+      "nodeName": "Rename Keys",
+      "category": "transform",
+      "icon": "fa:edit",
+      "iconDark": null,
+      "iconFileName": "fa:edit",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "respondToWebhook",
+      "nodeName": "Respond to Webhook",
+      "category": "transform",
+      "icon": "file:webhook.svg",
+      "iconDark": "file:webhook.dark.svg",
+      "iconFileName": "webhook.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "rocketchat",
+      "nodeName": "RocketChat",
+      "category": "output",
+      "icon": "file:rocketchat.svg",
+      "iconDark": null,
+      "iconFileName": "rocketchat.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "rssFeedReadTrigger",
+      "nodeName": "RSS Feed Trigger",
+      "category": "trigger",
+      "icon": "fa:rss",
+      "iconDark": null,
+      "iconFileName": "fa:rss",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "rssFeedRead",
+      "nodeName": "RSS Read",
+      "category": "input",
+      "icon": "fa:rss",
+      "iconDark": null,
+      "iconFileName": "fa:rss",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "rundeck",
+      "nodeName": "Rundeck",
+      "category": "transform",
+      "icon": "file:rundeck.png",
+      "iconDark": null,
+      "iconFileName": "rundeck.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "s3",
+      "nodeName": "S3",
+      "category": "output",
+      "icon": "file:s3.png",
+      "iconDark": null,
+      "iconFileName": "s3.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "salesforce",
+      "nodeName": "Salesforce",
+      "category": "output",
+      "icon": "file:salesforce.svg",
+      "iconDark": null,
+      "iconFileName": "salesforce.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "salesforceTrigger",
+      "nodeName": "Salesforce Trigger",
+      "category": "trigger",
+      "icon": "file:salesforce.svg",
+      "iconDark": null,
+      "iconFileName": "salesforce.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "salesmate",
+      "nodeName": "Salesmate",
+      "category": "output",
+      "icon": "file:salesmate.png",
+      "iconDark": null,
+      "iconFileName": "salesmate.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "scheduleTrigger",
+      "nodeName": "Schedule Trigger",
+      "category": "trigger",
+      "icon": "fa:clock",
+      "iconDark": null,
+      "iconFileName": "fa:clock",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "seaTable",
+      "nodeName": "SeaTable",
+      "category": "output",
+      "icon": "file:seaTable.svg",
+      "iconDark": null,
+      "iconFileName": "seaTable.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "seaTableTrigger",
+      "nodeName": "SeaTable Trigger",
+      "category": "trigger",
+      "icon": "file:seaTable.svg",
+      "iconDark": null,
+      "iconFileName": "seaTable.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "securityScorecard",
+      "nodeName": "SecurityScorecard",
+      "category": "transform",
+      "icon": "file:securityScorecard.svg",
+      "iconDark": null,
+      "iconFileName": "securityScorecard.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "segment",
+      "nodeName": "Segment",
+      "category": "output",
+      "icon": "file:segment.svg",
+      "iconDark": null,
+      "iconFileName": "segment.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "emailSend",
+      "nodeName": "Send Email",
+      "category": "output",
+      "icon": "fa:envelope",
+      "iconDark": null,
+      "iconFileName": "fa:envelope",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "sendGrid",
+      "nodeName": "SendGrid",
+      "category": "transform",
+      "icon": "file:sendGrid.svg",
+      "iconDark": null,
+      "iconFileName": "sendGrid.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "sendy",
+      "nodeName": "Sendy",
+      "category": "input",
+      "icon": "file:sendy.png",
+      "iconDark": null,
+      "iconFileName": "sendy.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "sentryIo",
+      "nodeName": "Sentry.io",
+      "category": "output",
+      "icon": "file:sentryio.svg",
+      "iconDark": "file:sentryio.dark.svg",
+      "iconFileName": "sentryio.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "serviceNow",
+      "nodeName": "ServiceNow",
+      "category": "output",
+      "icon": "file:servicenow.svg",
+      "iconDark": null,
+      "iconFileName": "servicenow.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "set",
+      "nodeName": "Set",
+      "category": "input",
+      "icon": "fa:pen",
+      "iconDark": null,
+      "iconFileName": "fa:pen",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "sms77",
+      "nodeName": "seven",
+      "category": "transform",
+      "icon": "file:seven.svg",
+      "iconDark": null,
+      "iconFileName": "seven.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "shopify",
+      "nodeName": "Shopify",
+      "category": "output",
+      "icon": "file:shopify.svg",
+      "iconDark": null,
+      "iconFileName": "shopify.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "shopifyTrigger",
+      "nodeName": "Shopify Trigger",
+      "category": "trigger",
+      "icon": "file:shopify.svg",
+      "iconDark": null,
+      "iconFileName": "shopify.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "signl4",
+      "nodeName": "SIGNL4",
+      "category": "transform",
+      "icon": "file:signl4.png",
+      "iconDark": null,
+      "iconFileName": "signl4.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "simulate",
+      "nodeName": "Simulate",
+      "category": "organization",
+      "icon": "fa:arrow-right",
+      "iconDark": null,
+      "iconFileName": "fa:arrow-right",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "simulateTrigger",
+      "nodeName": "Simulate Trigger",
+      "category": "trigger",
+      "icon": "fa:arrow-right",
+      "iconDark": null,
+      "iconFileName": "fa:arrow-right",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "slack",
+      "nodeName": "Slack",
+      "category": "output",
+      "icon": "file:slack.svg",
+      "iconDark": null,
+      "iconFileName": "slack.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "slackTrigger",
+      "nodeName": "Slack Trigger",
+      "category": "trigger",
+      "icon": "file:slack.svg",
+      "iconDark": null,
+      "iconFileName": "slack.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "snowflake",
+      "nodeName": "Snowflake",
+      "category": "input",
+      "icon": "file:snowflake.svg",
+      "iconDark": null,
+      "iconFileName": "snowflake.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "sort",
+      "nodeName": "Sort",
+      "category": "transform",
+      "icon": "file:sort.svg",
+      "iconDark": null,
+      "iconFileName": "sort.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "splitInBatches",
+      "nodeName": "Split In Batches",
+      "category": "organization",
+      "icon": "fa:th-large",
+      "iconDark": null,
+      "iconFileName": "fa:th-large",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "splitOut",
+      "nodeName": "Split Out",
+      "category": "transform",
+      "icon": "file:splitOut.svg",
+      "iconDark": null,
+      "iconFileName": "splitOut.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "splunk",
+      "nodeName": "Splunk",
+      "category": "transform",
+      "icon": "file:splunk.svg",
+      "iconDark": null,
+      "iconFileName": "splunk.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "spotify",
+      "nodeName": "Spotify",
+      "category": "input",
+      "icon": "file:spotify.svg",
+      "iconDark": null,
+      "iconFileName": "spotify.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "spreadsheetFile",
+      "nodeName": "Spreadsheet File",
+      "category": "transform",
+      "icon": "fa:table",
+      "iconDark": null,
+      "iconFileName": "fa:table",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "sseTrigger",
+      "nodeName": "SSE Trigger",
+      "category": "trigger",
+      "icon": "fa:cloud-download-alt",
+      "iconDark": null,
+      "iconFileName": "fa:cloud-download-alt",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "ssh",
+      "nodeName": "SSH",
+      "category": "input",
+      "icon": "fa:terminal",
+      "iconDark": null,
+      "iconFileName": "fa:terminal",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "stackby",
+      "nodeName": "Stackby",
+      "category": "transform",
+      "icon": "file:stackby.png",
+      "iconDark": null,
+      "iconFileName": "stackby.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "start",
+      "nodeName": "Start",
+      "category": "input",
+      "icon": "fa:play",
+      "iconDark": null,
+      "iconFileName": "fa:play",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "stickyNote",
+      "nodeName": "Sticky Note",
+      "category": "input",
+      "icon": "fa:sticky-note",
+      "iconDark": null,
+      "iconFileName": "fa:sticky-note",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "stopAndError",
+      "nodeName": "Stop and Error",
+      "category": "input",
+      "icon": "fa:exclamation-triangle",
+      "iconDark": null,
+      "iconFileName": "fa:exclamation-triangle",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "storyblok",
+      "nodeName": "Storyblok",
+      "category": "output",
+      "icon": "file:storyblok.svg",
+      "iconDark": null,
+      "iconFileName": "storyblok.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "strapi",
+      "nodeName": "Strapi",
+      "category": "input",
+      "icon": "file:strapi.svg",
+      "iconDark": null,
+      "iconFileName": "strapi.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "strava",
+      "nodeName": "Strava",
+      "category": "input",
+      "icon": "file:strava.svg",
+      "iconDark": null,
+      "iconFileName": "strava.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "stravaTrigger",
+      "nodeName": "Strava Trigger",
+      "category": "trigger",
+      "icon": "file:strava.svg",
+      "iconDark": null,
+      "iconFileName": "strava.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "stripe",
+      "nodeName": "Stripe",
+      "category": "transform",
+      "icon": "file:stripe.svg",
+      "iconDark": null,
+      "iconFileName": "stripe.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "stripeTrigger",
+      "nodeName": "Stripe Trigger",
+      "category": "trigger",
+      "icon": "file:stripe.svg",
+      "iconDark": null,
+      "iconFileName": "stripe.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "summarize",
+      "nodeName": "Summarize",
+      "category": "transform",
+      "icon": "file:summarize.svg",
+      "iconDark": null,
+      "iconFileName": "summarize.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "supabase",
+      "nodeName": "Supabase",
+      "category": "input",
+      "icon": "file:supabase.svg",
+      "iconDark": null,
+      "iconFileName": "supabase.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "surveyMonkeyTrigger",
+      "nodeName": "SurveyMonkey Trigger",
+      "category": "trigger",
+      "icon": "file:surveyMonkey.svg",
+      "iconDark": null,
+      "iconFileName": "surveyMonkey.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "switch",
+      "nodeName": "Switch",
+      "category": "transform",
+      "icon": "fa:map-signs",
+      "iconDark": null,
+      "iconFileName": "fa:map-signs",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "syncroMsp",
+      "nodeName": "SyncroMSP",
+      "category": "output",
+      "icon": "file:syncromsp.png",
+      "iconDark": null,
+      "iconFileName": "syncromsp.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "taiga",
+      "nodeName": "Taiga",
+      "category": "transform",
+      "icon": "file:taiga.svg",
+      "iconDark": null,
+      "iconFileName": "taiga.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "taigaTrigger",
+      "nodeName": "Taiga Trigger",
+      "category": "trigger",
+      "icon": "file:taiga.svg",
+      "iconDark": null,
+      "iconFileName": "taiga.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "tapfiliate",
+      "nodeName": "Tapfiliate",
+      "category": "transform",
+      "icon": "file:tapfiliate.svg",
+      "iconDark": null,
+      "iconFileName": "tapfiliate.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "telegram",
+      "nodeName": "Telegram",
+      "category": "output",
+      "icon": "file:telegram.svg",
+      "iconDark": null,
+      "iconFileName": "telegram.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "telegramTrigger",
+      "nodeName": "Telegram Trigger",
+      "category": "trigger",
+      "icon": "file:telegram.svg",
+      "iconDark": null,
+      "iconFileName": "telegram.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "theHive",
+      "nodeName": "TheHive",
+      "category": "transform",
+      "icon": "file:thehive.svg",
+      "iconDark": null,
+      "iconFileName": "thehive.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "theHiveProject",
+      "nodeName": "TheHive 5",
+      "category": "transform",
+      "icon": "file:thehiveproject.svg",
+      "iconDark": null,
+      "iconFileName": "thehiveproject.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "theHiveProjectTrigger",
+      "nodeName": "TheHive 5 Trigger",
+      "category": "trigger",
+      "icon": "file:thehiveproject.svg",
+      "iconDark": null,
+      "iconFileName": "thehiveproject.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "theHiveTrigger",
+      "nodeName": "TheHive Trigger",
+      "category": "trigger",
+      "icon": "file:thehive.svg",
+      "iconDark": null,
+      "iconFileName": "thehive.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "timescaleDb",
+      "nodeName": "TimescaleDB",
+      "category": "input",
+      "icon": "file:timescaleDb.svg",
+      "iconDark": "file:timescaleDb.dark.svg",
+      "iconFileName": "timescaleDb.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "todoist",
+      "nodeName": "Todoist",
+      "category": "output",
+      "icon": "file:todoist.svg",
+      "iconDark": null,
+      "iconFileName": "todoist.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "togglTrigger",
+      "nodeName": "Toggl Trigger",
+      "category": "trigger",
+      "icon": "file:toggl.png",
+      "iconDark": null,
+      "iconFileName": "toggl.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "totp",
+      "nodeName": "TOTP",
+      "category": "transform",
+      "icon": "fa:fingerprint",
+      "iconDark": null,
+      "iconFileName": "fa:fingerprint",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "timeSaved",
+      "nodeName": "Track Time Saved",
+      "category": "organization",
+      "icon": "fa:timer",
+      "iconDark": null,
+      "iconFileName": "fa:timer",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "travisCi",
+      "nodeName": "TravisCI",
+      "category": "output",
+      "icon": "file:travisci.png",
+      "iconDark": null,
+      "iconFileName": "travisci.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "trello",
+      "nodeName": "Trello",
+      "category": "transform",
+      "icon": "file:trello.svg",
+      "iconDark": null,
+      "iconFileName": "trello.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "trelloTrigger",
+      "nodeName": "Trello Trigger",
+      "category": "trigger",
+      "icon": "file:trello.svg",
+      "iconDark": null,
+      "iconFileName": "trello.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "twake",
+      "nodeName": "Twake",
+      "category": "transform",
+      "icon": "file:twake.png",
+      "iconDark": null,
+      "iconFileName": "twake.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "twilio",
+      "nodeName": "Twilio",
+      "category": "transform",
+      "icon": "file:twilio.svg",
+      "iconDark": null,
+      "iconFileName": "twilio.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "twilioTrigger",
+      "nodeName": "Twilio Trigger",
+      "category": "trigger",
+      "icon": "file:twilio.svg",
+      "iconDark": null,
+      "iconFileName": "twilio.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "twist",
+      "nodeName": "Twist",
+      "category": "input",
+      "icon": "file:twist.png",
+      "iconDark": null,
+      "iconFileName": "twist.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "typeformTrigger",
+      "nodeName": "Typeform Trigger",
+      "category": "trigger",
+      "icon": "file:typeform.svg",
+      "iconDark": "file:typeform.dark.svg",
+      "iconFileName": "typeform.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "unleashedSoftware",
+      "nodeName": "Unleashed Software",
+      "category": "transform",
+      "icon": "file:unleashedSoftware.png",
+      "iconDark": null,
+      "iconFileName": "unleashedSoftware.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "uplead",
+      "nodeName": "Uplead",
+      "category": "output",
+      "icon": "file:uplead.png",
+      "iconDark": null,
+      "iconFileName": "uplead.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "uproc",
+      "nodeName": "uProc",
+      "category": "output",
+      "icon": "file:uproc.png",
+      "iconDark": null,
+      "iconFileName": "uproc.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "uptimeRobot",
+      "nodeName": "UptimeRobot",
+      "category": "output",
+      "icon": "file:uptimerobot.svg",
+      "iconDark": null,
+      "iconFileName": "uptimerobot.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "urlScanIo",
+      "nodeName": "urlscan.io",
+      "category": "transform",
+      "icon": "file:urlScanIo.svg",
+      "iconDark": null,
+      "iconFileName": "urlScanIo.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "venafiTlsProtectCloud",
+      "nodeName": "Venafi TLS Protect Cloud",
+      "category": "input",
+      "icon": "file:../venafi.svg",
+      "iconDark": null,
+      "iconFileName": "../venafi.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "venafiTlsProtectCloudTrigger",
+      "nodeName": "Venafi TLS Protect Cloud Trigger",
+      "category": "trigger",
+      "icon": "file:../venafi.svg",
+      "iconDark": null,
+      "iconFileName": "../venafi.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "venafiTlsProtectDatacenter",
+      "nodeName": "Venafi TLS Protect Datacenter",
+      "category": "input",
+      "icon": "file:../venafi.svg",
+      "iconDark": null,
+      "iconFileName": "../venafi.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "venafiTlsProtectDatacenterTrigger",
+      "nodeName": "Venafi TLS Protect Datacenter Trigger",
+      "category": "trigger",
+      "icon": "file:../venafi.svg",
+      "iconDark": null,
+      "iconFileName": "../venafi.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "vero",
+      "nodeName": "Vero",
+      "category": "output",
+      "icon": "file:vero.svg",
+      "iconDark": null,
+      "iconFileName": "vero.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "vonage",
+      "nodeName": "Vonage",
+      "category": "input",
+      "icon": "file:vonage.svg",
+      "iconDark": "file:vonage.dark.svg",
+      "iconFileName": "vonage.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "wait",
+      "nodeName": "Wait",
+      "category": "organization",
+      "icon": "fa:pause-circle",
+      "iconDark": null,
+      "iconFileName": "fa:pause-circle",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "ciscoWebex",
+      "nodeName": "Webex by Cisco",
+      "category": "transform",
+      "icon": "file:ciscoWebex.png",
+      "iconDark": null,
+      "iconFileName": "ciscoWebex.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "ciscoWebexTrigger",
+      "nodeName": "Webex by Cisco Trigger",
+      "category": "trigger",
+      "icon": "file:ciscoWebex.png",
+      "iconDark": null,
+      "iconFileName": "ciscoWebex.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "webflow",
+      "nodeName": "Webflow",
+      "category": "transform",
+      "icon": "file:webflow.svg",
+      "iconDark": null,
+      "iconFileName": "webflow.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "webflowTrigger",
+      "nodeName": "Webflow Trigger",
+      "category": "trigger",
+      "icon": "file:webflow.svg",
+      "iconDark": null,
+      "iconFileName": "webflow.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "webhook",
+      "nodeName": "Webhook",
+      "category": "trigger",
+      "icon": "file:webhook.svg",
+      "iconDark": "file:webhook.dark.svg",
+      "iconFileName": "webhook.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "wekan",
+      "nodeName": "Wekan",
+      "category": "transform",
+      "icon": "file:wekan.svg",
+      "iconDark": null,
+      "iconFileName": "wekan.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "whatsApp",
+      "nodeName": "WhatsApp Business Cloud",
+      "category": "output",
+      "icon": "file:whatsapp.svg",
+      "iconDark": null,
+      "iconFileName": "whatsapp.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "whatsAppTrigger",
+      "nodeName": "WhatsApp Trigger",
+      "category": "trigger",
+      "icon": "file:whatsapp.svg",
+      "iconDark": null,
+      "iconFileName": "whatsapp.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "wise",
+      "nodeName": "Wise",
+      "category": "transform",
+      "icon": "file:wise.svg",
+      "iconDark": null,
+      "iconFileName": "wise.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "wiseTrigger",
+      "nodeName": "Wise Trigger",
+      "category": "trigger",
+      "icon": "file:wise.svg",
+      "iconDark": null,
+      "iconFileName": "wise.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "wooCommerce",
+      "nodeName": "WooCommerce",
+      "category": "output",
+      "icon": "file:wooCommerce.svg",
+      "iconDark": null,
+      "iconFileName": "wooCommerce.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "wooCommerceTrigger",
+      "nodeName": "WooCommerce Trigger",
+      "category": "trigger",
+      "icon": "file:wooCommerce.svg",
+      "iconDark": null,
+      "iconFileName": "wooCommerce.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "wordpress",
+      "nodeName": "Wordpress",
+      "category": "output",
+      "icon": "file:wordpress.svg",
+      "iconDark": null,
+      "iconFileName": "wordpress.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "workableTrigger",
+      "nodeName": "Workable Trigger",
+      "category": "trigger",
+      "icon": "file:workable.png",
+      "iconDark": null,
+      "iconFileName": "workable.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "workflowTrigger",
+      "nodeName": "Workflow Trigger",
+      "category": "trigger",
+      "icon": "fa:network-wired",
+      "iconDark": null,
+      "iconFileName": "fa:network-wired",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "writeBinaryFile",
+      "nodeName": "Write Binary File",
+      "category": "output",
+      "icon": "fa:file-export",
+      "iconDark": null,
+      "iconFileName": "fa:file-export",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "wufooTrigger",
+      "nodeName": "Wufoo Trigger",
+      "category": "trigger",
+      "icon": "file:wufoo.png",
+      "iconDark": null,
+      "iconFileName": "wufoo.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "twitter",
+      "nodeName": "X (Formerly Twitter)",
+      "category": "output",
+      "icon": "file:x.svg",
+      "iconDark": "file:x.dark.svg",
+      "iconFileName": "x.svg",
+      "hasLightDarkIcons": true
+    },
+    {
+      "nodeId": "xero",
+      "nodeName": "Xero",
+      "category": "output",
+      "icon": "file:xero.svg",
+      "iconDark": null,
+      "iconFileName": "xero.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "xml",
+      "nodeName": "XML",
+      "category": "transform",
+      "icon": "fa:file-code",
+      "iconDark": null,
+      "iconFileName": "fa:file-code",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "yourls",
+      "nodeName": "Yourls",
+      "category": "input",
+      "icon": "file:yourls.png",
+      "iconDark": null,
+      "iconFileName": "yourls.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "youTube",
+      "nodeName": "YouTube",
+      "category": "input",
+      "icon": "file:youTube.png",
+      "iconDark": null,
+      "iconFileName": "youTube.png",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "zammad",
+      "nodeName": "Zammad",
+      "category": "input",
+      "icon": "file:zammad.svg",
+      "iconDark": null,
+      "iconFileName": "zammad.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "zendesk",
+      "nodeName": "Zendesk",
+      "category": "output",
+      "icon": "file:zendesk.svg",
+      "iconDark": null,
+      "iconFileName": "zendesk.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "zendeskTrigger",
+      "nodeName": "Zendesk Trigger",
+      "category": "trigger",
+      "icon": "file:zendesk.svg",
+      "iconDark": null,
+      "iconFileName": "zendesk.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "zohoCrm",
+      "nodeName": "Zoho CRM",
+      "category": "transform",
+      "icon": "file:zoho.svg",
+      "iconDark": null,
+      "iconFileName": "zoho.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "zoom",
+      "nodeName": "Zoom",
+      "category": "input",
+      "icon": "file:zoom.svg",
+      "iconDark": null,
+      "iconFileName": "zoom.svg",
+      "hasLightDarkIcons": false
+    },
+    {
+      "nodeId": "zulip",
+      "nodeName": "Zulip",
+      "category": "output",
+      "icon": "file:zulip.svg",
+      "iconDark": null,
+      "iconFileName": "zulip.svg",
+      "hasLightDarkIcons": false
+    }
+  ]
+}
